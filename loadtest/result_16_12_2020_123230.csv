@@ -1,0 +1,801 @@
+timeStamp,elapsed,label,responseCode,responseMessage,dataType,success,failureMessage,bytes,Latency,IdleTime,Connect
+1608071550815,2740,Home,200,,text,true,,8822,2731,0,13
+1608071550864,2692,Home,200,,text,true,,8822,2682,0,1
+1608071551162,2394,Home,500,,text,false,,7107,2384,0,0
+1608071551662,1894,Home,200,,text,true,,8822,1885,0,1
+1608071551563,1993,Home,200,,text,true,,8822,1984,0,2
+1608071550963,2593,Home,200,,text,true,,8822,2584,0,0
+1608071551062,2494,Home,500,,text,false,,7107,2485,0,1
+1608071551462,2094,Home,500,,text,false,,7107,2085,0,0
+1608071551362,2194,Home,200,,text,true,,8822,2185,0,1
+1608071551261,2295,Home,200,,text,true,,8822,2285,0,1
+1608071553576,61855,Login,200,,text,true,,4380,61820,0,4
+1608071553576,61858,Login,200,,text,true,,4380,61819,0,0
+1608071615433,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071615437,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071553576,61866,Login,200,,text,true,,4379,61820,0,0
+1608071553575,61868,Login,200,,text,true,,4380,61820,0,0
+1608071553575,61871,Login,200,,text,true,,4381,61820,0,4
+1608071615447,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071553575,61873,Login,200,,text,true,,4381,61821,0,4
+1608071615448,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071615449,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071615450,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071553576,61878,Login,200,,text,true,,4381,61819,0,0
+1608071553575,61881,Login,200,,text,true,,4380,61820,0,0
+1608071553575,62018,Login,200,,text,true,,4379,61821,0,0
+1608071553575,62031,Login,200,,text,true,,4381,61821,0,0
+1608071615444,168,List Products,500,,text,false,,6451,168,0,0
+1608071615612,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071615435,178,List Products,500,,text,false,,6451,178,0,0
+1608071615614,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071615443,173,List Products,500,,text,false,,6451,173,0,0
+1608071615455,161,List Products,500,,text,false,,6451,161,0,0
+1608071615616,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071615456,161,List Products,500,,text,false,,6451,161,0,0
+1608071615617,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071615618,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071615614,6,Add Product to Cart,500,,text,false,,6390,5,0,1
+1608071615450,170,Add Product to Cart,500,,text,false,,6390,170,0,0
+1608071615620,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071615621,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071615451,172,Add Product to Cart,500,,text,false,,6390,172,0,0
+1608071615438,185,Add Product to Cart,500,,text,false,,6390,185,0,0
+1608071615623,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071615624,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071615613,12,Add Product to Cart,500,,text,false,,6390,12,0,1
+1608071615625,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071615617,11,Add Product to Cart,500,,text,false,,6390,11,0,1
+1608071615629,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071615624,7,Add Product 2 to Cart,500,,text,false,,6390,7,0,1
+1608071615621,10,Add Product 2 to Cart,500,,text,false,,6390,10,0,1
+1608071615594,37,List Products,500,,text,false,,6451,37,0,0
+1608071615632,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071615618,14,Add Product to Cart,500,,text,false,,6390,14,0,0
+1608071615633,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071615624,9,Add Product 2 to Cart,500,,text,false,,6390,9,0,0
+1608071615607,27,List Products,500,,text,false,,6451,27,0,0
+1608071615618,16,Add Product to Cart,500,,text,false,,6390,16,0,1
+1608071615621,13,Add Product 2 to Cart,500,,text,false,,6390,13,0,0
+1608071615634,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071615636,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=4&page=${page_id},text,false,,1225,0,0,0
+1608071615630,9,Add Product 2 to Cart,500,,text,false,,6390,9,0,0
+1608071615632,9,Add Product to Cart,500,,text,false,,6390,9,0,1
+1608071615637,5,Add Product 2 to Cart,500,,text,false,,6390,5,0,0
+1608071615626,15,Add Product 2 to Cart,500,,text,false,,6390,15,0,1
+1608071615635,9,Add Product to Cart,500,,text,false,,6390,8,0,1
+1608071615643,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=3&page=${page_id},text,false,,1225,0,0,0
+1608071615644,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=3&page=${page_id},text,false,,1225,0,0,0
+1608071615633,13,Add Product 2 to Cart,500,,text,false,,6390,13,0,6
+1608071615645,3,Add Product 2 to Cart,500,,text,false,,6390,3,0,0
+1608071615644,11,Add Product 2 to Cart,500,,text,false,,6390,11,0,0
+1608071615645,67,Logout,200,,text,true,,4755,20,0,0
+1608071615631,82,Logout,200,,text,true,,4755,30,0,1
+1608071615640,74,Logout,200,,text,true,,4755,30,0,2
+1608071615633,85,Logout,200,,text,true,,4755,37,0,1
+1608071615635,91,Logout,200,,text,true,,4755,27,0,1
+1608071615643,88,Logout,200,,text,true,,4755,28,0,1
+1608071615631,104,Logout,200,,text,true,,4755,29,0,1
+1608071615647,96,Logout,200,,text,true,,4755,27,0,1
+1608071615649,97,Logout,200,,text,true,,4755,23,0,0
+1608071615656,90,Logout,200,,text,true,,4755,19,0,0
+1608071615719,40,Home,200,,text,true,,3098,40,0,0
+1608071615713,46,Home,200,,text,true,,3098,46,0,0
+1608071615714,49,Home,200,,text,true,,3098,49,0,0
+1608071615727,37,Home,200,,text,true,,3098,37,0,0
+1608071615714,57,Home,200,,text,true,,3098,57,0,0
+1608071615732,42,Home,200,,text,true,,3098,42,0,0
+1608071615744,30,Home,200,,text,true,,3098,30,0,0
+1608071615736,38,Home,200,,text,true,,3098,38,0,0
+1608071615747,32,Home,200,,text,true,,3098,32,0,0
+1608071615747,44,Home,200,,text,true,,3098,44,0,0
+1608071615760,690,Login,200,,text,true,,4642,28,0,0
+1608071615764,687,Login,200,,text,true,,4642,33,0,0
+1608071615779,672,Login,200,,text,true,,4642,35,0,0
+1608071615791,660,Login,200,,text,true,,4642,22,0,0
+1608071616451,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071615772,679,Login,200,,text,true,,4642,41,0,0
+1608071616452,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071615764,688,Login,200,,text,true,,4642,20,0,0
+1608071615774,678,Login,200,,text,true,,4642,27,0,0
+1608071616452,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071616453,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071615760,693,Login,200,,text,true,,4642,50,0,0
+1608071615774,685,Login,200,,text,true,,4642,39,0,0
+1608071616453,7,Add Product to Cart,500,,text,false,,6390,7,0,0
+1608071615774,685,Login,200,,text,true,,4642,39,0,0
+1608071616460,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071616460,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071616460,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071616452,12,Add Product to Cart,500,,text,false,,6390,12,0,0
+1608071616460,4,Add Product 2 to Cart,500,,text,false,,6390,4,0,1
+1608071616451,13,List Products,500,,text,false,,6474,13,0,0
+1608071616451,13,List Products,500,,text,false,,6474,13,0,0
+1608071616451,13,List Products,500,,text,false,,6474,13,0,0
+1608071616464,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071616464,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071616465,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071616465,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071616461,5,Add Product to Cart,500,,text,false,,6390,5,0,0
+1608071616466,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071616465,17,Add Product 2 to Cart,500,,text,false,,6390,17,0,1
+1608071616452,30,List Products,500,,text,false,,6474,30,0,0
+1608071616465,17,Add Product to Cart,500,,text,false,,6390,17,0,1
+1608071616465,17,Add Product to Cart,500,,text,false,,6390,17,0,1
+1608071616452,30,List Products,500,,text,false,,6474,30,0,0
+1608071616483,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=3&page=${page_id},text,false,,1225,0,0,0
+1608071616483,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071616460,23,List Products,500,,text,false,,6474,23,0,0
+1608071616484,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071616465,19,Add Product to Cart,500,,text,false,,6390,19,0,1
+1608071616467,18,Add Product 2 to Cart,500,,text,false,,6390,18,0,16
+1608071616483,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071616454,28,List Products,500,,text,false,,6474,28,0,0
+1608071616485,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=3&page=${page_id},text,false,,1225,0,0,0
+1608071616487,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071616484,4,Add Product 2 to Cart,500,,text,false,,6390,4,0,0
+1608071616484,4,Add Product 2 to Cart,500,,text,false,,6390,4,0,0
+1608071616487,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071616484,6,Add Product to Cart,500,,text,false,,6390,3,0,1
+1608071616487,4,Add Product to Cart,500,,text,false,,6390,4,0,1
+1608071616491,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=4&page=${page_id},text,false,,1225,0,0,0
+1608071616491,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071616489,4,Add Product to Cart,500,,text,false,,6390,3,0,1
+1608071616490,3,Add Product 2 to Cart,500,,text,false,,6390,2,0,0
+1608071616493,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071616491,3,Add Product 2 to Cart,500,,text,false,,6390,3,0,1
+1608071616491,4,Add Product 2 to Cart,500,,text,false,,6390,4,0,1
+1608071616488,9,Add Product to Cart,500,,text,false,,6390,9,0,0
+1608071616498,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071616493,5,Add Product 2 to Cart,500,,text,false,,6390,5,0,1
+1608071616498,6,Add Product 2 to Cart,500,,text,false,,6390,5,0,1
+1608071616465,46,Logout,200,,text,true,,4829,17,0,0
+1608071616483,39,Logout,200,,text,true,,4829,8,0,1
+1608071616488,41,Logout,200,,text,true,,4829,12,0,0
+1608071616487,47,Logout,200,,text,true,,4829,13,0,2
+1608071616512,24,Home,200,,text,true,,3098,24,0,0
+1608071616488,48,Logout,200,,text,true,,4495,12,0,0
+1608071616495,46,Logout,200,,text,true,,4829,15,0,1
+1608071616498,43,Logout,200,,text,true,,4829,17,0,1
+1608071616493,50,Logout,200,,text,true,,4829,21,0,1
+1608071616495,51,Logout,200,,text,true,,4829,14,0,0
+1608071616523,26,Home,200,,text,true,,3098,26,0,0
+1608071616535,19,Home,200,,text,true,,3098,19,0,0
+1608071616530,26,Home,200,,text,true,,3098,26,0,0
+1608071616538,18,Home,200,,text,true,,3098,18,0,0
+1608071616504,57,Logout,200,,text,true,,4829,11,0,1
+1608071616537,129,Login,200,,text,true,,4642,24,0,0
+1608071616701,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071616702,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071616702,3,Add Product to Cart,500,,text,false,,6390,3,0,0
+1608071616562,109,Home,200,,text,true,,3098,109,0,0
+1608071616542,129,Home,200,,text,true,,3098,129,0,0
+1608071616542,129,Home,200,,text,true,,3098,129,0,0
+1608071616706,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071616543,129,Home,200,,text,true,,3098,129,0,0
+1608071616546,126,Home,200,,text,true,,3098,126,0,0
+1608071616706,4,Add Product 2 to Cart,500,,text,false,,6390,4,0,0
+1608071616550,176,Login,200,,text,true,,4642,121,0,0
+1608071616727,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071616727,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071616727,2,Add Product to Cart,500,,text,false,,6390,2,0,0
+1608071616730,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071616731,7,Add Product 2 to Cart,500,,text,false,,6390,7,0,0
+1608071616557,181,Login,200,,text,true,,4642,124,0,0
+1608071616554,188,Login,200,,text,true,,4642,131,0,0
+1608071616742,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071616743,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071616557,189,Login,200,,text,true,,4642,131,0,0
+1608071616743,4,Add Product to Cart,500,,text,false,,6390,4,0,0
+1608071616747,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071616748,3,Add Product 2 to Cart,500,,text,false,,6390,3,0,0
+1608071616706,49,Login,200,,text,true,,4642,21,0,0
+1608071616711,49,Logout,200,,text,true,,4829,17,0,0
+1608071616746,16,List Products,500,,text,false,,6474,16,0,0
+1608071616763,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071616707,58,Login,200,,text,true,,4642,25,0,0
+1608071616706,59,Login,200,,text,true,,4642,27,0,0
+1608071616763,3,Add Product to Cart,500,,text,false,,6390,3,0,0
+1608071616767,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=3&page=${page_id},text,false,,1225,0,0,0
+1608071616707,62,Login,200,,text,true,,4642,26,0,0
+1608071616767,3,Add Product 2 to Cart,500,,text,false,,6390,3,0,1
+1608071616706,70,Login,200,,text,true,,4642,27,0,0
+1608071616738,40,List Products,500,,text,false,,6474,40,0,0
+1608071616778,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071616770,12,List Products,500,,text,false,,6474,12,0,0
+1608071616761,21,Home,200,,text,true,,3098,21,0,0
+1608071616782,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071616779,5,Add Product to Cart,500,,text,false,,6390,5,0,0
+1608071616755,29,List Products,500,,text,false,,6474,29,0,0
+1608071616784,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071616765,19,List Products,500,,text,false,,6474,19,0,0
+1608071616784,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071616785,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071616783,4,Add Product to Cart,500,,text,false,,6390,4,0,0
+1608071616787,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=4&page=${page_id},text,false,,1225,0,0,0
+1608071616765,24,List Products,500,,text,false,,6474,24,0,0
+1608071616789,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071616788,5,Add Product 2 to Cart,500,,text,false,,6390,5,0,0
+1608071616785,9,Add Product 2 to Cart,500,,text,false,,6390,9,0,0
+1608071616785,10,Add Product to Cart,500,,text,false,,6390,9,0,0
+1608071616752,43,Logout,200,,text,true,,4829,14,0,0
+1608071616795,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071616789,7,Add Product to Cart,500,,text,false,,6390,7,0,1
+1608071616785,11,Add Product to Cart,500,,text,false,,6390,11,0,0
+1608071616797,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071616798,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=3&page=${page_id},text,false,,1225,0,0,0
+1608071616770,28,Logout,200,,text,true,,4495,9,0,1
+1608071616777,22,List Products,500,,text,false,,6474,22,0,0
+1608071616799,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071616738,61,Logout,200,,text,true,,4829,15,0,1
+1608071616795,5,Add Product 2 to Cart,500,,text,false,,6390,5,0,1
+1608071616797,4,Add Product 2 to Cart,500,,text,false,,6390,4,0,1
+1608071616800,6,Add Product to Cart,500,,text,false,,6390,6,0,0
+1608071616807,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071616799,9,Add Product 2 to Cart,500,,text,false,,6390,9,0,0
+1608071616807,9,Add Product 2 to Cart,500,,text,false,,6390,9,0,1
+1608071616782,44,Login,200,,text,true,,4642,19,0,0
+1608071616826,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071616827,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071616827,2,Add Product to Cart,500,,text,false,,6390,2,0,0
+1608071616830,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071616830,4,Add Product 2 to Cart,500,,text,false,,6390,3,0,1
+1608071616795,39,Home,200,,text,true,,3098,38,0,0
+1608071616794,42,Logout,200,,text,true,,4829,11,0,1
+1608071616799,41,Home,200,,text,true,,3098,41,0,0
+1608071616800,41,Home,200,,text,true,,3098,41,0,0
+1608071616795,49,Logout,200,,text,true,,4829,11,0,0
+1608071616801,48,Logout,200,,text,true,,4829,25,0,0
+1608071616800,52,Logout,200,,text,true,,4829,23,0,0
+1608071616817,44,Logout,200,,text,true,,4829,14,0,1
+1608071616837,29,Home,200,,text,true,,3098,28,0,0
+1608071616834,32,Login,200,,text,true,,4642,15,0,0
+1608071616866,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071616866,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071616867,3,Add Product to Cart,500,,text,false,,6390,3,0,0
+1608071616834,36,Logout,200,,text,true,,4829,14,0,1
+1608071616870,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071616808,64,Logout,200,,text,true,,4829,27,0,1
+1608071616849,24,Home,200,,text,true,,3098,24,0,0
+1608071616871,3,Add Product 2 to Cart,500,,text,false,,6390,3,0,0
+1608071616853,23,Home,200,,text,true,,3098,23,0,0
+1608071616845,34,Home,200,,text,true,,3098,34,0,0
+1608071616862,21,Home,200,,text,true,,3098,21,0,0
+1608071616842,45,Login,200,,text,true,,4642,18,0,0
+1608071616887,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071616888,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071616840,53,Login,200,,text,true,,4642,21,0,0
+1608071616873,20,Home,200,,text,true,,3098,20,0,0
+1608071616888,8,Add Product to Cart,500,,text,false,,6390,8,0,0
+1608071616896,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071616870,28,Home,200,,text,true,,3098,28,0,0
+1608071616897,3,Add Product 2 to Cart,500,,text,false,,6390,3,0,0
+1608071616894,173,List Products,500,,text,false,,6474,173,0,0
+1608071616866,201,Login,200,,text,true,,4642,17,0,0
+1608071617068,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071616875,194,Logout,200,,text,true,,4829,8,0,0
+1608071617068,3,Add Product to Cart,500,,text,false,,6390,3,0,0
+1608071617071,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=3&page=${page_id},text,false,,1225,0,0,0
+1608071616900,177,Logout,200,,text,true,,4829,157,0,1
+1608071617072,7,Add Product 2 to Cart,500,,text,false,,6390,7,0,0
+1608071616884,195,Login,200,,text,true,,4642,20,0,0
+1608071616880,199,Login,200,,text,true,,4642,22,0,0
+1608071616877,205,Login,200,,text,true,,4642,10,0,0
+1608071616874,210,Login,200,,text,true,,4642,14,0,0
+1608071617068,18,List Products,500,,text,false,,6474,18,0,0
+1608071617087,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071616894,196,Login,200,,text,true,,4642,161,0,0
+1608071616899,191,Login,200,,text,true,,4642,171,0,0
+1608071617091,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071617091,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617087,4,Add Product to Cart,500,,text,false,,6390,4,0,1
+1608071617092,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=4&page=${page_id},text,false,,1225,0,0,0
+1608071617070,24,Home,200,,text,true,,3098,24,0,0
+1608071617091,4,Add Product to Cart,500,,text,false,,6390,4,0,0
+1608071617092,3,Add Product 2 to Cart,500,,text,false,,6390,3,0,0
+1608071617095,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071617080,17,List Products,500,,text,false,,6474,17,0,0
+1608071617098,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617084,14,List Products,500,,text,false,,6474,14,0,0
+1608071617099,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617095,5,Add Product 2 to Cart,500,,text,false,,6390,5,0,1
+1608071617079,22,List Products,500,,text,false,,6474,22,0,0
+1608071617101,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617098,4,Add Product to Cart,500,,text,false,,6390,3,0,1
+1608071617082,19,List Products,500,,text,false,,6474,19,0,0
+1608071617102,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071617102,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617099,3,Add Product to Cart,500,,text,false,,6390,3,0,1
+1608071617103,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071617102,4,Add Product 2 to Cart,500,,text,false,,6390,3,0,0
+1608071617102,4,Add Product to Cart,500,,text,false,,6390,3,0,1
+1608071617106,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071617102,4,Add Product to Cart,500,,text,false,,6390,4,0,0
+1608071617107,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071617078,30,Home,200,,text,true,,3098,30,0,0
+1608071617103,6,Add Product 2 to Cart,500,,text,false,,6390,6,0,0
+1608071617091,18,List Products,500,,text,false,,6474,18,0,0
+1608071617110,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617107,3,Add Product 2 to Cart,500,,text,false,,6390,3,0,1
+1608071617110,3,Add Product to Cart,500,,text,false,,6390,3,0,1
+1608071617106,8,Add Product 2 to Cart,500,,text,false,,6390,8,0,1
+1608071617114,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=3&page=${page_id},text,false,,1225,0,0,0
+1608071617114,3,Add Product 2 to Cart,500,,text,false,,6390,3,0,0
+1608071617079,42,Logout,200,,text,true,,4495,9,0,1
+1608071617109,42,Login,200,,text,true,,4642,17,0,0
+1608071617111,40,Logout,200,,text,true,,4829,15,0,0
+1608071617151,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071617152,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617152,9,Add Product to Cart,500,,text,false,,6390,8,0,0
+1608071617161,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071617094,67,Login,200,,text,true,,4642,36,0,0
+1608071617161,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071617162,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617161,4,Add Product 2 to Cart,500,,text,false,,6390,3,0,1
+1608071617162,5,Add Product to Cart,500,,text,false,,6390,5,0,0
+1608071617167,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071617114,56,Logout,200,,text,true,,4829,12,0,0
+1608071617095,75,Logout,200,,text,true,,4829,34,0,1
+1608071617167,5,Add Product 2 to Cart,500,,text,false,,6390,4,0,1
+1608071617101,72,Logout,200,,text,true,,4829,21,0,0
+1608071617121,52,Home,200,,text,true,,3098,52,0,0
+1608071617110,64,Logout,200,,text,true,,4829,22,0,0
+1608071617106,77,Logout,200,,text,true,,4829,30,0,0
+1608071617118,69,Logout,200,,text,true,,4829,20,0,0
+1608071617174,21,Home,200,,text,true,,3098,21,0,0
+1608071617174,21,Home,200,,text,true,,3098,21,0,0
+1608071617151,45,Home,200,,text,true,,3098,45,0,0
+1608071617171,26,Home,200,,text,true,,3098,26,0,0
+1608071617165,34,Logout,200,,text,true,,4829,11,0,1
+1608071617184,16,Home,200,,text,true,,3098,16,0,0
+1608071617172,30,Logout,200,,text,true,,4829,12,0,0
+1608071617188,15,Home,200,,text,true,,3098,15,0,0
+1608071617174,30,Login,200,,text,true,,4642,8,0,0
+1608071617171,34,Home,200,,text,true,,3098,34,0,0
+1608071617204,17,List Products,500,,text,false,,6140,17,0,0
+1608071617221,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617199,25,Home,200,,text,true,,3098,24,0,0
+1608071617202,22,Home,200,,text,true,,3098,22,0,0
+1608071617222,4,Add Product to Cart,500,,text,false,,6390,4,0,0
+1608071617226,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=3&page=${page_id},text,false,,1225,0,0,0
+1608071617227,6,Add Product 2 to Cart,500,,text,false,,6390,6,0,0
+1608071617196,45,Login,200,,text,true,,4642,24,0,0
+1608071617241,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071617241,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617197,45,Login,200,,text,true,,4642,23,0,0
+1608071617197,46,Login,200,,text,true,,4642,19,0,0
+1608071617242,2,Add Product to Cart,500,,text,false,,6390,2,0,0
+1608071617244,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071617200,399,Login,200,,text,true,,4642,22,0,0
+1608071617196,403,Login,200,,text,true,,4642,27,0,0
+1608071617206,393,Login,200,,text,true,,4642,21,0,0
+1608071617244,361,Add Product 2 to Cart,500,,text,false,,6390,361,0,1
+1608071617244,364,List Products,500,,text,false,,6474,364,0,0
+1608071617203,405,Login,200,,text,true,,4642,24,0,0
+1608071617608,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617225,387,Login,200,,text,true,,4642,12,0,0
+1608071617242,371,List Products,500,,text,false,,6474,371,0,0
+1608071617608,5,Add Product to Cart,500,,text,false,,6390,5,0,1
+1608071617613,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617613,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071617613,3,Add Product 2 to Cart,500,,text,false,,6390,3,0,1
+1608071617618,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071617618,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617613,7,Add Product to Cart,500,,text,false,,6390,7,0,1
+1608071617620,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=4&page=${page_id},text,false,,1225,0,0,0
+1608071617618,8,Add Product to Cart,500,,text,false,,6390,8,0,0
+1608071617626,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071617599,30,List Products,500,,text,false,,6474,30,0,0
+1608071617630,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617627,4,Add Product 2 to Cart,500,,text,false,,6390,4,0,0
+1608071617621,11,Add Product 2 to Cart,500,,text,false,,6390,11,0,0
+1608071617630,4,Add Product to Cart,500,,text,false,,6390,4,0,1
+1608071617635,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071617635,3,Add Product 2 to Cart,500,,text,false,,6390,3,0,1
+1608071617608,30,List Products,500,,text,false,,6474,30,0,0
+1608071617639,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617599,41,List Products,500,,text,false,,6474,41,0,0
+1608071617640,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617639,3,Add Product to Cart,500,,text,false,,6390,3,0,0
+1608071617642,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=3&page=${page_id},text,false,,1225,0,0,0
+1608071617224,419,Login,200,,text,true,,4642,18,0,0
+1608071617643,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071617644,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617641,3,Add Product to Cart,500,,text,false,,6390,3,0,0
+1608071617644,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071617234,411,Logout,200,,text,true,,4495,8,0,0
+1608071617599,47,List Products,500,,text,false,,6474,47,0,0
+1608071617644,3,Add Product to Cart,500,,text,false,,6390,2,0,0
+1608071617647,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617647,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071617643,5,Add Product 2 to Cart,500,,text,false,,6390,5,0,0
+1608071617645,4,Add Product 2 to Cart,500,,text,false,,6390,4,0,0
+1608071617605,46,Logout,200,,text,true,,4829,22,0,1
+1608071617647,7,Add Product 2 to Cart,500,,text,false,,6390,6,0,0
+1608071617647,11,Add Product to Cart,500,,text,false,,6390,10,0,0
+1608071617658,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071617616,44,Logout,200,,text,true,,4829,18,0,1
+1608071617632,32,Logout,200,,text,true,,4829,12,0,0
+1608071617658,8,Add Product 2 to Cart,500,,text,false,,6390,8,0,1
+1608071617646,22,Home,200,,text,true,,3098,22,0,0
+1608071617632,37,Logout,200,,text,true,,4829,16,0,0
+1608071617651,22,Home,200,,text,true,,3098,22,0,0
+1608071617639,37,Logout,200,,text,true,,4829,12,0,0
+1608071617648,37,Logout,200,,text,true,,4829,20,0,0
+1608071617665,25,Home,200,,text,true,,3098,25,0,0
+1608071617649,41,Logout,200,,text,true,,4829,18,0,1
+1608071617677,13,Home,200,,text,true,,3098,13,0,0
+1608071617669,22,Home,200,,text,true,,3098,22,0,0
+1608071617654,37,Logout,200,,text,true,,4829,14,0,1
+1608071617691,14,Home,200,,text,true,,3098,14,0,0
+1608071617661,44,Home,200,,text,true,,3098,44,0,0
+1608071617668,44,Login,200,,text,true,,4642,23,0,0
+1608071617674,42,Login,200,,text,true,,4642,22,0,0
+1608071617716,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071617717,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617685,33,Home,200,,text,true,,3098,33,0,0
+1608071617717,1,Add Product to Cart,500,,text,false,,6390,1,0,0
+1608071617690,28,Home,200,,text,true,,3098,28,0,0
+1608071617719,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071617691,29,Login,200,,text,true,,4642,14,0,0
+1608071617719,6,Add Product 2 to Cart,500,,text,false,,6390,6,0,0
+1608071617666,59,Logout,200,,text,true,,4829,27,0,1
+1608071617720,19,List Products,500,,text,false,,6474,19,0,0
+1608071617739,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617713,27,List Products,500,,text,false,,6474,27,0,0
+1608071617741,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617740,3,Add Product to Cart,500,,text,false,,6390,3,0,0
+1608071617744,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=4&page=${page_id},text,false,,1225,0,0,0
+1608071617741,4,Add Product to Cart,500,,text,false,,6390,4,0,1
+1608071617745,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=3&page=${page_id},text,false,,1225,0,0,0
+1608071617744,9,Add Product 2 to Cart,500,,text,false,,6390,9,0,1
+1608071617745,8,Add Product 2 to Cart,500,,text,false,,6390,8,0,1
+1608071617705,48,Login,200,,text,true,,4642,13,0,0
+1608071617690,63,Login,200,,text,true,,4642,26,0,0
+1608071617705,49,Login,200,,text,true,,4642,18,0,0
+1608071617754,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071617754,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617754,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071617754,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617690,67,Login,200,,text,true,,4642,33,0,0
+1608071617754,7,Add Product to Cart,500,,text,false,,6390,6,0,0
+1608071617761,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071617725,36,Home,200,,text,true,,3098,36,0,0
+1608071617719,43,Login,200,,text,true,,4642,12,0,0
+1608071617754,10,Add Product to Cart,500,,text,false,,6390,10,0,0
+1608071617764,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071617761,5,Add Product 2 to Cart,500,,text,false,,6390,5,0,1
+1608071617765,3,Add Product 2 to Cart,500,,text,false,,6390,3,0,0
+1608071617719,53,Login,200,,text,true,,4642,11,0,0
+1608071617725,48,Logout,200,,text,true,,4829,9,0,1
+1608071617753,31,List Products,500,,text,false,,6474,31,0,0
+1608071617784,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617762,25,List Products,500,,text,false,,6474,25,0,0
+1608071617785,2,Add Product to Cart,500,,text,false,,6390,2,0,0
+1608071617787,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617788,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071617788,3,Add Product 2 to Cart,500,,text,false,,6390,3,0,0
+1608071617788,4,Add Product to Cart,500,,text,false,,6390,4,0,0
+1608071617792,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071617757,36,List Products,500,,text,false,,6474,36,0,0
+1608071617793,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617793,2,Add Product 2 to Cart,500,,text,false,,6390,2,0,0
+1608071617753,42,Logout,200,,text,true,,4829,8,0,0
+1608071617761,37,Login,200,,text,true,,4642,14,0,0
+1608071617793,7,Add Product to Cart,500,,text,false,,6390,7,0,0
+1608071617800,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071617801,2,Add Product 2 to Cart,500,,text,false,,6390,2,0,0
+1608071617772,31,List Products,500,,text,false,,6474,31,0,0
+1608071617803,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617803,2,Add Product to Cart,500,,text,false,,6390,2,0,0
+1608071617773,32,Home,200,,text,true,,3098,32,0,0
+1608071617753,52,Logout,200,,text,true,,4829,19,0,0
+1608071617806,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=3&page=${page_id},text,false,,1225,0,0,0
+1608071617768,40,Logout,200,,text,true,,4829,7,0,1
+1608071617766,42,Logout,200,,text,true,,4829,9,0,1
+1608071617806,4,Add Product 2 to Cart,500,,text,false,,6390,4,0,0
+1608071617791,35,Logout,200,,text,true,,4829,8,0,1
+1608071617809,17,Home,200,,text,true,,3098,17,0,0
+1608071617799,28,List Products,500,,text,false,,6474,28,0,0
+1608071617796,31,Home,200,,text,true,,3098,31,0,0
+1608071617827,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617809,19,Home,200,,text,true,,3098,19,0,0
+1608071617828,3,Add Product to Cart,500,,text,false,,6390,3,0,0
+1608071617831,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071617806,28,Home,200,,text,true,,3098,28,0,0
+1608071617831,4,Add Product 2 to Cart,500,,text,false,,6390,3,0,1
+1608071617803,32,Logout,200,,text,true,,4829,9,0,0
+1608071617806,50,Login,200,,text,true,,4642,15,0,0
+1608071617856,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071617856,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617857,2,Add Product to Cart,500,,text,false,,6390,1,0,0
+1608071617859,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071617859,3,Add Product 2 to Cart,500,,text,false,,6390,3,0,1
+1608071617796,67,Logout,200,,text,true,,4829,15,0,0
+1608071617826,39,Login,200,,text,true,,4642,10,0,0
+1608071617865,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071617865,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617866,2,Add Product to Cart,500,,text,false,,6390,2,0,0
+1608071617868,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071617836,34,Home,200,,text,true,,3098,34,0,0
+1608071617826,45,Home,200,,text,true,,3098,45,0,0
+1608071617869,2,Add Product 2 to Cart,500,,text,false,,6390,2,0,0
+1608071617828,45,Login,200,,text,true,,4642,19,0,0
+1608071617835,51,Logout,200,,text,true,,4495,12,0,0
+1608071617872,206,Login,200,,text,true,,4642,9,0,0
+1608071617873,208,List Products,500,,text,false,,6474,208,0,0
+1608071618082,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617810,272,Logout,200,,text,true,,4829,12,0,1
+1608071617828,258,Login,200,,text,true,,4642,19,0,0
+1608071618086,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071618086,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071618087,5,Add Product to Cart,500,,text,false,,6390,5,0,0
+1608071618082,11,Add Product to Cart,500,,text,false,,6390,11,0,1
+1608071617834,259,Login,200,,text,true,,4642,33,0,0
+1608071618093,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=4&page=${page_id},text,false,,1225,0,0,0
+1608071618092,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071618093,2,Add Product 2 to Cart,500,,text,false,,6390,2,0,0
+1608071618079,21,List Products,500,,text,false,,6474,20,0,0
+1608071617862,238,Logout,200,,text,true,,4829,19,0,1
+1608071617872,227,Logout,200,,text,true,,4829,12,0,0
+1608071618100,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071617864,236,Home,200,,text,true,,3098,236,0,0
+1608071617887,216,Home,200,,text,true,,3098,216,0,0
+1608071618093,10,Add Product 2 to Cart,500,,text,false,,6390,10,0,0
+1608071618100,10,Add Product to Cart,500,,text,false,,6390,10,0,1
+1608071618110,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071617871,241,Login,200,,text,true,,4642,16,0,0
+1608071618093,20,List Products,500,,text,false,,6474,20,0,0
+1608071618114,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071618083,34,Home,200,,text,true,,3098,33,0,0
+1608071618111,11,Add Product 2 to Cart,500,,text,false,,6390,10,0,0
+1608071618114,9,Add Product to Cart,500,,text,false,,6390,9,0,1
+1608071618124,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=3&page=${page_id},text,false,,1225,0,0,0
+1608071618100,24,Home,200,,text,true,,3098,24,0,0
+1608071618100,29,Home,200,,text,true,,3098,29,0,0
+1608071618124,5,Add Product 2 to Cart,500,,text,false,,6390,5,0,1
+1608071618096,38,Logout,200,,text,true,,4829,9,0,0
+1608071618113,22,List Products,500,,text,false,,6474,22,0,0
+1608071618135,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071618103,40,Logout,200,,text,true,,4829,16,0,0
+1608071618135,10,Add Product to Cart,500,,text,false,,6390,9,0,1
+1608071618145,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071618101,45,Login,200,,text,true,,4642,19,0,0
+1608071618145,14,Add Product 2 to Cart,500,,text,false,,6390,14,0,1
+1608071618125,34,Login,200,,text,true,,4642,11,0,0
+1608071618159,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071618160,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071618129,35,Login,200,,text,true,,4642,17,0,0
+1608071618160,4,Add Product to Cart,500,,text,false,,6390,4,0,0
+1608071618103,61,Login,200,,text,true,,4642,30,0,0
+1608071618164,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071618164,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071618164,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071618122,44,Logout,200,,text,true,,4829,11,0,1
+1608071618164,3,Add Product to Cart,500,,text,false,,6390,3,0,0
+1608071618167,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071618164,4,Add Product 2 to Cart,500,,text,false,,6390,4,0,1
+1608071618167,5,Add Product 2 to Cart,500,,text,false,,6390,5,0,1
+1608071618129,45,Logout,200,,text,true,,4829,10,0,0
+1608071618146,28,List Products,500,,text,false,,6474,28,0,0
+1608071618174,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071618164,14,List Products,500,,text,false,,6474,14,0,0
+1608071618134,44,Home,200,,text,true,,3098,44,0,0
+1608071618179,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071618174,5,Add Product to Cart,500,,text,false,,6390,5,0,0
+1608071618179,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071618143,38,Home,200,,text,true,,3098,38,0,0
+1608071618180,3,Add Product 2 to Cart,500,,text,false,,6390,3,0,0
+1608071618179,6,Add Product to Cart,500,,text,false,,6390,6,0,0
+1608071618185,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071618159,26,Logout,200,,text,true,,4829,8,0,1
+1608071618117,70,Login,200,,text,true,,4642,26,0,0
+1608071618185,3,Add Product 2 to Cart,500,,text,false,,6390,3,0,1
+1608071618166,27,Home,200,,text,true,,3098,27,0,0
+1608071618174,23,Home,200,,text,true,,3098,23,0,0
+1608071618168,37,Logout,200,,text,true,,4829,12,0,1
+1608071618188,19,List Products,500,,text,false,,6474,19,0,0
+1608071618208,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071618208,3,Add Product to Cart,500,,text,false,,6390,2,0,1
+1608071618211,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=3&page=${page_id},text,false,,1225,0,0,0
+1608071618173,41,Logout,200,,text,true,,4829,17,0,0
+1608071618211,3,Add Product 2 to Cart,500,,text,false,,6390,3,0,1
+1608071618185,29,Home,200,,text,true,,3098,29,0,0
+1608071618197,25,Login,200,,text,true,,4642,9,0,0
+1608071618189,35,Logout,200,,text,true,,4829,7,0,0
+1608071618181,45,Login,200,,text,true,,4642,17,0,0
+1608071618179,57,Login,200,,text,true,,4642,20,0,0
+1608071618236,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071618236,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071618214,26,Home,200,,text,true,,3098,26,0,0
+1608071618237,3,Add Product to Cart,500,,text,false,,6390,3,0,0
+1608071618240,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071618223,18,List Products,500,,text,false,,6474,18,0,0
+1608071618241,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071618241,4,Add Product to Cart,500,,text,false,,6390,4,0,0
+1608071618193,52,Login,200,,text,true,,4642,15,0,0
+1608071618246,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=3&page=${page_id},text,false,,1225,0,0,0
+1608071618240,7,Add Product 2 to Cart,500,,text,false,,6390,7,0,1
+1608071618183,65,Logout,200,,text,true,,4829,29,0,1
+1608071618206,43,Home,200,,text,true,,3098,43,0,0
+1608071618224,26,Home,200,,text,true,,3098,26,0,0
+1608071618214,36,Logout,200,,text,true,,4829,6,0,1
+1608071618246,7,Add Product 2 to Cart,500,,text,false,,6390,7,0,0
+1608071618227,29,List Products,500,,text,false,,6474,29,0,0
+1608071618257,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071618257,7,Add Product to Cart,500,,text,false,,6390,6,0,0
+1608071618264,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=4&page=${page_id},text,false,,1225,0,0,0
+1608071618246,20,List Products,500,,text,false,,6474,20,0,0
+1608071618266,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071618215,53,Login,200,,text,true,,4642,12,0,0
+1608071618250,24,Home,200,,text,true,,3098,24,0,0
+1608071618240,34,Login,200,,text,true,,4642,14,0,0
+1608071618274,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071618274,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071618266,9,Add Product to Cart,500,,text,false,,6390,9,0,1
+1608071618275,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071618275,4,Add Product 2 to Cart,500,,text,false,,6390,4,0,1
+1608071618274,6,Add Product to Cart,500,,text,false,,6390,6,0,0
+1608071618280,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071618248,34,Home,200,,text,true,,3098,34,0,0
+1608071618281,2,Add Product 2 to Cart,500,,text,false,,6390,2,0,0
+1608071618264,20,Add Product 2 to Cart,500,,text,false,,6390,20,0,1
+1608071618247,47,Logout,200,,text,true,,4829,19,0,0
+1608071618249,48,Login,200,,text,true,,4642,25,0,0
+1608071618298,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071618298,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071618298,3,Add Product to Cart,500,,text,false,,6390,3,0,0
+1608071618301,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071618268,33,List Products,500,,text,false,,6474,33,0,0
+1608071618302,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071618301,3,Add Product 2 to Cart,500,,text,false,,6390,3,0,1
+1608071618302,4,Add Product to Cart,500,,text,false,,6390,4,0,1
+1608071618306,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071618254,54,Logout,200,,text,true,,4829,12,0,0
+1608071618307,2,Add Product 2 to Cart,500,,text,false,,6390,2,0,0
+1608071618274,38,Login,200,,text,true,,4642,18,0,0
+1608071618283,31,Login,200,,text,true,,4642,11,0,0
+1608071618250,65,Login,200,,text,true,,4642,25,0,0
+1608071618285,32,Logout,200,,text,true,,4495,7,0,0
+1608071618294,46,Home,200,,text,true,,3098,46,0,0
+1608071618279,61,Logout,200,,text,true,,4829,9,0,1
+1608071618283,60,Logout,200,,text,true,,4829,8,0,1
+1608071618314,32,List Products,500,,text,false,,6474,32,0,0
+1608071618347,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071618318,30,Home,200,,text,true,,3098,30,0,0
+1608071618313,36,List Products,500,,text,false,,6474,36,0,0
+1608071618349,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071618347,2,Add Product to Cart,500,,text,false,,6390,2,0,0
+1608071618349,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071618316,35,List Products,500,,text,false,,6474,35,0,0
+1608071618351,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071618349,4,Add Product to Cart,500,,text,false,,6390,4,0,1
+1608071618350,3,Add Product 2 to Cart,500,,text,false,,6390,3,0,0
+1608071618354,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=3&page=${page_id},text,false,,1225,0,0,0
+1608071618352,3,Add Product to Cart,500,,text,false,,6390,3,0,0
+1608071618355,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071618354,2,Add Product 2 to Cart,500,,text,false,,6390,2,0,0
+1608071618356,2,Add Product 2 to Cart,500,,text,false,,6390,2,0,0
+1608071618309,51,Logout,200,,text,true,,4829,31,0,0
+1608071618309,378,Home,200,,text,true,,3098,378,0,0
+1608071618305,382,Logout,200,,text,true,,4829,8,0,0
+1608071618341,348,Home,200,,text,true,,3098,348,0,0
+1608071618354,339,Logout,200,,text,true,,4829,6,0,0
+1608071618360,334,Home,200,,text,true,,3098,334,0,0
+1608071618349,347,Login,200,,text,true,,4642,12,0,0
+1608071618356,345,Logout,200,,text,true,,4829,12,0,1
+1608071618358,356,Logout,200,,text,true,,4829,11,0,1
+1608071618694,22,Home,200,,text,true,,3098,22,0,0
+1608071618340,378,Login,200,,text,true,,4642,347,0,0
+1608071618718,0,List Products,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=1,text,false,,1226,0,0,0
+1608071618718,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071618718,3,Add Product to Cart,500,,text,false,,6390,3,0,0
+1608071618696,25,List Products,500,,text,false,,6474,25,0,0
+1608071618722,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071618722,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 73: http://localhost:30080/tools.descartes.teastore.webui/category?category=${category}&page=${page_id},text,false,,1235,0,0,0
+1608071618702,21,Home,200,,text,true,,3098,21,0,0
+1608071618722,4,Add Product to Cart,500,,text,false,,6390,4,0,0
+1608071618722,4,Add Product 2 to Cart,500,,text,false,,6390,4,0,0
+1608071618726,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=4&page=${page_id},text,false,,1225,0,0,0
+1608071618727,2,Add Product 2 to Cart,500,,text,false,,6390,2,0,0
+1608071618694,368,Login,200,,text,true,,4642,23,0,0
+1608071618690,375,Login,200,,text,true,,4642,27,0,0
+1608071618714,355,Home,200,,text,true,,3098,355,0,0
+1608071618687,386,Login,200,,text,true,,4642,17,0,0
+1608071618730,350,Logout,200,,text,true,,4829,329,0,0
+1608071618723,357,Login,200,,text,true,,4642,334,0,0
+1608071618726,355,Logout,200,,text,true,,4829,332,0,1
+1608071619062,19,List Products,500,,text,false,,6474,19,0,0
+1608071619082,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071619065,17,List Products,500,,text,false,,6474,17,0,0
+1608071619082,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071618716,368,Login,200,,text,true,,4642,348,0,0
+1608071619082,3,Add Product to Cart,500,,text,false,,6390,3,0,0
+1608071619082,3,Add Product to Cart,500,,text,false,,6390,3,0,1
+1608071619085,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071619074,13,List Products,500,,text,false,,6474,13,0,0
+1608071619087,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071619085,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071619087,8,Add Product to Cart,500,,text,false,,6390,7,0,0
+1608071619081,14,List Products,500,,text,false,,6474,14,0,0
+1608071619095,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=3&page=${page_id},text,false,,1225,0,0,0
+1608071619088,7,Add Product 2 to Cart,500,,text,false,,6390,7,0,1
+1608071619095,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071619086,10,Add Product 2 to Cart,500,,text,false,,6390,10,0,0
+1608071619095,3,Add Product to Cart,500,,text,false,,6390,3,0,1
+1608071619098,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=3&page=${page_id},text,false,,1225,0,0,0
+1608071619095,6,Add Product 2 to Cart,500,,text,false,,6390,6,0,1
+1608071619084,18,List Products,500,,text,false,,6474,18,0,0
+1608071619102,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071619099,4,Add Product 2 to Cart,500,,text,false,,6390,4,0,0
+1608071619081,22,Home,200,,text,true,,3098,22,0,0
+1608071619070,36,Login,200,,text,true,,4642,13,0,0
+1608071619102,10,Add Product to Cart,500,,text,false,,6390,10,0,1
+1608071619113,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071619113,4,Add Product 2 to Cart,500,,text,false,,6390,3,0,1
+1608071619096,26,Logout,200,,text,true,,4829,10,0,1
+1608071619101,27,Logout,200,,text,true,,4829,5,0,0
+1608071619095,41,Logout,200,,text,true,,4829,10,0,1
+1608071619103,43,Logout,200,,text,true,,4829,12,0,0
+1608071619129,17,Home,200,,text,true,,3098,17,0,0
+1608071619106,48,List Products,500,,text,false,,6474,48,0,0
+1608071619154,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071619137,21,Home,200,,text,true,,3098,21,0,0
+1608071619103,58,Login,200,,text,true,,4642,11,0,0
+1608071619154,7,Add Product to Cart,500,,text,false,,6390,7,0,1
+1608071619161,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071619161,4,Add Product 2 to Cart,500,,text,false,,6390,4,0,1
+1608071619146,19,Home,200,,text,true,,3098,19,0,0
+1608071619123,46,Home,200,,text,true,,3098,46,0,0
+1608071619117,54,Logout,200,,text,true,,4829,7,0,0
+1608071619161,17,List Products,500,,text,false,,6474,16,0,0
+1608071619178,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071619178,5,Add Product to Cart,500,,text,false,,6390,5,0,1
+1608071619146,38,Login,200,,text,true,,4642,14,0,0
+1608071619158,26,Login,200,,text,true,,4642,10,0,0
+1608071619184,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=4&page=${page_id},text,false,,1225,0,0,0
+1608071619184,5,Add Product 2 to Cart,500,,text,false,,6390,5,0,0
+1608071619172,18,Home,200,,text,true,,3098,18,0,0
+1608071619184,13,List Products,500,,text,false,,6474,13,0,0
+1608071619198,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071619184,15,List Products,500,,text,false,,6474,15,0,0
+1608071619200,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071619198,4,Add Product to Cart,500,,text,false,,6390,4,0,1
+1608071619200,2,Add Product to Cart,500,,text,false,,6390,2,0,0
+1608071619202,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=3&page=${page_id},text,false,,1225,0,0,0
+1608071619202,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071619166,38,Login,200,,text,true,,4642,13,0,0
+1608071619169,35,Login,200,,text,true,,4642,15,0,0
+1608071619202,2,Add Product 2 to Cart,500,,text,false,,6390,2,0,1
+1608071619202,4,Add Product 2 to Cart,500,,text,false,,6390,4,0,1
+1608071619166,42,Logout,200,,text,true,,4829,13,0,0
+1608071619189,26,Logout,200,,text,true,,4829,10,0,1
+1608071619204,17,List Products,500,,text,false,,6474,17,0,0
+1608071619208,13,Home,200,,text,true,,3098,13,0,0
+1608071619221,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071619204,16,List Products,500,,text,false,,6474,16,0,0
+1608071619222,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071619221,25,Add Product to Cart,500,,text,false,,6390,24,0,1
+1608071619190,56,Login,200,,text,true,,4642,25,0,0
+1608071619246,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071619205,41,Logout,200,,text,true,,4829,7,0,0
+1608071619246,2,Add Product 2 to Cart,500,,text,false,,6390,2,0,1
+1608071619244,4,Add Product to Cart,500,,text,false,,6390,4,0,1
+1608071619206,42,Logout,200,,text,true,,4829,9,0,0
+1608071619249,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=3&page=${page_id},text,false,,1225,0,0,0
+1608071619249,2,Add Product 2 to Cart,500,,text,false,,6390,2,0,0
+1608071619246,11,List Products,500,,text,false,,6474,11,0,0
+1608071619257,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071619221,38,Login,200,,text,true,,4642,23,0,0
+1608071619257,2,Add Product to Cart,500,,text,false,,6390,2,0,1
+1608071619259,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071619260,1,Add Product 2 to Cart,500,,text,false,,6390,1,0,0
+1608071619249,19,Logout,200,,text,true,,4829,5,0,0
+1608071619259,11,List Products,500,,text,false,,6474,11,0,0
+1608071619271,0,Look at Product,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 66: http://localhost:30080/tools.descartes.teastore.webui/product?id=${product_id},text,false,,1214,0,0,0
+1608071619271,2,Add Product to Cart,500,,text,false,,6390,2,0,0
+1608071619274,0,List Products with different page,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in query at index 80: http://localhost:30080/tools.descartes.teastore.webui/category?category=5&page=${page_id},text,false,,1225,0,0,0
+1608071619251,24,Logout,200,,text,true,,4495,8,0,1
+1608071619274,2,Add Product 2 to Cart,500,,text,false,,6390,2,0,0
+1608071619262,19,Logout,200,,text,true,,4829,6,0,0
+1608071619276,17,Logout,200,,text,true,,4829,5,0,1

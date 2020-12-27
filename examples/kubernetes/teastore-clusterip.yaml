@@ -177,6 +177,9 @@ spec:
               value: "teastore-image"
             - name: REGISTRY_HOST
               value: "teastore-registry"
+          resources:
+            limits:
+              memory: "2Gi"
 ---
 apiVersion: v1
 kind: Service
@@ -217,6 +220,9 @@ spec:
               value: "teastore-recommender"
             - name: REGISTRY_HOST
               value: "teastore-registry"
+          resources:
+            limits:
+              memory: "2Gi"
 ---
 apiVersion: v1
 kind: Service
@@ -257,6 +263,9 @@ spec:
               value: "teastore-webui"
             - name: REGISTRY_HOST
               value: "teastore-registry"
+          resources:
+            limits:
+              memory: "2.5Gi"
 ---
 apiVersion: v1
 kind: Service

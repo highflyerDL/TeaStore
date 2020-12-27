@@ -1,0 +1,1601 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1607893395069,26,Home,200,,Thread-Gruppe 1-1,text,true,,8822,150,1,1,23,0,12
+1607893395098,22,Login,200,,Thread-Gruppe 1-1,text,true,,10103,1025,1,1,13,0,0
+1607893395098,13,Login-0,302,,Thread-Gruppe 1-1,,true,,754,278,1,1,13,0,0
+1607893395115,5,Login-1,200,,Thread-Gruppe 1-1,text,true,,9349,747,1,1,5,0,0
+1607893395124,4,Home,200,,Thread-Gruppe 1-2,text,true,,8822,150,2,2,4,0,0
+1607893395121,12,List Products,200,,Thread-Gruppe 1-1,text,true,,100738,773,2,2,10,0,0
+1607893395130,14,Login,200,,Thread-Gruppe 1-2,text,true,,10103,1025,2,2,9,0,0
+1607893395130,9,Login-0,302,,Thread-Gruppe 1-2,,true,,754,278,2,2,9,0,0
+1607893395140,4,Login-1,200,,Thread-Gruppe 1-2,text,true,,9349,747,2,2,4,0,0
+1607893395136,14,Look at Product,200,,Thread-Gruppe 1-1,text,true,,89999,761,2,2,13,0,0
+1607893395145,7,List Products,200,,Thread-Gruppe 1-2,text,true,,93444,773,2,2,6,0,0
+1607893395154,13,Look at Product,200,,Thread-Gruppe 1-2,text,true,,83591,760,2,2,12,0,0
+1607893395151,17,Add Product to Cart,200,,Thread-Gruppe 1-1,text,true,,25720,1743,2,2,6,0,0
+1607893395151,6,Add Product to Cart-0,302,,Thread-Gruppe 1-1,,true,,884,866,2,2,6,0,0
+1607893395158,10,Add Product to Cart-1,200,,Thread-Gruppe 1-1,text,true,,24836,877,2,2,10,0,0
+1607893395168,8,List Products with different page,200,,Thread-Gruppe 1-1,text,true,,98216,899,2,2,6,0,0
+1607893395168,14,Add Product to Cart,200,,Thread-Gruppe 1-2,text,true,,23865,1740,2,2,3,0,0
+1607893395168,3,Add Product to Cart-0,302,,Thread-Gruppe 1-2,,true,,882,865,2,2,3,0,0
+1607893395171,11,Add Product to Cart-1,200,,Thread-Gruppe 1-2,text,true,,22983,875,2,2,10,0,0
+1607893395222,9,Home,200,,Thread-Gruppe 1-3,text,true,,8822,150,3,3,9,0,0
+1607893395183,47,List Products with different page,200,,Thread-Gruppe 1-2,text,true,,93464,897,3,3,45,0,0
+1607893395177,55,Add Product 2 to Cart,200,,Thread-Gruppe 1-1,text,true,,26424,1987,3,3,3,0,0
+1607893395177,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-1,,true,,1002,992,3,3,3,0,0
+1607893395181,51,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-1,text,true,,25422,995,3,3,50,0,0
+1607893395233,6,Logout,200,,Thread-Gruppe 1-1,text,true,,10479,1831,3,3,2,0,0
+1607893395233,2,Logout-0,302,,Thread-Gruppe 1-1,,true,,1344,1093,3,3,2,0,0
+1607893395236,3,Logout-1,200,,Thread-Gruppe 1-1,text,true,,9135,738,3,3,3,0,0
+1607893395232,12,Login,200,,Thread-Gruppe 1-3,text,true,,10104,1026,3,3,8,0,0
+1607893395240,4,Home,200,,Thread-Gruppe 1-1,text,true,,8822,150,3,3,4,0,0
+1607893395232,8,Login-0,302,,Thread-Gruppe 1-3,,true,,755,278,3,3,8,0,0
+1607893395240,4,Login-1,200,,Thread-Gruppe 1-3,text,true,,9349,748,3,3,4,0,0
+1607893395232,14,Add Product 2 to Cart,200,,Thread-Gruppe 1-2,text,true,,24541,1981,3,3,3,0,0
+1607893395232,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-2,,true,,999,989,3,3,3,0,0
+1607893395236,10,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-2,text,true,,23542,992,3,3,10,0,0
+1607893395247,5,Logout,200,,Thread-Gruppe 1-2,text,true,,10479,1828,3,3,2,0,0
+1607893395247,2,Logout-0,302,,Thread-Gruppe 1-2,,true,,1344,1090,3,3,2,0,0
+1607893395250,2,Logout-1,200,,Thread-Gruppe 1-2,text,true,,9135,738,3,3,2,0,0
+1607893395245,8,List Products,200,,Thread-Gruppe 1-3,text,true,,108144,774,3,3,6,0,0
+1607893395253,3,Home,200,,Thread-Gruppe 1-2,text,true,,8822,150,3,3,3,0,0
+1607893395244,13,Login,200,,Thread-Gruppe 1-1,text,true,,10105,1027,3,3,10,0,0
+1607893395244,10,Login-0,302,,Thread-Gruppe 1-1,,true,,756,278,3,3,10,0,0
+1607893395254,3,Login-1,200,,Thread-Gruppe 1-1,text,true,,9349,749,3,3,3,0,0
+1607893395254,11,Look at Product,200,,Thread-Gruppe 1-3,text,true,,87434,762,3,3,11,0,0
+1607893395258,7,List Products,200,,Thread-Gruppe 1-1,text,true,,100738,775,3,3,6,0,0
+1607893395256,13,Login,200,,Thread-Gruppe 1-2,text,true,,10103,1025,3,3,9,0,0
+1607893395256,9,Login-0,302,,Thread-Gruppe 1-2,,true,,754,278,3,3,9,0,0
+1607893395266,3,Login-1,200,,Thread-Gruppe 1-2,text,true,,9349,747,3,3,3,0,0
+1607893395267,10,Look at Product,200,,Thread-Gruppe 1-1,text,true,,89921,763,3,3,9,0,0
+1607893395270,7,List Products,200,,Thread-Gruppe 1-2,text,true,,93444,773,3,3,6,0,0
+1607893395266,13,Add Product to Cart,200,,Thread-Gruppe 1-3,text,true,,24256,1745,3,3,3,0,0
+1607893395266,3,Add Product to Cart-0,302,,Thread-Gruppe 1-3,,true,,885,867,3,3,3,0,0
+1607893395270,9,Add Product to Cart-1,200,,Thread-Gruppe 1-3,text,true,,23371,878,3,3,8,0,0
+1607893395279,8,List Products with different page,200,,Thread-Gruppe 1-3,text,true,,108166,900,3,3,6,0,0
+1607893395278,11,Look at Product,200,,Thread-Gruppe 1-2,text,true,,83745,760,3,3,11,0,0
+1607893395278,17,Add Product to Cart,200,,Thread-Gruppe 1-1,text,true,,25726,1747,3,3,2,0,0
+1607893395278,2,Add Product to Cart-0,302,,Thread-Gruppe 1-1,,true,,886,868,3,3,2,0,0
+1607893395281,14,Add Product to Cart-1,200,,Thread-Gruppe 1-1,text,true,,24840,879,3,3,9,0,0
+1607893395295,8,List Products with different page,200,,Thread-Gruppe 1-1,text,true,,101683,901,3,3,7,0,0
+1607893395288,17,Add Product 2 to Cart,200,,Thread-Gruppe 1-3,text,true,,24969,1989,3,3,7,0,0
+1607893395288,7,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-3,,true,,1003,993,3,3,7,0,0
+1607893395295,10,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-3,text,true,,23966,996,3,3,10,0,0
+1607893395290,17,Add Product to Cart,200,,Thread-Gruppe 1-2,text,true,,23880,1740,3,3,7,0,0
+1607893395290,7,Add Product to Cart-0,302,,Thread-Gruppe 1-2,,true,,882,865,3,3,7,0,0
+1607893395298,9,Add Product to Cart-1,200,,Thread-Gruppe 1-2,text,true,,22998,875,3,3,9,0,0
+1607893395306,6,Logout,200,,Thread-Gruppe 1-3,text,true,,10479,1832,3,3,3,0,0
+1607893395306,3,Logout-0,302,,Thread-Gruppe 1-3,,true,,1344,1094,3,3,3,0,0
+1607893395309,3,Logout-1,200,,Thread-Gruppe 1-3,text,true,,9135,738,3,3,3,0,0
+1607893395313,3,Home,200,,Thread-Gruppe 1-3,text,true,,8822,150,3,3,2,0,0
+1607893395308,8,List Products with different page,200,,Thread-Gruppe 1-2,text,true,,93464,897,3,3,7,0,0
+1607893395305,20,Add Product 2 to Cart,200,,Thread-Gruppe 1-1,text,true,,26431,1991,4,4,3,0,0
+1607893395305,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-1,,true,,1004,994,4,4,3,0,0
+1607893395308,17,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-1,text,true,,25427,997,4,4,17,0,0
+1607893395326,9,Home,200,,Thread-Gruppe 1-4,text,true,,8822,150,4,4,9,0,1
+1607893395316,19,Login,200,,Thread-Gruppe 1-3,text,true,,10104,1026,4,4,9,0,0
+1607893395316,9,Login-0,302,,Thread-Gruppe 1-3,,true,,755,278,4,4,9,0,0
+1607893395326,9,Login-1,200,,Thread-Gruppe 1-3,text,true,,9349,748,4,4,9,0,0
+1607893395326,12,Logout,200,,Thread-Gruppe 1-1,text,true,,10479,1780,4,4,6,0,0
+1607893395326,6,Logout-0,302,,Thread-Gruppe 1-1,,true,,1344,1042,4,4,6,0,0
+1607893395333,5,Logout-1,200,,Thread-Gruppe 1-1,text,true,,9135,738,4,4,5,0,0
+1607893395326,14,Add Product 2 to Cart,200,,Thread-Gruppe 1-2,text,true,,24564,1981,4,4,3,0,0
+1607893395326,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-2,,true,,999,989,4,4,3,0,0
+1607893395330,10,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-2,text,true,,23565,992,4,4,10,0,0
+1607893395339,2,Home,200,,Thread-Gruppe 1-1,text,true,,8822,150,4,4,2,0,0
+1607893395336,8,List Products,200,,Thread-Gruppe 1-3,text,true,,100738,774,4,4,7,0,0
+1607893395341,7,Logout,200,,Thread-Gruppe 1-2,text,true,,10479,1828,4,4,3,0,0
+1607893395341,3,Logout-0,302,,Thread-Gruppe 1-2,,true,,1344,1090,4,4,3,0,0
+1607893395335,13,Login,200,,Thread-Gruppe 1-4,text,true,,10104,1026,4,4,9,0,0
+1607893395344,4,Logout-1,200,,Thread-Gruppe 1-2,text,true,,9135,738,4,4,4,0,0
+1607893395335,9,Login-0,302,,Thread-Gruppe 1-4,,true,,755,278,4,4,9,0,0
+1607893395344,4,Login-1,200,,Thread-Gruppe 1-4,text,true,,9349,748,4,4,4,0,0
+1607893395348,4,Home,200,,Thread-Gruppe 1-2,text,true,,8822,150,4,4,4,0,0
+1607893395342,12,Login,200,,Thread-Gruppe 1-1,text,true,,10105,1027,4,4,8,0,0
+1607893395342,8,Login-0,302,,Thread-Gruppe 1-1,,true,,756,278,4,4,8,0,0
+1607893395351,3,Login-1,200,,Thread-Gruppe 1-1,text,true,,9349,749,4,4,3,0,0
+1607893395345,11,Look at Product,200,,Thread-Gruppe 1-3,text,true,,83470,762,4,4,10,0,0
+1607893395349,6,List Products,200,,Thread-Gruppe 1-4,text,true,,100738,774,4,4,5,0,0
+1607893395352,11,Login,200,,Thread-Gruppe 1-2,text,true,,10103,1025,4,4,7,0,0
+1607893395352,7,Login-0,302,,Thread-Gruppe 1-2,,true,,754,278,4,4,7,0,0
+1607893395360,3,Login-1,200,,Thread-Gruppe 1-2,text,true,,9349,747,4,4,3,0,0
+1607893395355,9,List Products,200,,Thread-Gruppe 1-1,text,true,,108144,775,4,4,8,0,0
+1607893395356,13,Add Product to Cart,200,,Thread-Gruppe 1-3,text,true,,24253,1745,4,4,3,0,0
+1607893395356,3,Add Product to Cart-0,302,,Thread-Gruppe 1-3,,true,,885,867,4,4,3,0,0
+1607893395360,9,Add Product to Cart-1,200,,Thread-Gruppe 1-3,text,true,,23368,878,4,4,9,0,0
+1607893395357,13,Look at Product,200,,Thread-Gruppe 1-4,text,true,,99186,762,4,4,12,0,0
+1607893395364,9,List Products,200,,Thread-Gruppe 1-2,text,true,,118983,773,4,4,7,0,0
+1607893395365,17,Look at Product,200,,Thread-Gruppe 1-1,text,true,,93863,763,4,4,17,0,0
+1607893395370,12,List Products with different page,200,,Thread-Gruppe 1-3,text,true,,99009,900,4,4,10,0,0
+1607893395374,11,Look at Product,200,,Thread-Gruppe 1-2,text,true,,102797,761,4,4,11,0,0
+1607893395371,17,Add Product to Cart,200,,Thread-Gruppe 1-4,text,true,,28908,1746,4,4,5,0,0
+1607893395371,5,Add Product to Cart-0,302,,Thread-Gruppe 1-4,,true,,886,867,4,4,5,0,0
+1607893395376,12,Add Product to Cart-1,200,,Thread-Gruppe 1-4,text,true,,28022,879,4,4,12,0,0
+1607893395389,8,List Products with different page,200,,Thread-Gruppe 1-4,text,true,,98216,901,4,4,7,0,0
+1607893395383,15,Add Product 2 to Cart,200,,Thread-Gruppe 1-3,text,true,,24954,1990,4,4,3,0,0
+1607893395383,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-3,,true,,1004,993,4,4,3,0,0
+1607893395387,11,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-3,text,true,,23950,997,4,4,11,0,0
+1607893395386,13,Add Product to Cart,200,,Thread-Gruppe 1-2,text,true,,23886,1743,4,4,3,0,0
+1607893395386,3,Add Product to Cart-0,302,,Thread-Gruppe 1-2,,true,,884,866,4,4,3,0,0
+1607893395389,10,Add Product to Cart-1,200,,Thread-Gruppe 1-2,text,true,,23002,877,4,4,10,0,0
+1607893395383,19,Add Product to Cart,200,,Thread-Gruppe 1-1,text,true,,25729,1747,4,4,3,0,0
+1607893395383,3,Add Product to Cart-0,302,,Thread-Gruppe 1-1,,true,,886,868,4,4,3,0,0
+1607893395387,15,Add Product to Cart-1,200,,Thread-Gruppe 1-1,text,true,,24843,879,4,4,15,0,0
+1607893395399,6,Logout,200,,Thread-Gruppe 1-3,text,true,,10479,1833,4,4,2,0,0
+1607893395399,2,Logout-0,302,,Thread-Gruppe 1-3,,true,,1344,1095,4,4,2,0,0
+1607893395401,4,Logout-1,200,,Thread-Gruppe 1-3,text,true,,9135,738,4,4,4,0,0
+1607893395400,7,List Products with different page,200,,Thread-Gruppe 1-2,text,true,,117007,899,4,4,6,0,0
+1607893395405,3,Home,200,,Thread-Gruppe 1-3,text,true,,8822,150,4,4,3,0,0
+1607893395403,7,List Products with different page,200,,Thread-Gruppe 1-1,text,true,,106843,901,4,4,6,0,0
+1607893395398,13,Add Product 2 to Cart,200,,Thread-Gruppe 1-4,text,true,,29586,1990,4,4,3,0,0
+1607893395398,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-4,,true,,1003,994,4,4,3,0,0
+1607893395401,10,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-4,text,true,,28583,996,4,4,10,0,0
+1607893395420,11,Home,200,,Thread-Gruppe 1-5,text,true,,8822,150,5,5,11,0,1
+1607893395409,23,Login,200,,Thread-Gruppe 1-3,text,true,,10103,1025,5,5,18,0,0
+1607893395409,18,Login-0,302,,Thread-Gruppe 1-3,,true,,754,278,5,5,18,0,0
+1607893395428,4,Login-1,200,,Thread-Gruppe 1-3,text,true,,9349,747,5,5,4,0,0
+1607893395412,21,Logout,200,,Thread-Gruppe 1-4,text,true,,10479,1832,5,5,15,0,0
+1607893395412,15,Logout-0,302,,Thread-Gruppe 1-4,,true,,1344,1094,5,5,15,0,0
+1607893395428,5,Logout-1,200,,Thread-Gruppe 1-4,text,true,,9135,738,5,5,5,0,0
+1607893395433,4,Home,200,,Thread-Gruppe 1-4,text,true,,8822,150,5,5,4,0,0
+1607893395409,29,Add Product 2 to Cart,200,,Thread-Gruppe 1-2,text,true,,24580,1987,5,5,2,0,0
+1607893395409,2,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-2,,true,,1002,992,5,5,2,0,0
+1607893395412,26,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-2,text,true,,23578,995,5,5,25,0,0
+1607893395411,33,Add Product 2 to Cart,200,,Thread-Gruppe 1-1,text,true,,26422,1991,5,5,16,0,0
+1607893395411,16,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-1,,true,,1004,994,5,5,16,0,0
+1607893395439,5,Logout,200,,Thread-Gruppe 1-2,text,true,,10479,1831,5,5,1,0,0
+1607893395428,16,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-1,text,true,,25418,997,5,5,16,0,0
+1607893395439,1,Logout-0,302,,Thread-Gruppe 1-2,,true,,1344,1093,5,5,1,0,0
+1607893395441,3,Logout-1,200,,Thread-Gruppe 1-2,text,true,,9135,738,5,5,3,0,0
+1607893395432,13,Login,200,,Thread-Gruppe 1-5,text,true,,10104,1026,5,5,10,0,0
+1607893395432,10,Login-0,302,,Thread-Gruppe 1-5,,true,,755,278,5,5,10,0,0
+1607893395442,3,Login-1,200,,Thread-Gruppe 1-5,text,true,,9349,748,5,5,3,0,0
+1607893395433,16,List Products,200,,Thread-Gruppe 1-3,text,true,,147011,773,5,5,14,0,0
+1607893395437,13,Login,200,,Thread-Gruppe 1-4,text,true,,10104,1026,5,5,8,0,0
+1607893395437,8,Login-0,302,,Thread-Gruppe 1-4,,true,,755,278,5,5,8,0,0
+1607893395445,5,Login-1,200,,Thread-Gruppe 1-4,text,true,,9349,748,5,5,5,0,0
+1607893395445,6,Logout,200,,Thread-Gruppe 1-1,text,true,,10479,1833,5,5,2,0,0
+1607893395445,2,Logout-0,302,,Thread-Gruppe 1-1,,true,,1344,1095,5,5,2,0,0
+1607893395448,3,Logout-1,200,,Thread-Gruppe 1-1,text,true,,9135,738,5,5,2,0,0
+1607893395445,6,Home,200,,Thread-Gruppe 1-2,text,true,,8822,150,5,5,6,0,0
+1607893395451,4,Home,200,,Thread-Gruppe 1-1,text,true,,8822,150,5,5,4,0,0
+1607893395446,9,List Products,200,,Thread-Gruppe 1-5,text,true,,147011,774,5,5,7,0,0
+1607893395451,9,List Products,200,,Thread-Gruppe 1-4,text,true,,100738,774,5,5,7,0,0
+1607893395451,10,Login,200,,Thread-Gruppe 1-2,text,true,,10103,1025,5,5,7,0,0
+1607893395451,7,Login-0,302,,Thread-Gruppe 1-2,,true,,754,278,5,5,7,0,0
+1607893395458,3,Login-1,200,,Thread-Gruppe 1-2,text,true,,9349,747,5,5,3,0,0
+1607893395450,12,Look at Product,200,,Thread-Gruppe 1-3,text,true,,133022,761,5,5,12,0,0
+1607893395456,13,Login,200,,Thread-Gruppe 1-1,text,true,,10103,1025,5,5,8,0,0
+1607893395456,8,Login-0,302,,Thread-Gruppe 1-1,,true,,754,278,5,5,8,0,0
+1607893395465,4,Login-1,200,,Thread-Gruppe 1-1,text,true,,9349,747,5,5,4,0,0
+1607893395461,9,List Products,200,,Thread-Gruppe 1-2,text,true,,108144,773,5,5,8,0,0
+1607893395461,13,Look at Product,200,,Thread-Gruppe 1-4,text,true,,98745,762,5,5,12,0,0
+1607893395463,11,Add Product to Cart,200,,Thread-Gruppe 1-3,text,true,,24236,1743,5,5,2,0,0
+1607893395463,2,Add Product to Cart-0,302,,Thread-Gruppe 1-3,,true,,884,866,5,5,2,0,0
+1607893395465,9,Add Product to Cart-1,200,,Thread-Gruppe 1-3,text,true,,23352,877,5,5,9,0,0
+1607893395456,18,Look at Product,200,,Thread-Gruppe 1-5,text,true,,134850,762,5,5,17,0,0
+1607893395470,7,List Products,200,,Thread-Gruppe 1-1,text,true,,118983,773,5,5,6,0,0
+1607893395471,12,Look at Product,200,,Thread-Gruppe 1-2,text,true,,87881,761,5,5,11,0,0
+1607893395475,8,List Products with different page,200,,Thread-Gruppe 1-3,text,true,,142419,899,5,5,7,0,0
+1607893395475,15,Add Product to Cart,200,,Thread-Gruppe 1-4,text,true,,28930,1745,5,5,2,0,0
+1607893395475,2,Add Product to Cart-0,302,,Thread-Gruppe 1-4,,true,,885,867,5,5,2,0,0
+1607893395478,12,Add Product to Cart-1,200,,Thread-Gruppe 1-4,text,true,,28045,878,5,5,12,0,0
+1607893395475,17,Add Product to Cart,200,,Thread-Gruppe 1-5,text,true,,25154,1745,5,5,2,0,0
+1607893395475,2,Add Product to Cart-0,302,,Thread-Gruppe 1-5,,true,,885,867,5,5,2,0,0
+1607893395477,15,Add Product to Cart-1,200,,Thread-Gruppe 1-5,text,true,,24269,878,5,5,15,0,0
+1607893395478,15,Look at Product,200,,Thread-Gruppe 1-1,text,true,,107707,761,5,5,14,0,0
+1607893395484,13,Add Product 2 to Cart,200,,Thread-Gruppe 1-3,text,true,,24926,1987,5,5,2,0,0
+1607893395484,2,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-3,,true,,1002,992,5,5,2,0,0
+1607893395486,11,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-3,text,true,,23924,995,5,5,11,0,0
+1607893395483,15,Add Product to Cart,200,,Thread-Gruppe 1-2,text,true,,23884,1743,5,5,3,0,0
+1607893395483,3,Add Product to Cart-0,302,,Thread-Gruppe 1-2,,true,,884,866,5,5,3,0,0
+1607893395486,12,Add Product to Cart-1,200,,Thread-Gruppe 1-2,text,true,,23000,877,5,5,12,0,0
+1607893395491,10,List Products with different page,200,,Thread-Gruppe 1-4,text,true,,98805,847,5,5,8,0,0
+1607893395492,9,List Products with different page,200,,Thread-Gruppe 1-5,text,true,,146619,900,5,5,7,0,0
+1607893395498,7,Logout,200,,Thread-Gruppe 1-3,text,true,,10479,1831,5,5,2,0,0
+1607893395498,2,Logout-0,302,,Thread-Gruppe 1-3,,true,,1344,1093,5,5,2,0,0
+1607893395500,5,Logout-1,200,,Thread-Gruppe 1-3,text,true,,9135,738,5,5,5,0,0
+1607893395498,9,List Products with different page,200,,Thread-Gruppe 1-2,text,true,,106843,899,5,5,8,0,0
+1607893395506,4,Home,200,,Thread-Gruppe 1-3,text,true,,8822,150,5,5,4,0,0
+1607893395493,17,Add Product to Cart,200,,Thread-Gruppe 1-1,text,true,,25720,1743,5,5,3,0,0
+1607893395493,3,Add Product to Cart-0,302,,Thread-Gruppe 1-1,,true,,884,866,5,5,3,0,0
+1607893395497,13,Add Product to Cart-1,200,,Thread-Gruppe 1-1,text,true,,24836,877,5,5,13,0,0
+1607893395502,13,Add Product 2 to Cart,200,,Thread-Gruppe 1-4,text,true,,29633,1937,5,5,3,0,0
+1607893395502,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-4,,true,,1004,940,5,5,3,0,0
+1607893395505,10,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-4,text,true,,28629,997,5,5,10,0,0
+1607893395502,17,Add Product 2 to Cart,200,,Thread-Gruppe 1-5,text,true,,25855,1989,6,6,3,0,0
+1607893395502,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-5,,true,,1003,993,6,6,3,0,0
+1607893395505,14,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-5,text,true,,24852,996,6,6,14,0,0
+1607893395510,10,Login,200,,Thread-Gruppe 1-3,text,true,,10104,1026,6,6,6,0,0
+1607893395510,6,Login-0,302,,Thread-Gruppe 1-3,,true,,755,278,6,6,6,0,0
+1607893395517,3,Login-1,200,,Thread-Gruppe 1-3,text,true,,9349,748,6,6,3,0,0
+1607893395515,5,Logout,200,,Thread-Gruppe 1-4,text,true,,10479,1833,6,6,2,0,0
+1607893395515,2,Logout-0,302,,Thread-Gruppe 1-4,,true,,1344,1095,6,6,2,0,0
+1607893395517,3,Logout-1,200,,Thread-Gruppe 1-4,text,true,,9135,738,6,6,3,0,0
+1607893395508,13,Add Product 2 to Cart,200,,Thread-Gruppe 1-2,text,true,,24569,1987,6,6,2,0,0
+1607893395508,2,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-2,,true,,1002,992,6,6,2,0,0
+1607893395511,10,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-2,text,true,,23567,995,6,6,9,0,0
+1607893395519,5,Home,200,,Thread-Gruppe 1-6,text,true,,8822,150,6,6,5,0,1
+1607893395521,3,Home,200,,Thread-Gruppe 1-4,text,true,,8822,150,6,6,3,0,0
+1607893395510,14,List Products with different page,200,,Thread-Gruppe 1-1,text,true,,119005,899,6,6,12,0,0
+1607893395519,9,Logout,200,,Thread-Gruppe 1-5,text,true,,10479,1832,6,6,3,0,0
+1607893395519,3,Logout-0,302,,Thread-Gruppe 1-5,,true,,1344,1094,6,6,3,0,0
+1607893395522,6,Logout-1,200,,Thread-Gruppe 1-5,text,true,,9135,738,6,6,6,0,0
+1607893395521,8,Logout,200,,Thread-Gruppe 1-2,text,true,,10479,1831,6,6,1,0,0
+1607893395521,1,Logout-0,302,,Thread-Gruppe 1-2,,true,,1344,1093,6,6,1,0,0
+1607893395523,6,Logout-1,200,,Thread-Gruppe 1-2,text,true,,9135,738,6,6,6,0,0
+1607893395521,8,List Products,200,,Thread-Gruppe 1-3,text,true,,108144,774,6,6,7,0,0
+1607893395529,4,Home,200,,Thread-Gruppe 1-2,text,true,,8822,150,6,6,4,0,0
+1607893395529,7,Home,200,,Thread-Gruppe 1-5,text,true,,8822,150,6,6,7,0,0
+1607893395525,16,Login,200,,Thread-Gruppe 1-4,text,true,,10105,1027,6,6,10,0,0
+1607893395525,16,Login,200,,Thread-Gruppe 1-6,text,true,,10104,1026,6,6,10,0,0
+1607893395525,10,Login-0,302,,Thread-Gruppe 1-4,,true,,756,278,6,6,10,0,0
+1607893395525,10,Login-0,302,,Thread-Gruppe 1-6,,true,,755,278,6,6,10,0,0
+1607893395535,6,Login-1,200,,Thread-Gruppe 1-4,text,true,,9349,749,6,6,6,0,0
+1607893395535,6,Login-1,200,,Thread-Gruppe 1-6,text,true,,9349,748,6,6,6,0,0
+1607893395525,19,Add Product 2 to Cart,200,,Thread-Gruppe 1-1,text,true,,26425,1987,6,6,3,0,0
+1607893395525,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-1,,true,,1002,992,6,6,3,0,0
+1607893395529,15,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-1,text,true,,25423,995,6,6,15,0,0
+1607893395530,15,Look at Product,200,,Thread-Gruppe 1-3,text,true,,87592,762,6,6,15,0,0
+1607893395536,12,Login,200,,Thread-Gruppe 1-5,text,true,,10104,1026,6,6,8,0,0
+1607893395536,8,Login-0,302,,Thread-Gruppe 1-5,,true,,755,278,6,6,8,0,0
+1607893395544,4,Login-1,200,,Thread-Gruppe 1-5,text,true,,9349,748,6,6,4,0,0
+1607893395533,16,Login,200,,Thread-Gruppe 1-2,text,true,,10103,1025,6,6,8,0,0
+1607893395533,8,Login-0,302,,Thread-Gruppe 1-2,,true,,754,278,6,6,8,0,0
+1607893395542,7,Login-1,200,,Thread-Gruppe 1-2,text,true,,9349,747,6,6,7,0,0
+1607893395544,7,Logout,200,,Thread-Gruppe 1-1,text,true,,10479,1831,6,6,2,0,0
+1607893395544,2,Logout-0,302,,Thread-Gruppe 1-1,,true,,1344,1093,6,6,2,0,0
+1607893395546,5,Logout-1,200,,Thread-Gruppe 1-1,text,true,,9135,738,6,6,5,0,0
+1607893395542,10,List Products,200,,Thread-Gruppe 1-4,text,true,,108144,775,6,6,8,0,0
+1607893395542,10,List Products,200,,Thread-Gruppe 1-6,text,true,,118983,774,6,6,8,0,0
+1607893395551,7,Home,200,,Thread-Gruppe 1-1,text,true,,8822,150,6,6,7,0,0
+1607893395549,10,List Products,200,,Thread-Gruppe 1-2,text,true,,118983,773,6,6,6,0,0
+1607893395549,11,List Products,200,,Thread-Gruppe 1-5,text,true,,118983,774,6,6,9,0,0
+1607893395546,16,Add Product to Cart,200,,Thread-Gruppe 1-3,text,true,,24243,1745,6,6,2,0,0
+1607893395546,2,Add Product to Cart-0,302,,Thread-Gruppe 1-3,,true,,885,867,6,6,2,0,0
+1607893395548,14,Add Product to Cart-1,200,,Thread-Gruppe 1-3,text,true,,23358,878,6,6,14,0,0
+1607893395553,16,Look at Product,200,,Thread-Gruppe 1-6,text,true,,110156,762,6,6,15,0,0
+1607893395553,19,Look at Product,200,,Thread-Gruppe 1-4,text,true,,105062,763,6,6,19,0,0
+1607893395559,26,Login,200,,Thread-Gruppe 1-1,text,true,,10103,1025,6,6,9,0,0
+1607893395559,9,Login-0,302,,Thread-Gruppe 1-1,,true,,754,278,6,6,9,0,0
+1607893395568,17,Login-1,200,,Thread-Gruppe 1-1,text,true,,9349,747,6,6,17,0,0
+1607893395560,28,Look at Product,200,,Thread-Gruppe 1-2,text,true,,102819,761,6,6,27,0,0
+1607893395563,24,List Products with different page,200,,Thread-Gruppe 1-3,text,true,,108166,900,6,6,21,0,0
+1607893395560,30,Look at Product,200,,Thread-Gruppe 1-5,text,true,,104575,762,6,6,28,0,0
+1607893395569,26,Add Product to Cart,200,,Thread-Gruppe 1-6,text,true,,25863,1745,6,6,14,0,0
+1607893395569,14,Add Product to Cart-0,302,,Thread-Gruppe 1-6,,true,,885,867,6,6,14,0,0
+1607893395583,12,Add Product to Cart-1,200,,Thread-Gruppe 1-6,text,true,,24978,878,6,6,12,0,0
+1607893395573,23,Add Product to Cart,200,,Thread-Gruppe 1-4,text,true,,28930,1747,6,6,10,0,0
+1607893395573,10,Add Product to Cart-0,302,,Thread-Gruppe 1-4,,true,,886,868,6,6,10,0,0
+1607893395583,13,Add Product to Cart-1,200,,Thread-Gruppe 1-4,text,true,,28044,879,6,6,13,0,0
+1607893395586,10,List Products,200,,Thread-Gruppe 1-1,text,true,,108144,773,6,6,8,0,0
+1607893395588,14,Add Product to Cart,200,,Thread-Gruppe 1-2,text,true,,23882,1743,6,6,4,0,0
+1607893395588,4,Add Product to Cart-0,302,,Thread-Gruppe 1-2,,true,,884,866,6,6,4,0,0
+1607893395592,10,Add Product to Cart-1,200,,Thread-Gruppe 1-2,text,true,,22998,877,6,6,10,0,0
+1607893395589,13,Add Product 2 to Cart,200,,Thread-Gruppe 1-3,text,true,,24941,1989,6,6,3,0,0
+1607893395590,12,Add Product to Cart,200,,Thread-Gruppe 1-5,text,true,,25169,1745,6,6,3,0,0
+1607893395589,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-3,,true,,1003,993,6,6,3,0,0
+1607893395590,3,Add Product to Cart-0,302,,Thread-Gruppe 1-5,,true,,885,867,6,6,3,0,0
+1607893395592,10,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-3,text,true,,23938,996,6,6,10,0,0
+1607893395593,9,Add Product to Cart-1,200,,Thread-Gruppe 1-5,text,true,,24284,878,6,6,9,0,0
+1607893395597,7,List Products with different page,200,,Thread-Gruppe 1-4,text,true,,108166,901,6,6,5,0,0
+1607893395596,8,List Products with different page,200,,Thread-Gruppe 1-6,text,true,,119345,900,6,6,6,0,0
+1607893395597,10,Look at Product,200,,Thread-Gruppe 1-1,text,true,,92919,761,6,6,10,0,0
+1607893395603,7,Logout,200,,Thread-Gruppe 1-3,text,true,,10479,1832,6,6,2,0,0
+1607893395603,2,Logout-0,302,,Thread-Gruppe 1-3,,true,,1344,1094,6,6,2,0,0
+1607893395606,4,Logout-1,200,,Thread-Gruppe 1-3,text,true,,9135,738,6,6,3,0,0
+1607893395602,9,List Products with different page,200,,Thread-Gruppe 1-2,text,true,,119005,899,6,6,8,0,0
+1607893395603,9,List Products with different page,200,,Thread-Gruppe 1-5,text,true,,119005,900,6,6,7,0,0
+1607893395610,3,Home,200,,Thread-Gruppe 1-3,text,true,,8822,150,6,6,3,0,0
+1607893395604,16,Add Product 2 to Cart,200,,Thread-Gruppe 1-4,text,true,,29636,1992,7,7,4,0,0
+1607893395604,16,Add Product 2 to Cart,200,,Thread-Gruppe 1-6,text,true,,26559,1989,7,7,4,0,0
+1607893395604,4,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-4,,true,,1005,994,7,7,4,0,0
+1607893395604,4,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-6,,true,,1003,993,7,7,4,0,0
+1607893395608,12,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-4,text,true,,28631,998,7,7,12,0,0
+1607893395608,12,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-6,text,true,,25556,996,7,7,12,0,0
+1607893395620,3,Home,200,,Thread-Gruppe 1-7,text,true,,8822,150,7,7,3,0,0
+1607893395613,10,Login,200,,Thread-Gruppe 1-3,text,true,,10105,1027,7,7,7,0,0
+1607893395613,7,Login-0,302,,Thread-Gruppe 1-3,,true,,756,278,7,7,7,0,0
+1607893395620,3,Login-1,200,,Thread-Gruppe 1-3,text,true,,9349,749,7,7,3,0,0
+1607893395608,17,Add Product to Cart,200,,Thread-Gruppe 1-1,text,true,,25718,1743,7,7,2,0,0
+1607893395608,2,Add Product to Cart-0,302,,Thread-Gruppe 1-1,,true,,884,866,7,7,2,0,0
+1607893395611,14,Add Product to Cart-1,200,,Thread-Gruppe 1-1,text,true,,24834,877,7,7,14,0,0
+1607893395620,6,Logout,200,,Thread-Gruppe 1-6,text,true,,10479,1832,7,7,2,0,0
+1607893395620,2,Logout-0,302,,Thread-Gruppe 1-6,,true,,1344,1094,7,7,2,0,0
+1607893395623,3,Logout-1,200,,Thread-Gruppe 1-6,text,true,,9135,738,7,7,3,0,0
+1607893395620,7,Logout,200,,Thread-Gruppe 1-4,text,true,,10479,1834,7,7,2,0,0
+1607893395620,2,Logout-0,302,,Thread-Gruppe 1-4,,true,,1344,1096,7,7,2,0,0
+1607893395623,4,Logout-1,200,,Thread-Gruppe 1-4,text,true,,9135,738,7,7,4,0,0
+1607893395612,16,Add Product 2 to Cart,200,,Thread-Gruppe 1-2,text,true,,24578,1987,7,7,3,0,0
+1607893395612,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-2,,true,,1002,992,7,7,3,0,0
+1607893395616,12,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-2,text,true,,23576,995,7,7,12,0,0
+1607893395627,2,Home,200,,Thread-Gruppe 1-6,text,true,,8822,150,7,7,2,0,0
+1607893395613,16,Add Product 2 to Cart,200,,Thread-Gruppe 1-5,text,true,,25859,1989,7,7,3,0,0
+1607893395613,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-5,,true,,1003,993,7,7,3,0,0
+1607893395617,12,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-5,text,true,,24856,996,7,7,12,0,0
+1607893395628,6,Logout,200,,Thread-Gruppe 1-2,text,true,,10479,1831,7,7,2,0,0
+1607893395630,4,Logout,200,,Thread-Gruppe 1-5,text,true,,10479,1832,7,7,1,0,0
+1607893395628,2,Logout-0,302,,Thread-Gruppe 1-2,,true,,1344,1093,7,7,2,0,0
+1607893395630,1,Logout-0,302,,Thread-Gruppe 1-5,,true,,1344,1094,7,7,1,0,0
+1607893395630,4,Logout-1,200,,Thread-Gruppe 1-2,text,true,,9135,738,7,7,4,0,0
+1607893395632,2,Logout-1,200,,Thread-Gruppe 1-5,text,true,,9135,738,7,7,2,0,0
+1607893395624,13,List Products,200,,Thread-Gruppe 1-3,text,true,,108144,775,7,7,13,0,0
+1607893395634,4,Home,200,,Thread-Gruppe 1-5,text,true,,8822,150,7,7,3,0,0
+1607893395634,4,Home,200,,Thread-Gruppe 1-2,text,true,,8822,150,7,7,4,0,0
+1607893395624,15,Login,200,,Thread-Gruppe 1-7,text,true,,10105,1027,7,7,12,0,0
+1607893395624,12,Login-0,302,,Thread-Gruppe 1-7,,true,,756,278,7,7,12,0,0
+1607893395636,3,Login-1,200,,Thread-Gruppe 1-7,text,true,,9349,749,7,7,3,0,0
+1607893395627,13,Home,200,,Thread-Gruppe 1-4,text,true,,8822,150,7,7,13,0,0
+1607893395630,11,Login,200,,Thread-Gruppe 1-6,text,true,,10104,1026,7,7,7,0,0
+1607893395630,7,Login-0,302,,Thread-Gruppe 1-6,,true,,755,278,7,7,7,0,0
+1607893395638,3,Login-1,200,,Thread-Gruppe 1-6,text,true,,9349,748,7,7,3,0,0
+1607893395625,16,List Products with different page,200,,Thread-Gruppe 1-1,text,true,,105728,899,7,7,15,0,0
+1607893395638,10,Look at Product,200,,Thread-Gruppe 1-3,text,true,,88821,763,7,7,10,0,0
+1607893395640,8,List Products,200,,Thread-Gruppe 1-7,text,true,,147011,775,7,7,6,0,0
+1607893395638,11,Login,200,,Thread-Gruppe 1-5,text,true,,10103,1025,7,7,8,0,0
+1607893395638,8,Login-0,302,,Thread-Gruppe 1-5,,true,,754,278,7,7,8,0,0
+1607893395646,3,Login-1,200,,Thread-Gruppe 1-5,text,true,,9349,747,7,7,3,0,0
+1607893395641,12,List Products,200,,Thread-Gruppe 1-6,text,true,,100738,774,7,7,10,0,0
+1607893395638,17,Login,200,,Thread-Gruppe 1-2,text,true,,10104,1026,7,7,13,0,0
+1607893395640,16,Login,200,,Thread-Gruppe 1-4,text,true,,10105,1027,7,7,11,0,0
+1607893395638,13,Login-0,302,,Thread-Gruppe 1-2,,true,,755,278,7,7,13,0,0
+1607893395652,3,Login-1,200,,Thread-Gruppe 1-2,text,true,,9349,748,7,7,3,0,0
+1607893395640,11,Login-0,302,,Thread-Gruppe 1-4,,true,,756,278,7,7,11,0,0
+1607893395652,4,Login-1,200,,Thread-Gruppe 1-4,text,true,,9349,749,7,7,3,0,0
+1607893395642,16,Add Product 2 to Cart,200,,Thread-Gruppe 1-1,text,true,,26414,1987,7,7,5,0,0
+1607893395642,5,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-1,,true,,1002,992,7,7,5,0,0
+1607893395647,11,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-1,text,true,,25412,995,7,7,11,0,0
+1607893395650,9,List Products,200,,Thread-Gruppe 1-5,text,true,,108144,773,7,7,7,0,0
+1607893395649,15,Look at Product,200,,Thread-Gruppe 1-7,text,true,,142370,763,7,7,14,0,0
+1607893395654,12,Look at Product,200,,Thread-Gruppe 1-6,text,true,,91838,762,7,7,11,0,0
+1607893395649,21,Add Product to Cart,200,,Thread-Gruppe 1-3,text,true,,24250,1747,7,7,2,0,0
+1607893395649,2,Add Product to Cart-0,302,,Thread-Gruppe 1-3,,true,,886,868,7,7,2,0,0
+1607893395652,18,Add Product to Cart-1,200,,Thread-Gruppe 1-3,text,true,,23364,879,7,7,12,0,0
+1607893395719,85,Home,200,,Thread-Gruppe 1-8,text,true,,8822,150,8,8,85,0,1
+1607893395670,135,List Products with different page,200,,Thread-Gruppe 1-3,text,true,,105745,901,8,8,133,0,0
+1607893395656,150,List Products,200,,Thread-Gruppe 1-2,text,true,,118983,774,8,8,148,0,0
+1607893395658,148,Logout,200,,Thread-Gruppe 1-1,text,true,,10479,1831,8,8,2,0,0
+1607893395658,2,Logout-0,302,,Thread-Gruppe 1-1,,true,,1344,1093,8,8,2,0,0
+1607893395661,145,Logout-1,200,,Thread-Gruppe 1-1,text,true,,9135,738,8,8,145,0,0
+1607893395656,150,List Products,200,,Thread-Gruppe 1-4,text,true,,147011,775,8,8,147,0,0
+1607893395807,5,Home,200,,Thread-Gruppe 1-1,text,true,,8822,150,8,8,4,0,0
+1607893395660,158,Look at Product,200,,Thread-Gruppe 1-5,text,true,,89352,761,8,8,157,0,0
+1607893395664,156,Add Product to Cart,200,,Thread-Gruppe 1-7,text,true,,26771,1748,9,9,140,0,0
+1607893395664,140,Add Product to Cart-0,302,,Thread-Gruppe 1-7,,true,,887,868,9,9,140,0,0
+1607893395804,16,Add Product to Cart-1,200,,Thread-Gruppe 1-7,text,true,,25884,880,9,9,16,0,0
+1607893395804,17,Login,200,,Thread-Gruppe 1-8,text,true,,10105,1027,9,9,13,0,0
+1607893395804,13,Login-0,302,,Thread-Gruppe 1-8,,true,,756,278,9,9,13,0,0
+1607893395817,4,Login-1,200,,Thread-Gruppe 1-8,text,true,,9349,749,9,9,3,0,0
+1607893395666,155,Add Product to Cart,200,,Thread-Gruppe 1-6,text,true,,25856,1745,9,9,140,0,0
+1607893395666,140,Add Product to Cart-0,302,,Thread-Gruppe 1-6,,true,,885,867,9,9,140,0,0
+1607893395806,15,Add Product to Cart-1,200,,Thread-Gruppe 1-6,text,true,,24971,878,9,9,15,0,0
+1607893395807,15,Look at Product,200,,Thread-Gruppe 1-2,text,true,,103724,762,9,9,14,0,0
+1607893395807,17,Look at Product,200,,Thread-Gruppe 1-4,text,true,,148704,763,9,9,16,0,0
+1607893395821,4,Home,200,,Thread-Gruppe 1-9,text,true,,8822,150,9,9,4,0,0
+1607893395805,22,Add Product 2 to Cart,200,,Thread-Gruppe 1-3,text,true,,24953,1992,9,9,5,0,0
+1607893395805,5,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-3,,true,,1005,994,9,9,5,0,0
+1607893395810,17,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-3,text,true,,23948,998,9,9,17,0,0
+1607893395812,18,Login,200,,Thread-Gruppe 1-1,text,true,,10104,1026,9,9,15,0,0
+1607893395812,15,Login-0,302,,Thread-Gruppe 1-1,,true,,755,278,9,9,15,0,0
+1607893395827,3,Login-1,200,,Thread-Gruppe 1-1,text,true,,9349,748,9,9,3,0,0
+1607893395821,10,List Products with different page,200,,Thread-Gruppe 1-6,text,true,,99009,900,9,9,10,0,0
+1607893395820,16,List Products with different page,200,,Thread-Gruppe 1-7,text,true,,145136,902,9,9,14,0,0
+1607893395827,10,Logout,200,,Thread-Gruppe 1-3,text,true,,10479,1834,9,9,4,0,0
+1607893395827,4,Logout-0,302,,Thread-Gruppe 1-3,,true,,1344,1096,9,9,4,0,0
+1607893395831,6,Logout-1,200,,Thread-Gruppe 1-3,text,true,,9135,738,9,9,6,0,0
+1607893395826,11,Login,200,,Thread-Gruppe 1-9,text,true,,10104,1026,9,9,8,0,0
+1607893395826,8,Login-0,302,,Thread-Gruppe 1-9,,true,,755,278,9,9,8,0,0
+1607893395834,3,Login-1,200,,Thread-Gruppe 1-9,text,true,,9349,748,9,9,3,0,0
+1607893395818,21,Add Product to Cart,200,,Thread-Gruppe 1-5,text,true,,25162,1744,9,9,4,0,0
+1607893395818,4,Add Product to Cart-0,302,,Thread-Gruppe 1-5,,true,,885,866,9,9,4,0,0
+1607893395823,16,Add Product to Cart-1,200,,Thread-Gruppe 1-5,text,true,,24277,878,9,9,16,0,0
+1607893395822,18,Add Product to Cart,200,,Thread-Gruppe 1-2,text,true,,23885,1745,9,9,5,0,0
+1607893395822,5,Add Product to Cart-0,302,,Thread-Gruppe 1-2,,true,,885,867,9,9,5,0,0
+1607893395827,13,Add Product to Cart-1,200,,Thread-Gruppe 1-2,text,true,,23000,878,9,9,12,0,0
+1607893395837,5,Home,200,,Thread-Gruppe 1-3,text,true,,8822,150,9,9,5,0,0
+1607893395821,20,List Products,200,,Thread-Gruppe 1-8,text,true,,147011,775,9,9,18,0,0
+1607893395825,17,Add Product to Cart,200,,Thread-Gruppe 1-4,text,true,,28918,1705,9,9,3,0,0
+1607893395825,3,Add Product to Cart-0,302,,Thread-Gruppe 1-4,,true,,886,826,9,9,3,0,0
+1607893395828,14,Add Product to Cart-1,200,,Thread-Gruppe 1-4,text,true,,28032,879,9,9,14,0,0
+1607893395830,13,List Products,200,,Thread-Gruppe 1-1,text,true,,100738,774,9,9,11,0,0
+1607893395840,8,List Products with different page,200,,Thread-Gruppe 1-2,text,true,,116591,900,9,9,7,0,0
+1607893395837,11,List Products,200,,Thread-Gruppe 1-9,text,true,,118983,774,9,9,10,0,0
+1607893395839,9,List Products with different page,200,,Thread-Gruppe 1-5,text,true,,106843,900,9,9,8,0,0
+1607893395834,18,Add Product 2 to Cart,200,,Thread-Gruppe 1-6,text,true,,26570,1990,9,9,5,0,0
+1607893395834,5,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-6,,true,,1004,993,9,9,5,0,0
+1607893395839,13,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-6,text,true,,25566,997,9,9,12,0,0
+1607893395843,11,List Products with different page,200,,Thread-Gruppe 1-4,text,true,,142419,901,9,9,10,0,0
+1607893395844,13,Look at Product,200,,Thread-Gruppe 1-1,text,true,,89542,762,9,9,13,0,0
+1607893395842,16,Login,200,,Thread-Gruppe 1-3,text,true,,10105,1027,9,9,9,0,0
+1607893395842,9,Login-0,302,,Thread-Gruppe 1-3,,true,,756,278,9,9,9,0,0
+1607893395851,7,Login-1,200,,Thread-Gruppe 1-3,text,true,,9349,749,9,9,7,0,0
+1607893395842,17,Look at Product,200,,Thread-Gruppe 1-8,text,true,,148627,763,9,9,17,0,0
+1607893395852,8,Logout,200,,Thread-Gruppe 1-6,text,true,,10479,1833,9,9,4,0,0
+1607893395852,4,Logout-0,302,,Thread-Gruppe 1-6,,true,,1344,1095,9,9,4,0,0
+1607893395857,3,Logout-1,200,,Thread-Gruppe 1-6,text,true,,9135,738,9,9,3,0,0
+1607893395837,24,Add Product 2 to Cart,200,,Thread-Gruppe 1-7,text,true,,27478,1994,9,9,5,0,0
+1607893395837,5,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-7,,true,,1006,995,9,9,5,0,0
+1607893395842,19,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-7,text,true,,26472,999,9,9,18,0,0
+1607893395861,3,Home,200,,Thread-Gruppe 1-6,text,true,,8822,150,9,9,2,0,0
+1607893395849,17,Add Product 2 to Cart,200,,Thread-Gruppe 1-2,text,true,,24593,1989,9,9,4,0,0
+1607893395849,17,Look at Product,200,,Thread-Gruppe 1-9,text,true,,120017,762,9,9,17,0,0
+1607893395849,4,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-2,,true,,1003,993,9,9,4,0,0
+1607893395854,12,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-2,text,true,,23590,996,9,9,12,0,0
+1607893395861,7,Logout,200,,Thread-Gruppe 1-7,text,true,,10479,1835,9,9,2,0,0
+1607893395861,2,Logout-0,302,,Thread-Gruppe 1-7,,true,,1344,1097,9,9,2,0,0
+1607893395863,5,Logout-1,200,,Thread-Gruppe 1-7,text,true,,9135,738,9,9,5,0,0
+1607893395849,20,Add Product 2 to Cart,200,,Thread-Gruppe 1-5,text,true,,25876,1989,9,9,6,0,0
+1607893395849,6,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-5,,true,,1003,993,9,9,6,0,0
+1607893395855,14,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-5,text,true,,24873,996,9,9,13,0,0
+1607893395858,10,List Products,200,,Thread-Gruppe 1-3,text,true,,108144,775,9,9,9,0,0
+1607893395869,3,Home,200,,Thread-Gruppe 1-7,text,true,,8822,150,9,9,3,0,0
+1607893395867,6,Logout,200,,Thread-Gruppe 1-2,text,true,,10479,1832,9,9,2,0,0
+1607893395855,18,Add Product 2 to Cart,200,,Thread-Gruppe 1-4,text,true,,29606,1991,9,9,3,0,0
+1607893395858,15,Add Product to Cart,200,,Thread-Gruppe 1-1,text,true,,25711,1745,9,9,3,0,0
+1607893395867,2,Logout-0,302,,Thread-Gruppe 1-2,,true,,1344,1094,9,9,2,0,0
+1607893395855,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-4,,true,,1004,994,9,9,3,0,0
+1607893395858,3,Add Product to Cart-0,302,,Thread-Gruppe 1-1,,true,,885,867,9,9,3,0,0
+1607893395870,3,Logout-1,200,,Thread-Gruppe 1-2,text,true,,9135,738,9,9,3,0,0
+1607893395858,15,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-4,text,true,,28602,997,9,9,14,0,0
+1607893395861,12,Add Product to Cart-1,200,,Thread-Gruppe 1-1,text,true,,24826,878,9,9,12,0,0
+1607893395869,6,Logout,200,,Thread-Gruppe 1-5,text,true,,10479,1832,9,9,2,0,0
+1607893395869,2,Logout-0,302,,Thread-Gruppe 1-5,,true,,1344,1094,9,9,2,0,0
+1607893395871,4,Logout-1,200,,Thread-Gruppe 1-5,text,true,,9135,738,9,9,4,0,0
+1607893395864,13,Login,200,,Thread-Gruppe 1-6,text,true,,10104,1026,9,9,9,0,0
+1607893395864,9,Login-0,302,,Thread-Gruppe 1-6,,true,,755,278,9,9,9,0,0
+1607893395873,4,Login-1,200,,Thread-Gruppe 1-6,text,true,,9349,748,9,9,4,0,0
+1607893395873,4,Home,200,,Thread-Gruppe 1-2,text,true,,8822,150,9,9,4,0,0
+1607893395875,3,Home,200,,Thread-Gruppe 1-5,text,true,,8822,150,9,9,3,0,0
+1607893395873,6,Logout,200,,Thread-Gruppe 1-4,text,true,,10479,1833,9,9,2,0,0
+1607893395873,2,Logout-0,302,,Thread-Gruppe 1-4,,true,,1344,1095,9,9,2,0,0
+1607893395875,4,Logout-1,200,,Thread-Gruppe 1-4,text,true,,9135,738,9,9,4,0,0
+1607893395873,7,List Products with different page,200,,Thread-Gruppe 1-1,text,true,,98216,900,9,9,6,0,0
+1607893395879,5,Home,200,,Thread-Gruppe 1-4,text,true,,8822,150,9,9,5,0,0
+1607893395859,27,Add Product to Cart,200,,Thread-Gruppe 1-8,text,true,,28917,1747,9,9,4,0,0
+1607893395859,4,Add Product to Cart-0,302,,Thread-Gruppe 1-8,,true,,886,868,9,9,4,0,0
+1607893395863,23,Add Product to Cart-1,200,,Thread-Gruppe 1-8,text,true,,28031,879,9,9,22,0,0
+1607893395878,15,Login,200,,Thread-Gruppe 1-5,text,true,,10103,1025,9,9,7,0,0
+1607893395872,21,Login,200,,Thread-Gruppe 1-7,text,true,,10103,1025,9,9,13,0,0
+1607893395878,7,Login-0,302,,Thread-Gruppe 1-5,,true,,754,278,9,9,7,0,0
+1607893395878,15,Login,200,,Thread-Gruppe 1-2,text,true,,10104,1026,9,9,6,0,0
+1607893395885,8,Login-1,200,,Thread-Gruppe 1-5,text,true,,9349,747,9,9,8,0,0
+1607893395872,13,Login-0,302,,Thread-Gruppe 1-7,,true,,754,278,9,9,13,0,0
+1607893395878,6,Login-0,302,,Thread-Gruppe 1-2,,true,,755,278,9,9,6,0,0
+1607893395885,8,Login-1,200,,Thread-Gruppe 1-7,text,true,,9349,747,9,9,8,0,0
+1607893395884,9,Login-1,200,,Thread-Gruppe 1-2,text,true,,9349,748,9,9,9,0,0
+1607893395867,27,Add Product to Cart,200,,Thread-Gruppe 1-9,text,true,,28926,1746,9,9,2,0,0
+1607893395867,2,Add Product to Cart-0,302,,Thread-Gruppe 1-9,,true,,886,867,9,9,2,0,0
+1607893395869,25,Add Product to Cart-1,200,,Thread-Gruppe 1-9,text,true,,28040,879,9,9,24,0,0
+1607893395877,19,List Products,200,,Thread-Gruppe 1-6,text,true,,108144,774,9,9,17,0,0
+1607893395869,28,Look at Product,200,,Thread-Gruppe 1-3,text,true,,89479,763,9,9,27,0,0
+1607893395884,13,Login,200,,Thread-Gruppe 1-4,text,true,,10105,1027,9,9,10,0,0
+1607893395884,10,Login-0,302,,Thread-Gruppe 1-4,,true,,756,278,9,9,10,0,0
+1607893395894,3,Login-1,200,,Thread-Gruppe 1-4,text,true,,9349,749,9,9,3,0,0
+1607893395894,8,List Products,200,,Thread-Gruppe 1-7,text,true,,100738,773,9,9,7,0,0
+1607893395881,23,Add Product 2 to Cart,200,,Thread-Gruppe 1-1,text,true,,26400,1988,9,9,2,0,0
+1607893395881,2,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-1,,true,,1002,993,9,9,2,0,0
+1607893395883,21,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-1,text,true,,25398,995,9,9,20,0,0
+1607893395886,17,List Products with different page,200,,Thread-Gruppe 1-8,text,true,,145136,901,9,9,14,0,0
+1607893395894,10,List Products with different page,200,,Thread-Gruppe 1-9,text,true,,116591,901,9,9,9,0,0
+1607893395894,13,List Products,200,,Thread-Gruppe 1-5,text,true,,93444,773,9,9,9,0,0
+1607893395898,9,List Products,200,,Thread-Gruppe 1-4,text,true,,108144,775,9,9,9,0,0
+1607893395894,13,List Products,200,,Thread-Gruppe 1-2,text,true,,108144,774,9,9,13,0,0
+1607893395897,14,Look at Product,200,,Thread-Gruppe 1-6,text,true,,96100,762,9,9,13,0,0
+1607893395897,14,Add Product to Cart,200,,Thread-Gruppe 1-3,text,true,,24238,1747,9,9,4,0,0
+1607893395897,4,Add Product to Cart-0,302,,Thread-Gruppe 1-3,,true,,886,868,9,9,4,0,0
+1607893395902,9,Add Product to Cart-1,200,,Thread-Gruppe 1-3,text,true,,23352,879,9,9,9,0,0
+1607893395903,12,Look at Product,200,,Thread-Gruppe 1-7,text,true,,92901,761,9,9,11,0,0
+1607893395904,12,Logout,200,,Thread-Gruppe 1-1,text,true,,10479,1831,9,9,7,0,0
+1607893395904,7,Logout-0,302,,Thread-Gruppe 1-1,,true,,1344,1093,9,9,7,0,0
+1607893395911,5,Logout-1,200,,Thread-Gruppe 1-1,text,true,,9135,738,9,9,5,0,0
+1607893395916,4,Home,200,,Thread-Gruppe 1-1,text,true,,8822,150,10,10,4,0,0
+1607893395904,19,Add Product 2 to Cart,200,,Thread-Gruppe 1-9,text,true,,29619,1991,10,10,5,0,0
+1607893395904,5,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-9,,true,,1004,994,10,10,5,0,0
+1607893395909,14,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-9,text,true,,28615,997,10,10,14,0,0
+1607893395904,20,Add Product 2 to Cart,200,,Thread-Gruppe 1-8,text,true,,29611,1991,10,10,7,0,0
+1607893395904,7,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-8,,true,,1004,994,10,10,7,0,0
+1607893395911,13,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-8,text,true,,28607,997,10,10,13,0,0
+1607893395919,5,Home,200,,Thread-Gruppe 1-10,text,true,,8822,150,10,10,5,0,1
+1607893395908,17,Look at Product,200,,Thread-Gruppe 1-2,text,true,,87230,762,10,10,16,0,0
+1607893395908,17,Look at Product,200,,Thread-Gruppe 1-4,text,true,,105127,763,10,10,16,0,0
+1607893395908,19,Look at Product,200,,Thread-Gruppe 1-5,text,true,,87035,760,10,10,18,0,0
+1607893395912,19,List Products with different page,200,,Thread-Gruppe 1-3,text,true,,106843,901,10,10,19,0,0
+1607893395912,21,Add Product to Cart,200,,Thread-Gruppe 1-6,text,true,,25858,1745,10,10,2,0,0
+1607893395912,2,Add Product to Cart-0,302,,Thread-Gruppe 1-6,,true,,885,867,10,10,2,0,0
+1607893395914,19,Add Product to Cart-1,200,,Thread-Gruppe 1-6,text,true,,24973,878,10,10,19,0,0
+1607893395920,14,Login,200,,Thread-Gruppe 1-1,text,true,,10103,1025,10,10,8,0,0
+1607893395920,8,Login-0,302,,Thread-Gruppe 1-1,,true,,754,278,10,10,8,0,0
+1607893395928,6,Login-1,200,,Thread-Gruppe 1-1,text,true,,9349,747,10,10,5,0,0
+1607893395923,12,Logout,200,,Thread-Gruppe 1-9,text,true,,10479,1833,10,10,5,0,0
+1607893395923,5,Logout-0,302,,Thread-Gruppe 1-9,,true,,1344,1095,10,10,5,0,0
+1607893395928,7,Logout-1,200,,Thread-Gruppe 1-9,text,true,,9135,738,10,10,7,0,0
+1607893395925,11,Logout,200,,Thread-Gruppe 1-8,text,true,,10479,1833,10,10,3,0,0
+1607893395925,3,Logout-0,302,,Thread-Gruppe 1-8,,true,,1344,1095,10,10,3,0,0
+1607893395928,8,Logout-1,200,,Thread-Gruppe 1-8,text,true,,9135,738,10,10,8,0,0
+1607893395925,11,Login,200,,Thread-Gruppe 1-10,text,true,,10104,1027,10,10,8,0,0
+1607893395925,8,Login-0,302,,Thread-Gruppe 1-10,,true,,755,279,10,10,8,0,0
+1607893395933,3,Login-1,200,,Thread-Gruppe 1-10,text,true,,9349,748,10,10,3,0,0
+1607893395915,23,Add Product to Cart,200,,Thread-Gruppe 1-7,text,true,,26782,1743,10,10,3,0,0
+1607893395915,3,Add Product to Cart-0,302,,Thread-Gruppe 1-7,,true,,884,866,10,10,3,0,0
+1607893395919,19,Add Product to Cart-1,200,,Thread-Gruppe 1-7,text,true,,25898,877,10,10,19,0,0
+1607893395936,4,Home,200,,Thread-Gruppe 1-8,text,true,,8822,150,10,10,4,0,0
+1607893395936,4,Home,200,,Thread-Gruppe 1-9,text,true,,8822,150,10,10,4,0,0
+1607893395925,20,Add Product to Cart,200,,Thread-Gruppe 1-2,text,true,,23885,1746,10,10,7,0,0
+1607893395925,7,Add Product to Cart-0,302,,Thread-Gruppe 1-2,,true,,886,867,10,10,7,0,0
+1607893395932,13,Add Product to Cart-1,200,,Thread-Gruppe 1-2,text,true,,22999,879,10,10,13,0,0
+1607893395925,20,Add Product to Cart,200,,Thread-Gruppe 1-4,text,true,,28919,1747,10,10,4,0,0
+1607893395925,4,Add Product to Cart-0,302,,Thread-Gruppe 1-4,,true,,886,868,10,10,4,0,0
+1607893395929,16,Add Product to Cart-1,200,,Thread-Gruppe 1-4,text,true,,28033,879,10,10,16,0,0
+1607893395934,12,List Products with different page,200,,Thread-Gruppe 1-6,text,true,,105745,900,10,10,11,0,0
+1607893395928,20,Add Product to Cart,200,,Thread-Gruppe 1-5,text,true,,25148,1740,10,10,3,0,0
+1607893395928,3,Add Product to Cart-0,302,,Thread-Gruppe 1-5,,true,,882,865,10,10,3,0,0
+1607893395931,17,Add Product to Cart-1,200,,Thread-Gruppe 1-5,text,true,,24266,875,10,10,17,0,0
+1607893395937,11,List Products,200,,Thread-Gruppe 1-10,text,true,,108144,774,10,10,9,0,0
+1607893395934,14,List Products,200,,Thread-Gruppe 1-1,text,true,,93444,773,10,10,13,0,0
+1607893395938,12,List Products with different page,200,,Thread-Gruppe 1-7,text,true,,101683,899,10,10,11,0,0
+1607893395940,13,Login,200,,Thread-Gruppe 1-9,text,true,,10104,1026,10,10,9,0,0
+1607893395940,13,Login,200,,Thread-Gruppe 1-8,text,true,,10104,1026,10,10,9,0,0
+1607893395940,9,Login-0,302,,Thread-Gruppe 1-9,,true,,755,278,10,10,9,0,0
+1607893395940,9,Login-0,302,,Thread-Gruppe 1-8,,true,,755,278,10,10,9,0,0
+1607893395949,4,Login-1,200,,Thread-Gruppe 1-9,text,true,,9349,748,10,10,4,0,0
+1607893395949,4,Login-1,200,,Thread-Gruppe 1-8,text,true,,9349,748,10,10,4,0,0
+1607893395932,23,Add Product 2 to Cart,200,,Thread-Gruppe 1-3,text,true,,24926,1991,10,10,4,0,0
+1607893395932,4,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-3,,true,,1004,994,10,10,4,0,0
+1607893395936,19,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-3,text,true,,23922,997,10,10,19,0,0
+1607893395948,11,List Products with different page,200,,Thread-Gruppe 1-5,text,true,,95568,897,10,10,11,0,0
+1607893395945,11,List Products with different page,200,,Thread-Gruppe 1-2,text,true,,105728,901,10,10,10,0,0
+1607893395946,10,List Products with different page,200,,Thread-Gruppe 1-4,text,true,,108166,901,10,10,9,0,0
+1607893395947,17,Add Product 2 to Cart,200,,Thread-Gruppe 1-6,text,true,,26551,1989,10,10,3,0,0
+1607893395949,15,Look at Product,200,,Thread-Gruppe 1-1,text,true,,89521,760,10,10,14,0,0
+1607893395947,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-6,,true,,1003,993,10,10,3,0,0
+1607893395951,13,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-6,text,true,,25548,996,10,10,13,0,0
+1607893395955,10,Logout,200,,Thread-Gruppe 1-3,text,true,,10479,1833,10,10,4,0,0
+1607893395955,4,Logout-0,302,,Thread-Gruppe 1-3,,true,,1344,1095,10,10,4,0,0
+1607893395960,5,Logout-1,200,,Thread-Gruppe 1-3,text,true,,9135,738,10,10,5,0,0
+1607893395953,12,List Products,200,,Thread-Gruppe 1-9,text,true,,147011,774,10,10,11,0,0
+1607893395953,13,List Products,200,,Thread-Gruppe 1-8,text,true,,93444,774,10,10,11,0,0
+1607893395949,18,Look at Product,200,,Thread-Gruppe 1-10,text,true,,92416,762,10,10,18,0,0
+1607893395966,3,Home,200,,Thread-Gruppe 1-3,text,true,,8822,150,10,10,3,0,0
+1607893395965,10,Logout,200,,Thread-Gruppe 1-6,text,true,,10479,1832,10,10,3,0,0
+1607893395965,3,Logout-0,302,,Thread-Gruppe 1-6,,true,,1344,1094,10,10,3,0,0
+1607893395968,7,Logout-1,200,,Thread-Gruppe 1-6,text,true,,9135,738,10,10,7,0,0
+1607893395951,26,Add Product 2 to Cart,200,,Thread-Gruppe 1-7,text,true,,27459,1988,10,10,4,0,0
+1607893395951,4,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-7,,true,,1003,992,10,10,4,0,0
+1607893395955,22,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-7,text,true,,26456,996,10,10,22,0,0
+1607893395975,4,Home,200,,Thread-Gruppe 1-6,text,true,,8822,150,10,10,4,0,0
+1607893395960,21,Add Product 2 to Cart,200,,Thread-Gruppe 1-5,text,true,,25846,1981,10,10,3,0,0
+1607893395960,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-5,,true,,999,989,10,10,3,0,0
+1607893395963,18,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-5,text,true,,24847,992,10,10,18,0,0
+1607893395961,21,Add Product 2 to Cart,200,,Thread-Gruppe 1-2,text,true,,24576,1991,10,10,2,0,0
+1607893395961,2,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-2,,true,,1004,994,10,10,2,0,0
+1607893395963,19,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-2,text,true,,23572,997,10,10,19,0,0
+1607893395961,21,Add Product 2 to Cart,200,,Thread-Gruppe 1-4,text,true,,29622,1992,10,10,3,0,0
+1607893395961,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-4,,true,,1005,994,10,10,3,0,0
+1607893395964,18,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-4,text,true,,28617,998,10,10,18,0,0
+1607893395978,8,Logout,200,,Thread-Gruppe 1-7,text,true,,10479,1832,10,10,1,0,0
+1607893395978,1,Logout-0,302,,Thread-Gruppe 1-7,,true,,1344,1094,10,10,1,0,0
+1607893395980,6,Logout-1,200,,Thread-Gruppe 1-7,text,true,,9135,738,10,10,6,0,0
+1607893395967,19,Add Product to Cart,200,,Thread-Gruppe 1-10,text,true,,25758,1745,10,10,7,0,0
+1607893395967,7,Add Product to Cart-0,302,,Thread-Gruppe 1-10,,true,,885,867,10,10,7,0,0
+1607893395974,12,Add Product to Cart-1,200,,Thread-Gruppe 1-10,text,true,,24873,878,10,10,12,0,0
+1607893395966,21,Look at Product,200,,Thread-Gruppe 1-8,text,true,,101741,760,10,10,20,0,0
+1607893395970,17,Login,200,,Thread-Gruppe 1-3,text,true,,10105,1027,10,10,10,0,0
+1607893395970,10,Login-0,302,,Thread-Gruppe 1-3,,true,,756,278,10,10,10,0,0
+1607893395980,7,Login-1,200,,Thread-Gruppe 1-3,text,true,,9349,749,10,10,7,0,0
+1607893395965,23,Add Product to Cart,200,,Thread-Gruppe 1-1,text,true,,25704,1741,10,10,3,0,0
+1607893395965,3,Add Product to Cart-0,302,,Thread-Gruppe 1-1,,true,,883,865,10,10,3,0,0
+1607893395968,20,Add Product to Cart-1,200,,Thread-Gruppe 1-1,text,true,,24821,876,10,10,20,0,0
+1607893395983,8,Logout,200,,Thread-Gruppe 1-4,text,true,,10479,1834,10,10,2,0,0
+1607893395983,8,Logout,200,,Thread-Gruppe 1-2,text,true,,10479,1833,10,10,2,0,0
+1607893395983,2,Logout-0,302,,Thread-Gruppe 1-4,,true,,1344,1096,10,10,2,0,0
+1607893395983,2,Logout-0,302,,Thread-Gruppe 1-2,,true,,1344,1095,10,10,2,0,0
+1607893395985,6,Logout-1,200,,Thread-Gruppe 1-4,text,true,,9135,738,10,10,6,0,0
+1607893395985,6,Logout-1,200,,Thread-Gruppe 1-2,text,true,,9135,738,10,10,6,0,0
+1607893395987,4,Home,200,,Thread-Gruppe 1-7,text,true,,8822,150,10,10,4,0,0
+1607893395981,10,Logout,200,,Thread-Gruppe 1-5,text,true,,10479,1828,10,10,4,0,0
+1607893395981,4,Logout-0,302,,Thread-Gruppe 1-5,,true,,1344,1090,10,10,4,0,0
+1607893395985,6,Logout-1,200,,Thread-Gruppe 1-5,text,true,,9135,738,10,10,6,0,0
+1607893395980,13,Login,200,,Thread-Gruppe 1-6,text,true,,10103,1025,10,10,8,0,0
+1607893395980,8,Login-0,302,,Thread-Gruppe 1-6,,true,,754,278,10,10,8,0,0
+1607893395988,5,Login-1,200,,Thread-Gruppe 1-6,text,true,,9349,747,10,10,5,0,0
+1607893395966,28,Look at Product,200,,Thread-Gruppe 1-9,text,true,,148704,762,10,10,26,0,0
+1607893395992,4,Home,200,,Thread-Gruppe 1-5,text,true,,8822,150,10,10,4,0,0
+1607893395988,10,List Products with different page,200,,Thread-Gruppe 1-1,text,true,,99690,898,10,10,9,0,0
+1607893395988,10,List Products,200,,Thread-Gruppe 1-3,text,true,,118983,775,10,10,9,0,0
+1607893395992,7,Home,200,,Thread-Gruppe 1-2,text,true,,8822,150,10,10,7,0,0
+1607893395992,7,Home,200,,Thread-Gruppe 1-4,text,true,,8822,150,10,10,7,0,0
+1607893395987,12,List Products with different page,200,,Thread-Gruppe 1-10,text,true,,108166,900,10,10,11,0,0
+1607893395993,8,List Products,200,,Thread-Gruppe 1-6,text,true,,93444,773,10,10,7,0,0
+1607893395987,21,Add Product to Cart,200,,Thread-Gruppe 1-8,text,true,,28900,1739,10,10,3,0,0
+1607893395987,3,Add Product to Cart-0,302,,Thread-Gruppe 1-8,,true,,881,865,10,10,3,0,0
+1607893395991,17,Add Product to Cart-1,200,,Thread-Gruppe 1-8,text,true,,28019,874,10,10,16,0,0
+1607893395991,19,Login,200,,Thread-Gruppe 1-7,text,true,,10104,1026,10,10,8,0,0
+1607893395991,8,Login-0,302,,Thread-Gruppe 1-7,,true,,755,278,10,10,8,0,0
+1607893395999,11,Login-1,200,,Thread-Gruppe 1-7,text,true,,9349,748,10,10,11,0,0
+1607893396000,12,Login,200,,Thread-Gruppe 1-4,text,true,,10103,1025,10,10,9,0,0
+1607893396000,9,Login-0,302,,Thread-Gruppe 1-4,,true,,754,278,10,10,9,0,0
+1607893396009,3,Login-1,200,,Thread-Gruppe 1-4,text,true,,9349,747,10,10,3,0,0
+1607893395995,19,Add Product to Cart,200,,Thread-Gruppe 1-9,text,true,,28917,1745,10,10,3,0,0
+1607893395995,3,Add Product to Cart-0,302,,Thread-Gruppe 1-9,,true,,885,867,10,10,3,0,0
+1607893395998,16,Add Product to Cart-1,200,,Thread-Gruppe 1-9,text,true,,28032,878,10,10,16,0,0
+1607893396000,17,Login,200,,Thread-Gruppe 1-2,text,true,,10105,1027,10,10,14,0,0
+1607893395999,18,Add Product 2 to Cart,200,,Thread-Gruppe 1-1,text,true,,26401,1983,10,10,5,0,0
+1607893396000,14,Login-0,302,,Thread-Gruppe 1-2,,true,,756,278,10,10,14,0,0
+1607893396014,3,Login-1,200,,Thread-Gruppe 1-2,text,true,,9349,749,10,10,3,0,0
+1607893395999,5,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-1,,true,,1000,990,10,10,5,0,0
+1607893396004,13,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-1,text,true,,25401,993,10,10,13,0,0
+1607893395999,18,Look at Product,200,,Thread-Gruppe 1-3,text,true,,102379,763,10,10,18,0,0
+1607893395996,22,Login,200,,Thread-Gruppe 1-5,text,true,,10104,1026,10,10,17,0,0
+1607893395996,17,Login-0,302,,Thread-Gruppe 1-5,,true,,755,278,10,10,17,0,0
+1607893396013,5,Login-1,200,,Thread-Gruppe 1-5,text,true,,9349,748,10,10,5,0,0
+1607893396001,17,Look at Product,200,,Thread-Gruppe 1-6,text,true,,91997,760,10,10,16,0,0
+1607893396008,11,List Products with different page,200,,Thread-Gruppe 1-8,text,true,,95566,896,10,10,9,0,0
+1607893396013,9,List Products,200,,Thread-Gruppe 1-4,text,true,,108144,773,10,10,8,0,0
+1607893396000,23,Add Product 2 to Cart,200,,Thread-Gruppe 1-10,text,true,,26446,1989,10,10,7,0,0
+1607893396000,7,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-10,,true,,1003,993,10,10,7,0,0
+1607893396007,16,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-10,text,true,,25443,996,10,10,16,0,0
+1607893396011,13,List Products,200,,Thread-Gruppe 1-7,text,true,,108144,774,10,10,10,0,0
+1607893396017,8,Logout,200,,Thread-Gruppe 1-1,text,true,,10479,1829,10,10,3,0,0
+1607893396017,3,Logout-0,302,,Thread-Gruppe 1-1,,true,,1344,1091,10,10,3,0,0
+1607893396021,4,Logout-1,200,,Thread-Gruppe 1-1,text,true,,9135,738,10,10,4,0,0
+1607893396015,8,List Products with different page,200,,Thread-Gruppe 1-9,text,true,,147001,900,10,10,7,0,0
+1607893396025,4,Home,200,,Thread-Gruppe 1-1,text,true,,8822,150,10,10,4,0,0
+1607893396018,11,List Products,200,,Thread-Gruppe 1-5,text,true,,93444,774,10,10,10,0,0
+1607893396017,12,List Products,200,,Thread-Gruppe 1-2,text,true,,93444,775,10,10,11,0,0
+1607893396024,7,Logout,200,,Thread-Gruppe 1-10,text,true,,10479,1832,10,10,1,0,0
+1607893396024,1,Logout-0,302,,Thread-Gruppe 1-10,,true,,1344,1094,10,10,1,0,0
+1607893396026,5,Logout-1,200,,Thread-Gruppe 1-10,text,true,,9135,738,10,10,5,0,0
+1607893396031,4,Home,200,,Thread-Gruppe 1-10,text,true,,8822,150,10,10,3,0,0
+1607893396020,18,Add Product 2 to Cart,200,,Thread-Gruppe 1-8,text,true,,29584,1980,10,10,2,0,0
+1607893396020,2,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-8,,true,,999,988,10,10,2,0,0
+1607893396022,16,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-8,text,true,,28585,992,10,10,15,0,0
+1607893396017,21,Add Product to Cart,200,,Thread-Gruppe 1-3,text,true,,24246,1747,10,10,3,0,0
+1607893396017,3,Add Product to Cart-0,302,,Thread-Gruppe 1-3,,true,,886,868,10,10,3,0,0
+1607893396022,16,Add Product to Cart-1,200,,Thread-Gruppe 1-3,text,true,,23360,879,10,10,16,0,0
+1607893396018,20,Add Product to Cart,200,,Thread-Gruppe 1-6,text,true,,25869,1741,10,10,4,0,0
+1607893396018,4,Add Product to Cart-0,302,,Thread-Gruppe 1-6,,true,,883,865,10,10,4,0,0
+1607893396022,16,Add Product to Cart-1,200,,Thread-Gruppe 1-6,text,true,,24986,876,10,10,16,0,0
+1607893396023,15,Look at Product,200,,Thread-Gruppe 1-4,text,true,,105764,761,10,10,15,0,0
+1607893396025,16,Look at Product,200,,Thread-Gruppe 1-7,text,true,,98262,762,10,10,14,0,0
+1607893396029,13,Login,200,,Thread-Gruppe 1-1,text,true,,10103,1025,10,10,8,0,0
+1607893396029,8,Login-0,302,,Thread-Gruppe 1-1,,true,,754,278,10,10,8,0,0
+1607893396037,5,Login-1,200,,Thread-Gruppe 1-1,text,true,,9349,747,10,10,5,0,0
+1607893396026,19,Add Product 2 to Cart,200,,Thread-Gruppe 1-9,text,true,,29611,1990,10,10,3,0,0
+1607893396026,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-9,,true,,1004,993,10,10,3,0,0
+1607893396029,16,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-9,text,true,,28607,997,10,10,16,0,0
+1607893396029,16,Look at Product,200,,Thread-Gruppe 1-5,text,true,,85389,761,10,10,16,0,0
+1607893396035,11,Login,200,,Thread-Gruppe 1-10,text,true,,10104,1027,10,10,7,0,0
+1607893396035,7,Login-0,302,,Thread-Gruppe 1-10,,true,,755,279,10,10,7,0,0
+1607893396042,4,Login-1,200,,Thread-Gruppe 1-10,text,true,,9349,748,10,10,4,0,0
+1607893396038,8,List Products with different page,200,,Thread-Gruppe 1-6,text,true,,93464,898,10,10,7,0,0
+1607893396038,9,Logout,200,,Thread-Gruppe 1-8,text,true,,10479,1828,10,10,2,0,0
+1607893396038,2,Logout-0,302,,Thread-Gruppe 1-8,,true,,1344,1090,10,10,2,0,0
+1607893396040,7,Logout-1,200,,Thread-Gruppe 1-8,text,true,,9135,738,10,10,7,0,0
+1607893396029,18,Look at Product,200,,Thread-Gruppe 1-2,text,true,,84534,762,10,10,18,0,0
+1607893396038,9,List Products with different page,200,,Thread-Gruppe 1-3,text,true,,119345,901,10,10,7,0,0
+1607893396047,2,Home,200,,Thread-Gruppe 1-8,text,true,,8822,150,10,10,2,0,0
+1607893396042,13,List Products,200,,Thread-Gruppe 1-1,text,true,,147011,773,10,10,8,0,0
+1607893396045,12,Logout,200,,Thread-Gruppe 1-9,text,true,,10479,1833,10,10,3,0,0
+1607893396045,3,Logout-0,302,,Thread-Gruppe 1-9,,true,,1344,1095,10,10,3,0,0
+1607893396049,8,Logout-1,200,,Thread-Gruppe 1-9,text,true,,9135,738,10,10,8,0,0
+1607893396058,3,Home,200,,Thread-Gruppe 1-9,text,true,,8822,150,10,10,3,0,0
+1607893396046,15,List Products,200,,Thread-Gruppe 1-10,text,true,,108144,774,10,10,14,0,0
+1607893396041,23,Add Product to Cart,200,,Thread-Gruppe 1-7,text,true,,26785,1746,10,10,3,0,0
+1607893396041,3,Add Product to Cart-0,302,,Thread-Gruppe 1-7,,true,,886,867,10,10,3,0,0
+1607893396044,20,Add Product to Cart-1,200,,Thread-Gruppe 1-7,text,true,,25899,879,10,10,20,0,0
+1607893396038,28,Add Product to Cart,200,,Thread-Gruppe 1-4,text,true,,28914,1742,10,10,8,0,0
+1607893396038,8,Add Product to Cart-0,302,,Thread-Gruppe 1-4,,true,,883,866,10,10,8,0,0
+1607893396046,20,Add Product to Cart-1,200,,Thread-Gruppe 1-4,text,true,,28031,876,10,10,20,0,0
+1607893396046,25,Add Product 2 to Cart,200,,Thread-Gruppe 1-6,text,true,,26562,1983,10,10,3,0,0
+1607893396046,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-6,,true,,1000,990,10,10,3,0,0
+1607893396049,22,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-6,text,true,,25562,993,10,10,21,0,0
+1607893396050,21,Login,200,,Thread-Gruppe 1-8,text,true,,10103,1025,10,10,17,0,0
+1607893396050,17,Login-0,302,,Thread-Gruppe 1-8,,true,,754,278,10,10,17,0,0
+1607893396068,3,Login-1,200,,Thread-Gruppe 1-8,text,true,,9349,747,10,10,3,0,0
+1607893396048,23,Add Product 2 to Cart,200,,Thread-Gruppe 1-3,text,true,,24944,1992,10,10,7,0,0
+1607893396048,7,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-3,,true,,1005,994,10,10,7,0,0
+1607893396055,16,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-3,text,true,,23939,998,10,10,16,0,0
+1607893396046,26,Add Product to Cart,200,,Thread-Gruppe 1-5,text,true,,25153,1743,10,10,3,0,0
+1607893396046,3,Add Product to Cart-0,302,,Thread-Gruppe 1-5,,true,,884,866,10,10,3,0,0
+1607893396049,23,Add Product to Cart-1,200,,Thread-Gruppe 1-5,text,true,,24269,877,10,10,23,0,0
+1607893396048,25,Add Product to Cart,200,,Thread-Gruppe 1-2,text,true,,23866,1703,10,10,9,0,0
+1607893396048,9,Add Product to Cart-0,302,,Thread-Gruppe 1-2,,true,,885,825,10,10,9,0,0
+1607893396057,16,Add Product to Cart-1,200,,Thread-Gruppe 1-2,text,true,,22981,878,10,10,16,0,0
+1607893396062,12,Login,200,,Thread-Gruppe 1-9,text,true,,10104,1026,10,10,7,0,0
+1607893396062,7,Login-0,302,,Thread-Gruppe 1-9,,true,,755,278,10,10,7,0,0
+1607893396069,5,Login-1,200,,Thread-Gruppe 1-9,text,true,,9349,748,10,10,5,0,0
+1607893396056,21,Look at Product,200,,Thread-Gruppe 1-1,text,true,,138341,761,10,10,20,0,0
+1607893396065,13,List Products with different page,200,,Thread-Gruppe 1-7,text,true,,106843,901,10,10,12,0,0
+1607893396062,17,Look at Product,200,,Thread-Gruppe 1-10,text,true,,92438,762,10,10,15,0,0
+1607893396071,8,Logout,200,,Thread-Gruppe 1-6,text,true,,10479,1829,10,10,2,0,0
+1607893396071,2,Logout-0,302,,Thread-Gruppe 1-6,,true,,1344,1091,10,10,2,0,0
+1607893396074,5,Logout-1,200,,Thread-Gruppe 1-6,text,true,,9135,738,10,10,5,0,0
+1607893396066,13,List Products with different page,200,,Thread-Gruppe 1-4,text,true,,106843,898,10,10,11,0,0
+1607893396072,9,Logout,200,,Thread-Gruppe 1-3,text,true,,10479,1781,10,10,2,0,0
+1607893396072,2,Logout-0,302,,Thread-Gruppe 1-3,,true,,1344,1043,10,10,2,0,0
+1607893396074,7,Logout-1,200,,Thread-Gruppe 1-3,text,true,,9135,738,10,10,7,0,0
+1607893396073,8,List Products with different page,200,,Thread-Gruppe 1-2,text,true,,93464,900,10,10,7,0,0
+1607893396079,6,Home,200,,Thread-Gruppe 1-6,text,true,,8822,150,10,10,6,0,0
+1607893396074,7,List Products,200,,Thread-Gruppe 1-9,text,true,,93444,774,10,10,7,0,0
+1607893396071,11,List Products,200,,Thread-Gruppe 1-8,text,true,,108144,773,10,10,8,0,0
+1607893396072,13,List Products with different page,200,,Thread-Gruppe 1-5,text,true,,95568,899,10,10,12,0,0
+1607893396081,5,Home,200,,Thread-Gruppe 1-3,text,true,,8822,150,10,10,5,0,0
+1607893396077,17,Add Product to Cart,200,,Thread-Gruppe 1-1,text,true,,25719,1743,10,10,7,0,0
+1607893396077,7,Add Product to Cart-0,302,,Thread-Gruppe 1-1,,true,,884,866,10,10,7,0,0
+1607893396084,10,Add Product to Cart-1,200,,Thread-Gruppe 1-1,text,true,,24835,877,10,10,10,0,0
+1607893396079,16,Add Product to Cart,200,,Thread-Gruppe 1-10,text,true,,25758,1745,10,10,5,0,0
+1607893396079,5,Add Product to Cart-0,302,,Thread-Gruppe 1-10,,true,,885,867,10,10,5,0,0
+1607893396084,11,Add Product to Cart-1,200,,Thread-Gruppe 1-10,text,true,,24873,878,10,10,11,0,0
+1607893396085,12,Login,200,,Thread-Gruppe 1-6,text,true,,10103,1025,10,10,7,0,0
+1607893396085,7,Login-0,302,,Thread-Gruppe 1-6,,true,,754,278,10,10,7,0,0
+1607893396093,4,Login-1,200,,Thread-Gruppe 1-6,text,true,,9349,747,10,10,4,0,0
+1607893396080,19,Add Product 2 to Cart,200,,Thread-Gruppe 1-4,text,true,,29613,1985,10,10,5,0,0
+1607893396080,5,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-4,,true,,1001,991,10,10,5,0,0
+1607893396085,14,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-4,text,true,,28612,994,10,10,14,0,0
+1607893396079,20,Add Product 2 to Cart,200,,Thread-Gruppe 1-7,text,true,,27472,1991,10,10,6,0,0
+1607893396087,12,Login,200,,Thread-Gruppe 1-3,text,true,,10104,1026,10,10,8,0,0
+1607893396087,8,Login-0,302,,Thread-Gruppe 1-3,,true,,755,278,10,10,8,0,0
+1607893396095,4,Login-1,200,,Thread-Gruppe 1-3,text,true,,9349,748,10,10,4,0,0
+1607893396079,6,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-7,,true,,1004,994,10,10,6,0,0
+1607893396085,14,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-7,text,true,,26468,997,10,10,14,0,0
+1607893396085,15,Look at Product,200,,Thread-Gruppe 1-9,text,true,,100179,761,10,10,14,0,0
+1607893396085,15,Add Product 2 to Cart,200,,Thread-Gruppe 1-2,text,true,,24577,1988,10,10,3,0,0
+1607893396085,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-2,,true,,1003,992,10,10,3,0,0
+1607893396086,14,Look at Product,200,,Thread-Gruppe 1-8,text,true,,105764,761,10,10,13,0,0
+1607893396088,12,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-2,text,true,,23574,996,10,10,11,0,0
+1607893396086,18,Add Product 2 to Cart,200,,Thread-Gruppe 1-5,text,true,,25842,1984,10,10,3,0,0
+1607893396086,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-5,,true,,1000,991,10,10,3,0,0
+1607893396089,15,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-5,text,true,,24842,993,10,10,14,0,0
+1607893396095,9,List Products with different page,200,,Thread-Gruppe 1-1,text,true,,147001,899,10,10,8,0,0
+1607893396099,7,Logout,200,,Thread-Gruppe 1-4,text,true,,10479,1830,10,10,3,0,0
+1607893396099,3,Logout-0,302,,Thread-Gruppe 1-4,,true,,1344,1092,10,10,3,0,0
+1607893396102,4,Logout-1,200,,Thread-Gruppe 1-4,text,true,,9135,738,10,10,4,0,0
+1607893396099,8,Logout,200,,Thread-Gruppe 1-7,text,true,,10479,1833,10,10,3,0,0
+1607893396100,6,Logout,200,,Thread-Gruppe 1-2,text,true,,10479,1832,10,10,2,0,0
+1607893396099,3,Logout-0,302,,Thread-Gruppe 1-7,,true,,1344,1095,10,10,3,0,0
+1607893396100,2,Logout-0,302,,Thread-Gruppe 1-2,,true,,1344,1094,10,10,2,0,0
+1607893396102,5,Logout-1,200,,Thread-Gruppe 1-7,text,true,,9135,738,10,10,4,0,0
+1607893396102,4,Logout-1,200,,Thread-Gruppe 1-2,text,true,,9135,738,10,10,4,0,0
+1607893396096,12,List Products with different page,200,,Thread-Gruppe 1-10,text,true,,106959,900,10,10,9,0,0
+1607893396098,10,List Products,200,,Thread-Gruppe 1-6,text,true,,100738,773,10,10,9,0,0
+1607893396099,11,List Products,200,,Thread-Gruppe 1-3,text,true,,118983,774,10,10,9,0,0
+1607893396107,5,Home,200,,Thread-Gruppe 1-7,text,true,,8822,150,10,10,4,0,0
+1607893396107,5,Home,200,,Thread-Gruppe 1-2,text,true,,8822,150,10,10,4,0,0
+1607893396106,6,Home,200,,Thread-Gruppe 1-4,text,true,,8822,150,10,10,6,0,0
+1607893396105,7,Logout,200,,Thread-Gruppe 1-5,text,true,,10479,1829,10,10,2,0,0
+1607893396105,2,Logout-0,302,,Thread-Gruppe 1-5,,true,,1344,1091,10,10,2,0,0
+1607893396107,5,Logout-1,200,,Thread-Gruppe 1-5,text,true,,9135,738,10,10,5,0,0
+1607893396100,18,Add Product to Cart,200,,Thread-Gruppe 1-9,text,true,,28922,1742,10,10,3,0,0
+1607893396100,3,Add Product to Cart-0,302,,Thread-Gruppe 1-9,,true,,883,866,10,10,3,0,0
+1607893396103,15,Add Product to Cart-1,200,,Thread-Gruppe 1-9,text,true,,28039,876,10,10,15,0,0
+1607893396113,6,Home,200,,Thread-Gruppe 1-5,text,true,,8822,150,10,10,6,0,0
+1607893396100,19,Add Product to Cart,200,,Thread-Gruppe 1-8,text,true,,28914,1742,10,10,3,0,0
+1607893396100,3,Add Product to Cart-0,302,,Thread-Gruppe 1-8,,true,,883,866,10,10,3,0,0
+1607893396103,16,Add Product to Cart-1,200,,Thread-Gruppe 1-8,text,true,,28031,876,10,10,16,0,0
+1607893396105,16,Add Product 2 to Cart,200,,Thread-Gruppe 1-1,text,true,,26412,1987,10,10,3,0,0
+1607893396105,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-1,,true,,1002,992,10,10,3,0,0
+1607893396109,12,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-1,text,true,,25410,995,10,10,12,0,0
+1607893396112,11,Login,200,,Thread-Gruppe 1-7,text,true,,10104,1026,10,10,7,0,0
+1607893396112,11,Login,200,,Thread-Gruppe 1-2,text,true,,10105,1027,10,10,7,0,0
+1607893396112,7,Login-0,302,,Thread-Gruppe 1-7,,true,,755,278,10,10,7,0,0
+1607893396112,7,Login-0,302,,Thread-Gruppe 1-2,,true,,756,278,10,10,7,0,0
+1607893396119,4,Login-1,200,,Thread-Gruppe 1-7,text,true,,9349,748,10,10,4,0,0
+1607893396119,4,Login-1,200,,Thread-Gruppe 1-2,text,true,,9349,749,10,10,4,0,0
+1607893396112,11,Login,200,,Thread-Gruppe 1-4,text,true,,10104,1026,10,10,7,0,0
+1607893396112,7,Login-0,302,,Thread-Gruppe 1-4,,true,,755,278,10,10,7,0,0
+1607893396119,4,Login-1,200,,Thread-Gruppe 1-4,text,true,,9349,748,10,10,4,0,0
+1607893396111,16,Look at Product,200,,Thread-Gruppe 1-3,text,true,,102654,762,10,10,15,0,0
+1607893396109,18,Look at Product,200,,Thread-Gruppe 1-6,text,true,,91087,761,10,10,17,0,0
+1607893396121,11,Logout,200,,Thread-Gruppe 1-1,text,true,,10479,1831,10,10,3,0,0
+1607893396121,3,Logout-0,302,,Thread-Gruppe 1-1,,true,,1344,1093,10,10,3,0,0
+1607893396124,8,Logout-1,200,,Thread-Gruppe 1-1,text,true,,9135,738,10,10,4,0,0
+1607893396120,14,List Products with different page,200,,Thread-Gruppe 1-8,text,true,,105745,898,10,10,13,0,0
+1607893396119,16,List Products with different page,200,,Thread-Gruppe 1-9,text,true,,95568,898,10,10,16,0,0
+1607893396109,27,Add Product 2 to Cart,200,,Thread-Gruppe 1-10,text,true,,26448,1988,10,10,4,0,0
+1607893396109,4,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-10,,true,,1002,993,10,10,4,0,0
+1607893396113,23,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-10,text,true,,25446,995,10,10,23,0,0
+1607893396124,12,List Products,200,,Thread-Gruppe 1-4,text,true,,100738,774,10,10,12,0,0
+1607893396119,18,Login,200,,Thread-Gruppe 1-5,text,true,,10105,1027,10,10,7,0,0
+1607893396119,7,Login-0,302,,Thread-Gruppe 1-5,,true,,756,278,10,10,7,0,0
+1607893396126,11,Login-1,200,,Thread-Gruppe 1-5,text,true,,9349,749,10,10,11,0,0
+1607893396132,5,Home,200,,Thread-Gruppe 1-1,text,true,,8822,150,10,10,5,0,0
+1607893396124,13,List Products,200,,Thread-Gruppe 1-2,text,true,,147030,775,10,10,11,0,0
+1607893396124,16,List Products,200,,Thread-Gruppe 1-7,text,true,,100738,774,10,10,14,0,0
+1607893396137,8,Logout,200,,Thread-Gruppe 1-10,text,true,,10479,1831,10,10,4,0,0
+1607893396137,4,Logout-0,302,,Thread-Gruppe 1-10,,true,,1344,1093,10,10,4,0,0
+1607893396141,4,Logout-1,200,,Thread-Gruppe 1-10,text,true,,9135,738,10,10,4,0,0
+1607893396137,9,List Products,200,,Thread-Gruppe 1-5,text,true,,118983,775,10,10,8,0,0
+1607893396127,21,Add Product to Cart,200,,Thread-Gruppe 1-3,text,true,,24247,1745,10,10,7,0,0
+1607893396127,7,Add Product to Cart-0,302,,Thread-Gruppe 1-3,,true,,885,867,10,10,7,0,0
+1607893396134,14,Add Product to Cart-1,200,,Thread-Gruppe 1-3,text,true,,23362,878,10,10,14,0,0
+1607893396127,21,Add Product to Cart,200,,Thread-Gruppe 1-6,text,true,,25845,1743,10,10,8,0,0
+1607893396127,8,Add Product to Cart-0,302,,Thread-Gruppe 1-6,,true,,884,866,10,10,8,0,0
+1607893396135,13,Add Product to Cart-1,200,,Thread-Gruppe 1-6,text,true,,24961,877,10,10,13,0,0
+1607893396146,4,Home,200,,Thread-Gruppe 1-10,text,true,,8822,150,10,10,4,0,0
+1607893396138,13,Look at Product,200,,Thread-Gruppe 1-2,text,true,,133112,763,10,10,12,0,0
+1607893396135,19,Add Product 2 to Cart,200,,Thread-Gruppe 1-8,text,true,,29607,1985,10,10,3,0,0
+1607893396135,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-8,,true,,1001,991,10,10,3,0,0
+1607893396139,15,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-8,text,true,,28606,994,10,10,14,0,0
+1607893396137,18,Look at Product,200,,Thread-Gruppe 1-4,text,true,,98825,762,10,10,18,0,0
+1607893396136,19,Add Product 2 to Cart,200,,Thread-Gruppe 1-9,text,true,,29612,1982,10,10,5,0,0
+1607893396136,5,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-9,,true,,999,990,10,10,5,0,0
+1607893396141,14,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-9,text,true,,28613,992,10,10,14,0,0
+1607893396137,19,Login,200,,Thread-Gruppe 1-1,text,true,,10103,1025,10,10,12,0,0
+1607893396137,12,Login-0,302,,Thread-Gruppe 1-1,,true,,754,278,10,10,12,0,0
+1607893396149,7,Login-1,200,,Thread-Gruppe 1-1,text,true,,9349,747,10,10,7,0,0
+1607893396141,18,Look at Product,200,,Thread-Gruppe 1-7,text,true,,93547,762,10,10,17,0,0
+1607893396148,11,List Products with different page,200,,Thread-Gruppe 1-6,text,true,,100760,899,10,10,11,0,0
+1607893396147,13,Look at Product,200,,Thread-Gruppe 1-5,text,true,,104869,763,10,10,13,0,0
+1607893396154,9,Logout,200,,Thread-Gruppe 1-8,text,true,,10479,1830,10,10,3,0,0
+1607893396154,3,Logout-0,302,,Thread-Gruppe 1-8,,true,,1344,1092,10,10,3,0,0
+1607893396158,5,Logout-1,200,,Thread-Gruppe 1-8,text,true,,9135,738,10,10,5,0,0
+1607893396148,15,List Products with different page,200,,Thread-Gruppe 1-3,text,true,,118128,900,10,10,14,0,0
+1607893396155,9,Logout,200,,Thread-Gruppe 1-9,text,true,,10479,1828,10,10,3,0,0
+1607893396155,3,Logout-0,302,,Thread-Gruppe 1-9,,true,,1344,1090,10,10,3,0,0
+1607893396158,6,Logout-1,200,,Thread-Gruppe 1-9,text,true,,9135,738,10,10,6,0,0
+1607893396150,14,Login,200,,Thread-Gruppe 1-10,text,true,,10103,1026,10,10,11,0,0
+1607893396150,11,Login-0,302,,Thread-Gruppe 1-10,,true,,754,279,10,10,11,0,0
+1607893396161,3,Login-1,200,,Thread-Gruppe 1-10,text,true,,9349,747,10,10,3,0,0
+1607893396157,10,List Products,200,,Thread-Gruppe 1-1,text,true,,93463,773,10,10,8,0,0
+1607893396164,4,Home,200,,Thread-Gruppe 1-9,text,true,,8822,150,10,10,4,0,0
+1607893396152,17,Add Product to Cart,200,,Thread-Gruppe 1-2,text,true,,23881,1747,10,10,4,0,0
+1607893396152,4,Add Product to Cart-0,302,,Thread-Gruppe 1-2,,true,,886,868,10,10,4,0,0
+1607893396156,13,Add Product to Cart-1,200,,Thread-Gruppe 1-2,text,true,,22995,879,10,10,13,0,0
+1607893396163,8,Home,200,,Thread-Gruppe 1-8,text,true,,8822,150,10,10,7,0,0
+1607893396155,17,Add Product to Cart,200,,Thread-Gruppe 1-4,text,true,,28926,1745,10,10,5,0,0
+1607893396155,5,Add Product to Cart-0,302,,Thread-Gruppe 1-4,,true,,885,867,10,10,5,0,0
+1607893396160,12,Add Product to Cart-1,200,,Thread-Gruppe 1-4,text,true,,28041,878,10,10,12,0,0
+1607893396164,10,List Products,200,,Thread-Gruppe 1-10,text,true,,108144,773,10,10,10,0,0
+1607893396159,19,Add Product to Cart,200,,Thread-Gruppe 1-7,text,true,,26751,1745,10,10,5,0,0
+1607893396159,5,Add Product to Cart-0,302,,Thread-Gruppe 1-7,,true,,885,867,10,10,5,0,0
+1607893396164,14,Add Product to Cart-1,200,,Thread-Gruppe 1-7,text,true,,25866,878,10,10,12,0,0
+1607893396170,10,List Products with different page,200,,Thread-Gruppe 1-2,text,true,,147033,901,10,10,7,0,0
+1607893396172,9,List Products with different page,200,,Thread-Gruppe 1-4,text,true,,99009,900,10,10,8,0,0
+1607893396169,13,Login,200,,Thread-Gruppe 1-9,text,true,,10104,1026,10,10,8,0,0
+1607893396169,8,Login-0,302,,Thread-Gruppe 1-9,,true,,755,278,10,10,8,0,0
+1607893396177,5,Login-1,200,,Thread-Gruppe 1-9,text,true,,9349,748,10,10,5,0,0
+1607893396171,12,Login,200,,Thread-Gruppe 1-8,text,true,,10104,1026,10,10,8,0,0
+1607893396171,8,Login-0,302,,Thread-Gruppe 1-8,,true,,755,278,10,10,8,0,0
+1607893396179,4,Login-1,200,,Thread-Gruppe 1-8,text,true,,9349,748,10,10,4,0,0
+1607893396160,25,Add Product 2 to Cart,200,,Thread-Gruppe 1-6,text,true,,26522,1986,10,10,3,0,0
+1607893396160,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-6,,true,,1001,992,10,10,3,0,0
+1607893396164,21,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-6,text,true,,25521,994,10,10,21,0,0
+1607893396160,25,Add Product to Cart,200,,Thread-Gruppe 1-5,text,true,,25162,1747,10,10,5,0,0
+1607893396160,5,Add Product to Cart-0,302,,Thread-Gruppe 1-5,,true,,886,868,10,10,5,0,0
+1607893396165,20,Add Product to Cart-1,200,,Thread-Gruppe 1-5,text,true,,24276,879,10,10,20,0,0
+1607893396164,22,Add Product 2 to Cart,200,,Thread-Gruppe 1-3,text,true,,24941,1989,10,10,4,0,0
+1607893396164,4,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-3,,true,,1003,993,10,10,4,0,0
+1607893396168,18,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-3,text,true,,23938,996,10,10,17,0,0
+1607893396168,20,Look at Product,200,,Thread-Gruppe 1-1,text,true,,89521,760,10,10,20,0,0
+1607893396178,10,List Products with different page,200,,Thread-Gruppe 1-7,text,true,,100760,900,10,10,9,0,0
+1607893396183,10,List Products,200,,Thread-Gruppe 1-9,text,true,,118983,774,10,10,9,0,0
+1607893396175,19,Look at Product,200,,Thread-Gruppe 1-10,text,true,,92981,761,10,10,17,0,0
+1607893396186,8,Logout,200,,Thread-Gruppe 1-3,text,true,,10479,1832,10,10,3,0,0
+1607893396186,3,Logout-0,302,,Thread-Gruppe 1-3,,true,,1344,1094,10,10,3,0,0
+1607893396190,4,Logout-1,200,,Thread-Gruppe 1-3,text,true,,9135,738,10,10,4,0,0
+1607893396185,9,Logout,200,,Thread-Gruppe 1-6,text,true,,10479,1830,10,10,5,0,0
+1607893396185,5,Logout-0,302,,Thread-Gruppe 1-6,,true,,1344,1092,10,10,5,0,0
+1607893396190,4,Logout-1,200,,Thread-Gruppe 1-6,text,true,,9135,738,10,10,4,0,0
+1607893396184,12,List Products,200,,Thread-Gruppe 1-8,text,true,,147011,774,10,10,10,0,0
+1607893396194,4,Home,200,,Thread-Gruppe 1-3,text,true,,8822,150,10,10,4,0,0
+1607893396186,11,List Products with different page,200,,Thread-Gruppe 1-5,text,true,,119005,901,10,10,11,0,0
+1607893396195,3,Home,200,,Thread-Gruppe 1-6,text,true,,8822,150,10,10,3,0,0
+1607893396181,23,Add Product 2 to Cart,200,,Thread-Gruppe 1-2,text,true,,24569,1991,10,10,4,0,0
+1607893396181,4,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-2,,true,,1004,994,10,10,4,0,0
+1607893396185,19,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-2,text,true,,23565,997,10,10,19,0,0
+1607893396181,23,Add Product 2 to Cart,200,,Thread-Gruppe 1-4,text,true,,29619,1989,10,10,4,0,0
+1607893396181,4,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-4,,true,,1003,993,10,10,4,0,0
+1607893396186,18,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-4,text,true,,28616,996,10,10,18,0,0
+1607893396189,19,Add Product 2 to Cart,200,,Thread-Gruppe 1-7,text,true,,26751,1871,10,10,3,0,0
+1607893396189,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-7,,true,,885,993,10,10,3,0,0
+1607893396192,16,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-7,text,true,,25866,878,10,10,15,0,0
+1607893396189,23,Add Product to Cart,200,,Thread-Gruppe 1-1,text,true,,25704,1741,10,10,3,0,0
+1607893396189,3,Add Product to Cart-0,302,,Thread-Gruppe 1-1,,true,,883,865,10,10,3,0,0
+1607893396192,20,Add Product to Cart-1,200,,Thread-Gruppe 1-1,text,true,,24821,876,10,10,20,0,0
+1607893396205,9,Logout,200,,Thread-Gruppe 1-2,text,true,,10479,1833,10,10,2,0,0
+1607893396205,2,Logout-0,302,,Thread-Gruppe 1-2,,true,,1344,1095,10,10,2,0,0
+1607893396207,7,Logout-1,200,,Thread-Gruppe 1-2,text,true,,9135,738,10,10,7,0,0
+1607893396205,9,Logout,200,,Thread-Gruppe 1-4,text,true,,10479,1832,10,10,2,0,0
+1607893396205,2,Logout-0,302,,Thread-Gruppe 1-4,,true,,1344,1094,10,10,2,0,0
+1607893396207,7,Logout-1,200,,Thread-Gruppe 1-4,text,true,,9135,738,10,10,7,0,0
+1607893396194,21,Look at Product,200,,Thread-Gruppe 1-9,text,true,,119525,762,10,10,20,0,0
+1607893396214,4,Home,200,,Thread-Gruppe 1-2,text,true,,8822,150,10,10,4,0,0
+1607893396208,10,Logout,200,,Thread-Gruppe 1-7,text,true,,10479,1714,10,10,5,0,0
+1607893396194,24,Add Product to Cart,200,,Thread-Gruppe 1-10,text,true,,25759,1743,10,10,4,0,0
+1607893396208,5,Logout-0,302,,Thread-Gruppe 1-7,,true,,1344,976,10,10,5,0,0
+1607893396194,4,Add Product to Cart-0,302,,Thread-Gruppe 1-10,,true,,884,866,10,10,4,0,0
+1607893396198,20,Login,200,,Thread-Gruppe 1-6,text,true,,10103,1025,10,10,15,0,0
+1607893396213,5,Logout-1,200,,Thread-Gruppe 1-7,text,true,,9135,738,10,10,5,0,0
+1607893396198,15,Login-0,302,,Thread-Gruppe 1-6,,true,,754,278,10,10,15,0,0
+1607893396198,20,Add Product to Cart-1,200,,Thread-Gruppe 1-10,text,true,,24875,877,10,10,20,0,0
+1607893396213,5,Login-1,200,,Thread-Gruppe 1-6,text,true,,9349,747,10,10,5,0,0
+1607893396198,21,Login,200,,Thread-Gruppe 1-3,text,true,,10104,1026,10,10,16,0,0
+1607893396198,16,Login-0,302,,Thread-Gruppe 1-3,,true,,755,278,10,10,16,0,0
+1607893396214,5,Login-1,200,,Thread-Gruppe 1-3,text,true,,9349,748,10,10,5,0,0
+1607893396197,24,Look at Product,200,,Thread-Gruppe 1-8,text,true,,149548,762,10,10,24,0,0
+1607893396218,3,Home,200,,Thread-Gruppe 1-7,text,true,,8822,150,10,10,3,0,0
+1607893396198,23,Add Product 2 to Cart,200,,Thread-Gruppe 1-5,text,true,,25849,1991,10,10,5,0,0
+1607893396198,5,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-5,,true,,1004,994,10,10,5,0,0
+1607893396203,18,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-5,text,true,,24845,997,10,10,18,0,0
+1607893396213,12,List Products with different page,200,,Thread-Gruppe 1-1,text,true,,97637,898,10,10,11,0,0
+1607893396219,6,Home,200,,Thread-Gruppe 1-4,text,true,,8822,150,10,10,6,0,0
+1607893396222,6,Logout,200,,Thread-Gruppe 1-5,text,true,,10479,1833,10,10,2,0,0
+1607893396222,2,Logout-0,302,,Thread-Gruppe 1-5,,true,,1344,1095,10,10,2,0,0
+1607893396224,4,Logout-1,200,,Thread-Gruppe 1-5,text,true,,9135,738,10,10,4,0,0
+1607893396218,11,Login,200,,Thread-Gruppe 1-2,text,true,,10104,1026,10,10,8,0,0
+1607893396218,8,Login-0,302,,Thread-Gruppe 1-2,,true,,755,278,10,10,8,0,0
+1607893396226,3,Login-1,200,,Thread-Gruppe 1-2,text,true,,9349,748,10,10,3,0,0
+1607893396218,11,List Products,200,,Thread-Gruppe 1-6,text,true,,100738,773,10,10,10,0,0
+1607893396218,12,List Products with different page,200,,Thread-Gruppe 1-10,text,true,,106959,899,10,10,11,0,0
+1607893396229,4,Home,200,,Thread-Gruppe 1-5,text,true,,8822,150,10,10,4,0,0
+1607893396219,15,List Products,200,,Thread-Gruppe 1-3,text,true,,119002,774,10,10,14,0,0
+1607893396226,10,Login,200,,Thread-Gruppe 1-4,text,true,,10104,1026,10,10,7,0,0
+1607893396226,7,Login-0,302,,Thread-Gruppe 1-4,,true,,755,278,10,10,7,0,0
+1607893396233,3,Login-1,200,,Thread-Gruppe 1-4,text,true,,9349,748,10,10,3,0,0
+1607893396222,15,Login,200,,Thread-Gruppe 1-7,text,true,,10104,1026,10,10,12,0,0
+1607893396222,12,Login-0,302,,Thread-Gruppe 1-7,,true,,755,278,10,10,12,0,0
+1607893396234,3,Login-1,200,,Thread-Gruppe 1-7,text,true,,9349,748,10,10,3,0,0
+1607893396215,23,Add Product to Cart,200,,Thread-Gruppe 1-9,text,true,,28928,1745,10,10,6,0,0
+1607893396215,6,Add Product to Cart-0,302,,Thread-Gruppe 1-9,,true,,885,867,10,10,6,0,0
+1607893396221,17,Add Product to Cart-1,200,,Thread-Gruppe 1-9,text,true,,28043,878,10,10,16,0,0
+1607893396222,16,Add Product to Cart,200,,Thread-Gruppe 1-8,text,true,,28914,1745,10,10,2,0,0
+1607893396222,2,Add Product to Cart-0,302,,Thread-Gruppe 1-8,,true,,885,867,10,10,2,0,0
+1607893396224,14,Add Product to Cart-1,200,,Thread-Gruppe 1-8,text,true,,28029,878,10,10,14,0,0
+1607893396229,13,List Products,200,,Thread-Gruppe 1-2,text,true,,100738,774,10,10,11,0,0
+1607893396237,7,List Products,200,,Thread-Gruppe 1-4,text,true,,93444,774,10,10,6,0,0
+1607893396229,15,Look at Product,200,,Thread-Gruppe 1-6,text,true,,89712,761,10,10,15,0,0
+1607893396225,23,Add Product 2 to Cart,200,,Thread-Gruppe 1-1,text,true,,26393,1983,10,10,3,0,0
+1607893396225,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-1,,true,,1000,990,10,10,3,0,0
+1607893396228,20,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-1,text,true,,25393,993,10,10,20,0,0
+1607893396231,18,Add Product 2 to Cart,200,,Thread-Gruppe 1-10,text,true,,26471,1987,10,10,2,0,0
+1607893396231,2,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-10,,true,,1002,992,10,10,2,0,0
+1607893396233,16,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-10,text,true,,25469,995,10,10,16,0,0
+1607893396238,11,List Products with different page,200,,Thread-Gruppe 1-9,text,true,,117007,900,10,10,9,0,0
+1607893396237,12,List Products,200,,Thread-Gruppe 1-7,text,true,,147011,774,10,10,10,0,0
+1607893396234,15,Login,200,,Thread-Gruppe 1-5,text,true,,10103,1025,10,10,8,0,0
+1607893396234,8,Login-0,302,,Thread-Gruppe 1-5,,true,,754,278,10,10,8,0,0
+1607893396242,7,Login-1,200,,Thread-Gruppe 1-5,text,true,,9349,747,10,10,7,0,0
+1607893396238,11,List Products with different page,200,,Thread-Gruppe 1-8,text,true,,147033,900,10,10,9,0,0
+1607893396234,17,Look at Product,200,,Thread-Gruppe 1-3,text,true,,103632,762,10,10,16,0,1
+1607893396249,5,Logout,200,,Thread-Gruppe 1-10,text,true,,10479,1831,10,10,3,0,0
+1607893396249,3,Logout-0,302,,Thread-Gruppe 1-10,,true,,1344,1093,10,10,3,0,0
+1607893396252,2,Logout-1,200,,Thread-Gruppe 1-10,text,true,,9135,738,10,10,2,0,0
+1607893396248,8,Logout,200,,Thread-Gruppe 1-1,text,true,,10479,1829,10,10,3,0,0
+1607893396248,3,Logout-0,302,,Thread-Gruppe 1-1,,true,,1344,1091,10,10,3,0,0
+1607893396251,5,Logout-1,200,,Thread-Gruppe 1-1,text,true,,9135,738,10,10,5,0,0
+1607893396255,2,Home,200,,Thread-Gruppe 1-10,text,true,,8822,150,10,10,2,0,0
+1607893396244,14,Look at Product,200,,Thread-Gruppe 1-4,text,true,,100570,760,10,10,14,0,0
+1607893396244,15,Add Product to Cart,200,,Thread-Gruppe 1-6,text,true,,25869,1743,10,10,3,0,0
+1607893396244,3,Add Product to Cart-0,302,,Thread-Gruppe 1-6,,true,,884,866,10,10,3,0,0
+1607893396247,12,Add Product to Cart-1,200,,Thread-Gruppe 1-6,text,true,,24985,877,10,10,12,0,0
+1607893396242,18,Look at Product,200,,Thread-Gruppe 1-2,text,true,,84364,762,10,10,18,0,0
+1607893396256,5,Home,200,,Thread-Gruppe 1-1,text,true,,8822,150,10,10,4,0,0
+1607893396250,10,List Products,200,,Thread-Gruppe 1-5,text,true,,147011,773,10,10,9,0,0
+1607893396250,18,Add Product 2 to Cart,200,,Thread-Gruppe 1-8,text,true,,29600,1989,10,10,4,0,0
+1607893396250,4,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-8,,true,,1003,993,10,10,4,0,0
+1607893396254,14,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-8,text,true,,28597,996,10,10,14,0,0
+1607893396249,19,Look at Product,200,,Thread-Gruppe 1-7,text,true,,141957,762,10,10,18,0,0
+1607893396251,17,Add Product to Cart,200,,Thread-Gruppe 1-3,text,true,,24249,1745,10,10,3,0,0
+1607893396251,3,Add Product to Cart-0,302,,Thread-Gruppe 1-3,,true,,885,867,10,10,3,0,0
+1607893396254,14,Add Product to Cart-1,200,,Thread-Gruppe 1-3,text,true,,23364,878,10,10,14,0,0
+1607893396260,12,List Products with different page,200,,Thread-Gruppe 1-6,text,true,,99009,899,10,10,11,0,0
+1607893396257,16,Login,200,,Thread-Gruppe 1-10,text,true,,10103,1026,10,10,13,0,0
+1607893396257,13,Login-0,302,,Thread-Gruppe 1-10,,true,,754,279,10,10,13,0,0
+1607893396270,3,Login-1,200,,Thread-Gruppe 1-10,text,true,,9349,747,10,10,3,0,0
+1607893396249,25,Add Product 2 to Cart,200,,Thread-Gruppe 1-9,text,true,,29631,1988,10,10,7,0,0
+1607893396249,7,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-9,,true,,1002,993,10,10,7,0,0
+1607893396256,18,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-9,text,true,,28629,995,10,10,18,0,0
+1607893396268,6,Logout,200,,Thread-Gruppe 1-8,text,true,,10479,1832,10,10,2,0,0
+1607893396268,2,Logout-0,302,,Thread-Gruppe 1-8,,true,,1344,1094,10,10,2,0,0
+1607893396270,4,Logout-1,200,,Thread-Gruppe 1-8,text,true,,9135,738,10,10,4,0,0
+1607893396259,15,Add Product to Cart,200,,Thread-Gruppe 1-4,text,true,,28898,1739,10,10,4,0,0
+1607893396259,4,Add Product to Cart-0,302,,Thread-Gruppe 1-4,,true,,881,865,10,10,4,0,0
+1607893396263,11,Add Product to Cart-1,200,,Thread-Gruppe 1-4,text,true,,28017,874,10,10,11,0,0
+1607893396260,14,Add Product to Cart,200,,Thread-Gruppe 1-2,text,true,,23875,1746,10,10,3,0,0
+1607893396260,3,Add Product to Cart-0,302,,Thread-Gruppe 1-2,,true,,886,867,10,10,3,0,0
+1607893396263,11,Add Product to Cart-1,200,,Thread-Gruppe 1-2,text,true,,22989,879,10,10,11,0,0
+1607893396268,9,List Products with different page,200,,Thread-Gruppe 1-3,text,true,,119345,900,10,10,8,0,0
+1607893396261,17,Login,200,,Thread-Gruppe 1-1,text,true,,10105,1027,10,10,9,0,0
+1607893396261,9,Login-0,302,,Thread-Gruppe 1-1,,true,,756,278,10,10,9,0,0
+1607893396270,8,Login-1,200,,Thread-Gruppe 1-1,text,true,,9349,749,10,10,8,0,0
+1607893396274,5,Home,200,,Thread-Gruppe 1-8,text,true,,8822,150,10,10,5,0,0
+1607893396273,8,List Products,200,,Thread-Gruppe 1-10,text,true,,108144,773,10,10,7,0,0
+1607893396274,7,Logout,200,,Thread-Gruppe 1-9,text,true,,10479,1831,10,10,2,0,0
+1607893396274,2,Logout-0,302,,Thread-Gruppe 1-9,,true,,1344,1093,10,10,2,0,0
+1607893396276,5,Logout-1,200,,Thread-Gruppe 1-9,text,true,,9135,738,10,10,5,0,0
+1607893396261,21,Look at Product,200,,Thread-Gruppe 1-5,text,true,,135047,761,10,10,20,0,0
+1607893396282,10,Home,200,,Thread-Gruppe 1-9,text,true,,8822,150,10,10,10,0,0
+1607893396275,18,List Products with different page,200,,Thread-Gruppe 1-2,text,true,,99009,901,10,10,10,0,0
+1607893396274,20,List Products with different page,200,,Thread-Gruppe 1-4,text,true,,97635,896,10,10,16,0,0
+1607893396280,16,Login,200,,Thread-Gruppe 1-8,text,true,,10104,1026,10,10,10,0,0
+1607893396280,10,Login-0,302,,Thread-Gruppe 1-8,,true,,755,278,10,10,10,0,0
+1607893396291,5,Login-1,200,,Thread-Gruppe 1-8,text,true,,9349,748,10,10,5,0,0
+1607893396268,29,Add Product to Cart,200,,Thread-Gruppe 1-7,text,true,,26766,1745,10,10,7,0,0
+1607893396268,7,Add Product to Cart-0,302,,Thread-Gruppe 1-7,,true,,885,867,10,10,7,0,0
+1607893396275,22,Add Product to Cart-1,200,,Thread-Gruppe 1-7,text,true,,25881,878,10,10,21,0,0
+1607893396279,19,List Products,200,,Thread-Gruppe 1-1,text,true,,100738,775,10,10,17,0,0
+1607893396273,26,Add Product 2 to Cart,200,,Thread-Gruppe 1-6,text,true,,26564,1987,10,10,3,0,0
+1607893396273,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-6,,true,,1002,992,10,10,3,0,0
+1607893396276,23,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-6,text,true,,25562,995,10,10,23,0,0
+1607893396281,20,Look at Product,200,,Thread-Gruppe 1-10,text,true,,92981,761,10,10,19,0,0
+1607893396278,24,Add Product 2 to Cart,200,,Thread-Gruppe 1-3,text,true,,24944,1989,10,10,6,0,0
+1607893396278,6,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-3,,true,,1003,993,10,10,6,0,0
+1607893396284,18,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-3,text,true,,23941,996,10,10,18,0,0
+1607893396296,9,List Products,200,,Thread-Gruppe 1-8,text,true,,93444,774,10,10,8,0,0
+1607893396300,6,Logout,200,,Thread-Gruppe 1-6,text,true,,10479,1831,10,10,2,0,0
+1607893396300,2,Logout-0,302,,Thread-Gruppe 1-6,,true,,1344,1093,10,10,2,0,0
+1607893396302,4,Logout-1,200,,Thread-Gruppe 1-6,text,true,,9135,738,10,10,4,0,0
+1607893396293,13,Login,200,,Thread-Gruppe 1-9,text,true,,10104,1026,10,10,9,0,0
+1607893396293,9,Login-0,302,,Thread-Gruppe 1-9,,true,,755,278,10,10,9,0,0
+1607893396302,4,Login-1,200,,Thread-Gruppe 1-9,text,true,,9349,748,10,10,4,0,0
+1607893396294,13,Add Product 2 to Cart,200,,Thread-Gruppe 1-2,text,true,,24576,1991,10,10,2,0,0
+1607893396294,2,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-2,,true,,1004,994,10,10,2,0,0
+1607893396297,10,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-2,text,true,,23572,997,10,10,10,0,0
+1607893396302,8,Logout,200,,Thread-Gruppe 1-3,text,true,,10479,1832,10,10,5,0,0
+1607893396302,5,Logout-0,302,,Thread-Gruppe 1-3,,true,,1344,1094,10,10,5,0,0
+1607893396307,3,Logout-1,200,,Thread-Gruppe 1-3,text,true,,9135,738,10,10,3,0,0
+1607893396306,4,Home,200,,Thread-Gruppe 1-6,text,true,,8822,150,10,10,4,0,0
+1607893396295,16,Add Product 2 to Cart,200,,Thread-Gruppe 1-4,text,true,,29596,1980,10,10,3,0,0
+1607893396295,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-4,,true,,999,988,10,10,3,0,0
+1607893396298,13,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-4,text,true,,28597,992,10,10,13,0,0
+1607893396282,30,Add Product to Cart,200,,Thread-Gruppe 1-5,text,true,,25176,1743,10,10,2,0,0
+1607893396282,2,Add Product to Cart-0,302,,Thread-Gruppe 1-5,,true,,884,866,10,10,2,0,0
+1607893396284,28,Add Product to Cart-1,200,,Thread-Gruppe 1-5,text,true,,24292,877,10,10,28,0,0
+1607893396311,3,Home,200,,Thread-Gruppe 1-3,text,true,,8822,150,10,10,3,0,0
+1607893396299,16,Look at Product,200,,Thread-Gruppe 1-1,text,true,,87541,763,10,10,16,0,0
+1607893396297,19,List Products with different page,200,,Thread-Gruppe 1-7,text,true,,147001,900,10,10,18,0,0
+1607893396301,18,Add Product to Cart,200,,Thread-Gruppe 1-10,text,true,,25759,1743,10,10,7,0,0
+1607893396301,7,Add Product to Cart-0,302,,Thread-Gruppe 1-10,,true,,884,866,10,10,7,0,0
+1607893396308,11,Add Product to Cart-1,200,,Thread-Gruppe 1-10,text,true,,24875,877,10,10,11,0,0
+1607893396307,13,Logout,200,,Thread-Gruppe 1-2,text,true,,10479,1833,10,10,3,0,0
+1607893396307,3,Logout-0,302,,Thread-Gruppe 1-2,,true,,1344,1095,10,10,3,0,0
+1607893396310,10,Logout-1,200,,Thread-Gruppe 1-2,text,true,,9135,738,10,10,10,0,0
+1607893396306,15,Look at Product,200,,Thread-Gruppe 1-8,text,true,,100179,761,10,10,14,0,0
+1607893396312,12,Logout,200,,Thread-Gruppe 1-4,text,true,,10479,1828,9,9,2,0,0
+1607893396312,2,Logout-0,302,,Thread-Gruppe 1-4,,true,,1344,1090,9,9,2,0,0
+1607893396314,10,Logout-1,200,,Thread-Gruppe 1-4,text,true,,9135,738,9,9,10,0,0
+1607893396307,17,List Products,200,,Thread-Gruppe 1-9,text,true,,108144,774,9,9,13,0,0
+1607893396312,12,List Products with different page,200,,Thread-Gruppe 1-5,text,true,,142419,899,9,9,10,0,0
+1607893396319,7,List Products with different page,200,,Thread-Gruppe 1-10,text,true,,108166,899,9,9,5,0,0
+1607893396311,18,Login,200,,Thread-Gruppe 1-6,text,true,,10104,1026,9,9,13,0,0
+1607893396311,13,Login-0,302,,Thread-Gruppe 1-6,,true,,755,278,9,9,13,0,0
+1607893396324,5,Login-1,200,,Thread-Gruppe 1-6,text,true,,9349,748,9,9,5,0,0
+1607893396324,6,Home,200,,Thread-Gruppe 1-4,text,true,,8822,150,9,9,6,0,0
+1607893396315,15,Login,200,,Thread-Gruppe 1-3,text,true,,10104,1026,9,9,12,0,0
+1607893396315,12,Login-0,302,,Thread-Gruppe 1-3,,true,,755,278,9,9,12,0,0
+1607893396327,3,Login-1,200,,Thread-Gruppe 1-3,text,true,,9349,748,9,9,3,0,0
+1607893396324,13,Look at Product,200,,Thread-Gruppe 1-9,text,true,,104315,762,9,9,13,0,0
+1607893396330,7,List Products,200,,Thread-Gruppe 1-6,text,true,,100738,774,9,9,7,0,0
+1607893396317,21,Add Product 2 to Cart,200,,Thread-Gruppe 1-7,text,true,,27459,1989,9,9,7,0,0
+1607893396317,7,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-7,,true,,1003,993,9,9,7,0,0
+1607893396324,14,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-7,text,true,,26456,996,9,9,14,0,0
+1607893396316,23,Add Product to Cart,200,,Thread-Gruppe 1-1,text,true,,25730,1747,9,9,10,0,0
+1607893396322,17,Add Product to Cart,200,,Thread-Gruppe 1-8,text,true,,28922,1742,9,9,5,0,0
+1607893396316,10,Add Product to Cart-0,302,,Thread-Gruppe 1-1,,true,,886,868,9,9,10,0,0
+1607893396322,5,Add Product to Cart-0,302,,Thread-Gruppe 1-8,,true,,883,866,9,9,5,0,0
+1607893396327,12,Add Product to Cart-1,200,,Thread-Gruppe 1-1,text,true,,24844,879,9,9,11,0,0
+1607893396327,12,Add Product to Cart-1,200,,Thread-Gruppe 1-8,text,true,,28039,876,9,9,11,0,0
+1607893396331,10,Login,200,,Thread-Gruppe 1-4,text,true,,10103,1025,9,9,6,0,0
+1607893396331,6,Login-0,302,,Thread-Gruppe 1-4,,true,,754,278,9,9,6,0,0
+1607893396337,4,Login-1,200,,Thread-Gruppe 1-4,text,true,,9349,747,9,9,4,0,0
+1607893396325,18,Add Product 2 to Cart,200,,Thread-Gruppe 1-5,text,true,,25865,1987,9,9,2,0,0
+1607893396325,2,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-5,,true,,1002,992,9,9,2,0,0
+1607893396327,16,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-5,text,true,,24863,995,9,9,14,0,0
+1607893396331,9,List Products,200,,Thread-Gruppe 1-3,text,true,,100738,774,9,9,8,0,0
+1607893396338,5,Logout,200,,Thread-Gruppe 1-7,text,true,,10479,1832,9,9,2,0,0
+1607893396338,2,Logout-0,302,,Thread-Gruppe 1-7,,true,,1344,1094,9,9,2,0,0
+1607893396340,3,Logout-1,200,,Thread-Gruppe 1-7,text,true,,9135,738,9,9,3,0,0
+1607893396344,2,Home,200,,Thread-Gruppe 1-7,text,true,,8822,150,9,9,2,0,0
+1607893396327,19,Add Product 2 to Cart,200,,Thread-Gruppe 1-10,text,true,,26475,1987,9,9,4,0,0
+1607893396327,4,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-10,,true,,1002,992,9,9,4,0,0
+1607893396331,15,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-10,text,true,,25473,995,9,9,15,0,0
+1607893396339,7,List Products with different page,200,,Thread-Gruppe 1-1,text,true,,99139,901,9,9,6,0,0
+1607893396339,9,List Products with different page,200,,Thread-Gruppe 1-8,text,true,,99523,898,9,9,7,0,0
+1607893396343,6,Logout,200,,Thread-Gruppe 1-5,text,true,,10479,1831,9,9,2,0,0
+1607893396338,11,Look at Product,200,,Thread-Gruppe 1-6,text,true,,89792,762,9,9,11,0,0
+1607893396343,2,Logout-0,302,,Thread-Gruppe 1-5,,true,,1344,1093,9,9,2,0,0
+1607893396345,4,Logout-1,200,,Thread-Gruppe 1-5,text,true,,9135,738,9,9,4,0,0
+1607893396343,8,List Products,200,,Thread-Gruppe 1-4,text,true,,108163,773,9,9,8,0,0
+1607893396337,17,Add Product to Cart,200,,Thread-Gruppe 1-9,text,true,,28926,1745,9,9,4,0,0
+1607893396347,7,Logout,200,,Thread-Gruppe 1-10,text,true,,10479,1831,9,9,2,0,0
+1607893396337,4,Add Product to Cart-0,302,,Thread-Gruppe 1-9,,true,,885,867,9,9,4,0,0
+1607893396347,2,Logout-0,302,,Thread-Gruppe 1-10,,true,,1344,1093,9,9,2,0,0
+1607893396343,11,Add Product to Cart-1,200,,Thread-Gruppe 1-9,text,true,,28041,878,9,9,11,0,0
+1607893396349,5,Logout-1,200,,Thread-Gruppe 1-10,text,true,,9135,738,9,9,5,0,0
+1607893396349,5,Home,200,,Thread-Gruppe 1-5,text,true,,8822,150,9,9,5,0,0
+1607893396354,3,Home,200,,Thread-Gruppe 1-10,text,true,,8822,150,9,9,3,0,0
+1607893396347,10,Login,200,,Thread-Gruppe 1-7,text,true,,10104,1026,9,9,7,0,0
+1607893396347,7,Login-0,302,,Thread-Gruppe 1-7,,true,,755,278,9,9,7,0,0
+1607893396354,3,Login-1,200,,Thread-Gruppe 1-7,text,true,,9349,748,9,9,3,0,0
+1607893396343,14,Look at Product,200,,Thread-Gruppe 1-3,text,true,,84339,762,9,9,14,0,0
+1607893396354,7,List Products with different page,200,,Thread-Gruppe 1-9,text,true,,105745,900,9,9,6,0,0
+1607893396347,24,Add Product 2 to Cart,200,,Thread-Gruppe 1-1,text,true,,26433,1991,9,9,5,0,0
+1607893396349,22,Add Product to Cart,200,,Thread-Gruppe 1-6,text,true,,25866,1745,9,9,5,0,0
+1607893396347,5,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-1,,true,,1004,994,9,9,5,0,0
+1607893396349,5,Add Product to Cart-0,302,,Thread-Gruppe 1-6,,true,,885,867,9,9,5,0,0
+1607893396352,19,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-1,text,true,,25429,997,9,9,19,0,0
+1607893396354,17,Add Product to Cart-1,200,,Thread-Gruppe 1-6,text,true,,24981,878,9,9,17,0,0
+1607893396348,23,Add Product 2 to Cart,200,,Thread-Gruppe 1-8,text,true,,29600,1984,9,9,3,0,0
+1607893396348,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-8,,true,,1001,990,9,9,3,0,0
+1607893396351,20,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-8,text,true,,28599,994,9,9,20,0,0
+1607893396355,16,Login,200,,Thread-Gruppe 1-5,text,true,,10105,1027,9,9,8,0,0
+1607893396355,8,Login-0,302,,Thread-Gruppe 1-5,,true,,756,278,9,9,8,0,0
+1607893396363,8,Login-1,200,,Thread-Gruppe 1-5,text,true,,9349,749,9,9,8,0,0
+1607893396357,14,List Products,200,,Thread-Gruppe 1-7,text,true,,147011,774,9,9,8,0,0
+1607893396357,15,Login,200,,Thread-Gruppe 1-10,text,true,,10104,1027,9,9,8,0,0
+1607893396357,8,Login-0,302,,Thread-Gruppe 1-10,,true,,755,279,9,9,8,0,0
+1607893396366,6,Login-1,200,,Thread-Gruppe 1-10,text,true,,9349,748,9,9,6,0,0
+1607893396352,23,Look at Product,200,,Thread-Gruppe 1-4,text,true,,104315,761,9,9,22,0,0
+1607893396357,19,Add Product to Cart,200,,Thread-Gruppe 1-3,text,true,,24239,1745,9,9,4,0,0
+1607893396357,4,Add Product to Cart-0,302,,Thread-Gruppe 1-3,,true,,885,867,9,9,4,0,0
+1607893396361,15,Add Product to Cart-1,200,,Thread-Gruppe 1-3,text,true,,23354,878,9,9,15,0,0
+1607893396371,6,Logout,200,,Thread-Gruppe 1-1,text,true,,10479,1833,9,9,2,0,0
+1607893396372,5,Logout,200,,Thread-Gruppe 1-8,text,true,,10479,1830,9,9,1,0,0
+1607893396371,2,Logout-0,302,,Thread-Gruppe 1-1,,true,,1344,1095,9,9,2,0,0
+1607893396372,1,Logout-0,302,,Thread-Gruppe 1-8,,true,,1344,1092,9,9,1,0,0
+1607893396373,4,Logout-1,200,,Thread-Gruppe 1-1,text,true,,9135,738,9,9,4,0,0
+1607893396373,4,Logout-1,200,,Thread-Gruppe 1-8,text,true,,9135,738,9,9,4,0,0
+1607893396361,19,Add Product 2 to Cart,200,,Thread-Gruppe 1-9,text,true,,29632,1989,8,8,2,0,0
+1607893396361,2,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-9,,true,,1003,993,8,8,2,0,0
+1607893396363,17,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-9,text,true,,28629,996,8,8,17,0,0
+1607893396371,9,List Products,200,,Thread-Gruppe 1-5,text,true,,108144,775,8,8,8,0,0
+1607893396371,9,List Products with different page,200,,Thread-Gruppe 1-6,text,true,,98216,900,8,8,8,0,0
+1607893396378,3,Home,200,,Thread-Gruppe 1-8,text,true,,8822,150,8,8,3,0,0
+1607893396373,8,List Products,200,,Thread-Gruppe 1-10,text,true,,108144,774,8,8,7,0,0
+1607893396376,7,List Products with different page,200,,Thread-Gruppe 1-3,text,true,,100760,900,8,8,7,0,0
+1607893396372,14,Look at Product,200,,Thread-Gruppe 1-7,text,true,,142415,762,8,8,14,0,0
+1607893396380,8,Logout,200,,Thread-Gruppe 1-9,text,true,,10479,1832,8,8,2,0,0
+1607893396380,2,Logout-0,302,,Thread-Gruppe 1-9,,true,,1344,1094,8,8,2,0,0
+1607893396382,6,Logout-1,200,,Thread-Gruppe 1-9,text,true,,9135,738,8,8,6,0,0
+1607893396376,13,Add Product to Cart,200,,Thread-Gruppe 1-4,text,true,,28925,1743,8,8,2,0,0
+1607893396376,2,Add Product to Cart-0,302,,Thread-Gruppe 1-4,,true,,884,866,8,8,2,0,0
+1607893396379,10,Add Product to Cart-1,200,,Thread-Gruppe 1-4,text,true,,28041,877,8,8,10,0,0
+1607893396381,9,Login,200,,Thread-Gruppe 1-8,text,true,,10102,1024,8,8,6,0,0
+1607893396381,6,Login-0,302,,Thread-Gruppe 1-8,,true,,753,278,8,8,6,0,0
+1607893396387,3,Login-1,200,,Thread-Gruppe 1-8,text,true,,9349,746,8,8,3,0,0
+1607893396388,2,Home,200,,Thread-Gruppe 1-9,text,true,,8822,150,8,8,2,0,0
+1607893396386,9,Add Product to Cart,200,,Thread-Gruppe 1-7,text,true,,26766,1745,8,8,2,0,0
+1607893396386,2,Add Product to Cart-0,302,,Thread-Gruppe 1-7,,true,,885,867,8,8,2,0,0
+1607893396388,7,Add Product to Cart-1,200,,Thread-Gruppe 1-7,text,true,,25881,878,8,8,7,0,0
+1607893396384,13,Add Product 2 to Cart,200,,Thread-Gruppe 1-3,text,true,,24919,1989,8,8,3,0,0
+1607893396384,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-3,,true,,1003,993,8,8,3,0,0
+1607893396387,10,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-3,text,true,,23916,996,8,8,10,0,0
+1607893396381,17,Add Product 2 to Cart,200,,Thread-Gruppe 1-6,text,true,,26549,1989,8,8,2,0,0
+1607893396381,2,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-6,,true,,1003,993,8,8,2,0,0
+1607893396383,15,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-6,text,true,,25546,996,8,8,15,0,0
+1607893396390,8,List Products with different page,200,,Thread-Gruppe 1-4,text,true,,105728,899,8,8,6,0,0
+1607893396380,18,Look at Product,200,,Thread-Gruppe 1-5,text,true,,91042,763,8,8,18,0,0
+1607893396390,8,List Products,200,,Thread-Gruppe 1-8,text,true,,147011,772,8,8,6,0,0
+1607893396382,17,Look at Product,200,,Thread-Gruppe 1-10,text,true,,93385,762,8,8,16,0,0
+1607893396390,11,Login,200,,Thread-Gruppe 1-9,text,true,,10103,1025,8,8,8,0,0
+1607893396390,8,Login-0,302,,Thread-Gruppe 1-9,,true,,754,278,8,8,8,0,0
+1607893396398,3,Login-1,200,,Thread-Gruppe 1-9,text,true,,9349,747,8,8,3,0,0
+1607893396398,5,Logout,200,,Thread-Gruppe 1-6,text,true,,10479,1832,8,8,2,0,0
+1607893396397,6,Logout,200,,Thread-Gruppe 1-3,text,true,,10479,1832,8,8,3,0,0
+1607893396398,2,Logout-0,302,,Thread-Gruppe 1-6,,true,,1344,1094,8,8,2,0,0
+1607893396397,3,Logout-0,302,,Thread-Gruppe 1-3,,true,,1344,1094,8,8,3,0,0
+1607893396400,3,Logout-1,200,,Thread-Gruppe 1-6,text,true,,9135,738,8,8,3,0,0
+1607893396400,3,Logout-1,200,,Thread-Gruppe 1-3,text,true,,9135,738,8,8,3,0,0
+1607893396404,2,Home,200,,Thread-Gruppe 1-6,text,true,,8822,150,7,7,2,0,0
+1607893396396,10,List Products with different page,200,,Thread-Gruppe 1-7,text,true,,144803,847,7,7,8,0,0
+1607893396402,7,List Products,200,,Thread-Gruppe 1-9,text,true,,118983,773,7,7,6,0,0
+1607893396399,13,Look at Product,200,,Thread-Gruppe 1-8,text,true,,149162,760,7,7,11,0,0
+1607893396398,14,Add Product to Cart,200,,Thread-Gruppe 1-5,text,true,,25164,1747,7,7,3,0,0
+1607893396398,3,Add Product to Cart-0,302,,Thread-Gruppe 1-5,,true,,886,868,7,7,3,0,0
+1607893396401,11,Add Product to Cart-1,200,,Thread-Gruppe 1-5,text,true,,24278,879,7,7,11,0,0
+1607893396399,17,Add Product to Cart,200,,Thread-Gruppe 1-10,text,true,,25755,1744,7,7,3,0,0
+1607893396398,18,Add Product 2 to Cart,200,,Thread-Gruppe 1-4,text,true,,29616,1987,7,7,4,0,0
+1607893396399,3,Add Product to Cart-0,302,,Thread-Gruppe 1-10,,true,,884,867,7,7,3,0,0
+1607893396398,4,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-4,,true,,1002,992,7,7,4,0,0
+1607893396407,9,Login,200,,Thread-Gruppe 1-6,text,true,,10105,1027,7,7,6,0,0
+1607893396402,14,Add Product to Cart-1,200,,Thread-Gruppe 1-10,text,true,,24871,877,7,7,14,0,0
+1607893396402,14,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-4,text,true,,28614,995,7,7,14,0,0
+1607893396407,6,Login-0,302,,Thread-Gruppe 1-6,,true,,756,278,7,7,6,0,0
+1607893396413,3,Login-1,200,,Thread-Gruppe 1-6,text,true,,9349,749,7,7,3,0,0
+1607893396416,96,Logout,200,,Thread-Gruppe 1-4,text,true,,10479,1831,7,7,2,0,0
+1607893396416,2,Logout-0,302,,Thread-Gruppe 1-4,,true,,1344,1093,7,7,2,0,0
+1607893396418,94,Logout-1,200,,Thread-Gruppe 1-4,text,true,,9135,738,7,7,94,0,0
+1607893396407,105,Add Product 2 to Cart,200,,Thread-Gruppe 1-7,text,true,,27479,1936,7,7,3,0,0
+1607893396412,100,Add Product to Cart,200,,Thread-Gruppe 1-8,text,true,,28915,1741,7,7,3,0,0
+1607893396407,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-7,,true,,1003,940,7,7,3,0,0
+1607893396412,3,Add Product to Cart-0,302,,Thread-Gruppe 1-8,,true,,883,865,7,7,3,0,0
+1607893396410,102,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-7,text,true,,26476,996,7,7,102,0,0
+1607893396415,97,Add Product to Cart-1,200,,Thread-Gruppe 1-8,text,true,,28032,876,7,7,97,0,0
+1607893396409,107,Look at Product,200,,Thread-Gruppe 1-9,text,true,,119109,761,7,7,105,0,0
+1607893396512,5,Home,200,,Thread-Gruppe 1-4,text,true,,8822,150,7,7,5,0,0
+1607893396416,102,List Products with different page,200,,Thread-Gruppe 1-10,text,true,,105728,899,7,7,101,0,0
+1607893396412,106,List Products with different page,200,,Thread-Gruppe 1-5,text,true,,106959,901,7,7,103,0,0
+1607893396416,103,List Products,200,,Thread-Gruppe 1-6,text,true,,100738,775,7,7,102,0,0
+1607893396513,8,Logout,200,,Thread-Gruppe 1-7,text,true,,10479,1832,7,7,3,0,0
+1607893396513,3,Logout-0,302,,Thread-Gruppe 1-7,,true,,1344,1094,7,7,3,0,0
+1607893396516,5,Logout-1,200,,Thread-Gruppe 1-7,text,true,,9135,738,7,7,5,0,0
+1607893396513,10,List Products with different page,200,,Thread-Gruppe 1-8,text,true,,146619,898,7,7,9,0,0
+1607893396522,3,Home,200,,Thread-Gruppe 1-7,text,true,,8822,150,7,7,3,0,0
+1607893396517,15,Login,200,,Thread-Gruppe 1-4,text,true,,10104,1026,7,7,9,0,0
+1607893396517,9,Login-0,302,,Thread-Gruppe 1-4,,true,,755,278,7,7,9,0,0
+1607893396526,6,Login-1,200,,Thread-Gruppe 1-4,text,true,,9349,748,7,7,6,0,0
+1607893396519,13,Add Product 2 to Cart,200,,Thread-Gruppe 1-5,text,true,,25862,1991,7,7,3,0,0
+1607893396519,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-5,,true,,1004,994,7,7,3,0,0
+1607893396522,10,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-5,text,true,,24858,997,7,7,10,0,0
+1607893396519,13,Add Product 2 to Cart,200,,Thread-Gruppe 1-10,text,true,,26449,1987,7,7,3,0,0
+1607893396519,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-10,,true,,1002,992,7,7,3,0,0
+1607893396522,10,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-10,text,true,,25447,995,7,7,10,0,0
+1607893396516,16,Add Product to Cart,200,,Thread-Gruppe 1-9,text,true,,28921,1743,7,7,5,0,0
+1607893396516,5,Add Product to Cart-0,302,,Thread-Gruppe 1-9,,true,,884,866,7,7,5,0,0
+1607893396521,11,Add Product to Cart-1,200,,Thread-Gruppe 1-9,text,true,,28037,877,7,7,11,0,0
+1607893396520,16,Look at Product,200,,Thread-Gruppe 1-6,text,true,,90620,763,7,7,15,0,0
+1607893396525,11,Login,200,,Thread-Gruppe 1-7,text,true,,10104,1026,7,7,7,0,0
+1607893396525,7,Login-0,302,,Thread-Gruppe 1-7,,true,,755,278,7,7,7,0,0
+1607893396532,4,Login-1,200,,Thread-Gruppe 1-7,text,true,,9349,748,7,7,4,0,0
+1607893396532,11,Logout,200,,Thread-Gruppe 1-5,text,true,,10479,1833,7,7,3,0,0
+1607893396532,11,Logout,200,,Thread-Gruppe 1-10,text,true,,10479,1831,7,7,3,0,0
+1607893396532,3,Logout-0,302,,Thread-Gruppe 1-5,,true,,1344,1095,7,7,3,0,0
+1607893396532,3,Logout-0,302,,Thread-Gruppe 1-10,,true,,1344,1093,7,7,3,0,0
+1607893396535,8,Logout-1,200,,Thread-Gruppe 1-5,text,true,,9135,738,7,7,8,0,0
+1607893396535,8,Logout-1,200,,Thread-Gruppe 1-10,text,true,,9135,738,7,7,8,0,0
+1607893396524,21,Add Product 2 to Cart,200,,Thread-Gruppe 1-8,text,true,,29628,1985,7,7,2,0,0
+1607893396524,2,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-8,,true,,1001,991,7,7,2,0,0
+1607893396526,19,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-8,text,true,,28627,994,7,7,19,0,0
+1607893396533,13,List Products with different page,200,,Thread-Gruppe 1-9,text,true,,117007,899,7,7,12,0,0
+1607893396544,3,Home,200,,Thread-Gruppe 1-10,text,true,,8822,150,7,7,3,0,0
+1607893396532,15,List Products,200,,Thread-Gruppe 1-4,text,true,,100738,774,7,7,13,0,0
+1607893396544,3,Home,200,,Thread-Gruppe 1-5,text,true,,8822,150,7,7,3,0,0
+1607893396545,5,Logout,200,,Thread-Gruppe 1-8,text,true,,10479,1830,7,7,2,0,0
+1607893396545,2,Logout-0,302,,Thread-Gruppe 1-8,,true,,1344,1092,7,7,2,0,0
+1607893396547,3,Logout-1,200,,Thread-Gruppe 1-8,text,true,,9135,738,7,7,3,0,0
+1607893396536,16,List Products,200,,Thread-Gruppe 1-7,text,true,,93444,774,7,7,13,0,0
+1607893396551,2,Home,200,,Thread-Gruppe 1-8,text,true,,8822,150,7,7,2,0,0
+1607893396536,20,Add Product to Cart,200,,Thread-Gruppe 1-6,text,true,,25875,1747,7,7,9,0,0
+1607893396536,9,Add Product to Cart-0,302,,Thread-Gruppe 1-6,,true,,886,868,7,7,9,0,0
+1607893396545,11,Add Product to Cart-1,200,,Thread-Gruppe 1-6,text,true,,24989,879,7,7,11,0,0
+1607893396547,10,Login,200,,Thread-Gruppe 1-10,text,true,,10104,1027,7,7,7,0,0
+1607893396547,7,Login-0,302,,Thread-Gruppe 1-10,,true,,755,279,7,7,7,0,0
+1607893396555,2,Login-1,200,,Thread-Gruppe 1-10,text,true,,9349,748,7,7,2,0,0
+1607893396547,11,Look at Product,200,,Thread-Gruppe 1-4,text,true,,98745,762,7,7,10,0,0
+1607893396547,11,Login,200,,Thread-Gruppe 1-5,text,true,,10105,1027,7,7,7,0,0
+1607893396547,7,Login-0,302,,Thread-Gruppe 1-5,,true,,756,278,7,7,7,0,0
+1607893396555,3,Login-1,200,,Thread-Gruppe 1-5,text,true,,9349,749,7,7,3,0,0
+1607893396546,17,Add Product 2 to Cart,200,,Thread-Gruppe 1-9,text,true,,29611,1987,7,7,3,0,0
+1607893396546,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-9,,true,,1002,992,7,7,3,0,0
+1607893396549,14,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-9,text,true,,28609,995,7,7,14,0,0
+1607893396554,10,Login,200,,Thread-Gruppe 1-8,text,true,,10104,1026,7,7,7,0,0
+1607893396554,7,Login-0,302,,Thread-Gruppe 1-8,,true,,755,278,7,7,7,0,0
+1607893396561,3,Login-1,200,,Thread-Gruppe 1-8,text,true,,9349,748,7,7,3,0,0
+1607893396557,7,List Products with different page,200,,Thread-Gruppe 1-6,text,true,,101683,901,7,7,6,0,0
+1607893396558,6,List Products,200,,Thread-Gruppe 1-5,text,true,,119002,775,7,7,5,0,0
+1607893396557,8,List Products,200,,Thread-Gruppe 1-10,text,true,,118983,774,7,7,6,0,0
+1607893396552,16,Look at Product,200,,Thread-Gruppe 1-7,text,true,,94600,761,7,7,14,0,0
+1607893396564,8,Logout,200,,Thread-Gruppe 1-9,text,true,,10479,1831,7,7,4,0,0
+1607893396564,4,Logout-0,302,,Thread-Gruppe 1-9,,true,,1344,1093,7,7,4,0,0
+1607893396568,4,Logout-1,200,,Thread-Gruppe 1-9,text,true,,9135,738,7,7,4,0,0
+1607893396565,7,List Products,200,,Thread-Gruppe 1-8,text,true,,100738,774,7,7,7,0,0
+1607893396558,17,Add Product to Cart,200,,Thread-Gruppe 1-4,text,true,,28930,1745,7,7,3,0,0
+1607893396558,3,Add Product to Cart-0,302,,Thread-Gruppe 1-4,,true,,885,867,7,7,3,0,0
+1607893396561,14,Add Product to Cart-1,200,,Thread-Gruppe 1-4,text,true,,28045,878,7,7,13,0,0
+1607893396572,3,Home,200,,Thread-Gruppe 1-9,text,true,,8822,150,7,7,3,0,0
+1607893396565,14,Add Product 2 to Cart,200,,Thread-Gruppe 1-6,text,true,,26574,1991,7,7,3,0,0
+1607893396565,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-6,,true,,1004,994,7,7,3,0,0
+1607893396568,11,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-6,text,true,,25570,997,7,7,11,0,0
+1607893396566,15,Look at Product,200,,Thread-Gruppe 1-10,text,true,,106520,762,7,7,14,0,0
+1607893396568,14,Add Product to Cart,200,,Thread-Gruppe 1-7,text,true,,26761,1742,7,7,3,0,0
+1607893396568,3,Add Product to Cart-0,302,,Thread-Gruppe 1-7,,true,,883,866,7,7,3,0,0
+1607893396571,11,Add Product to Cart-1,200,,Thread-Gruppe 1-7,text,true,,25878,876,7,7,10,0,0
+1607893396575,8,List Products with different page,200,,Thread-Gruppe 1-4,text,true,,101683,900,7,7,7,0,0
+1607893396565,20,Look at Product,200,,Thread-Gruppe 1-5,text,true,,104798,763,7,7,19,0,1
+1607893396579,6,Logout,200,,Thread-Gruppe 1-6,text,true,,10479,1833,7,7,2,0,0
+1607893396579,2,Logout-0,302,,Thread-Gruppe 1-6,,true,,1344,1095,7,7,2,0,0
+1607893396582,3,Logout-1,200,,Thread-Gruppe 1-6,text,true,,9135,738,7,7,3,0,0
+1607893396576,10,Login,200,,Thread-Gruppe 1-9,text,true,,10105,1027,7,7,7,0,0
+1607893396576,7,Login-0,302,,Thread-Gruppe 1-9,,true,,756,278,7,7,7,0,0
+1607893396583,3,Login-1,200,,Thread-Gruppe 1-9,text,true,,9349,749,7,7,3,0,0
+1607893396573,14,Look at Product,200,,Thread-Gruppe 1-8,text,true,,100798,762,7,7,13,0,0
+1607893396585,3,Home,200,,Thread-Gruppe 1-6,text,true,,8822,150,7,7,3,0,0
+1607893396582,8,List Products with different page,200,,Thread-Gruppe 1-7,text,true,,93464,898,7,7,8,0,0
+1607893396587,9,List Products,200,,Thread-Gruppe 1-9,text,true,,118983,775,7,7,8,0,0
+1607893396581,18,Add Product to Cart,200,,Thread-Gruppe 1-10,text,true,,25762,1745,7,7,3,0,0
+1607893396581,3,Add Product to Cart-0,302,,Thread-Gruppe 1-10,,true,,885,867,7,7,3,0,0
+1607893396584,15,Add Product to Cart-1,200,,Thread-Gruppe 1-10,text,true,,24877,878,7,7,15,0,0
+1607893396589,11,Login,200,,Thread-Gruppe 1-6,text,true,,10104,1026,7,7,8,0,0
+1607893396585,15,Add Product to Cart,200,,Thread-Gruppe 1-5,text,true,,25160,1747,7,7,3,0,0
+1607893396589,8,Login-0,302,,Thread-Gruppe 1-6,,true,,755,278,7,7,8,0,0
+1607893396585,3,Add Product to Cart-0,302,,Thread-Gruppe 1-5,,true,,886,868,7,7,3,0,0
+1607893396597,3,Login-1,200,,Thread-Gruppe 1-6,text,true,,9349,748,7,7,3,0,0
+1607893396588,12,Add Product to Cart-1,200,,Thread-Gruppe 1-5,text,true,,24274,879,7,7,12,0,0
+1607893396583,18,Add Product 2 to Cart,200,,Thread-Gruppe 1-4,text,true,,29624,1989,7,7,5,0,0
+1607893396583,5,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-4,,true,,1003,993,7,7,5,0,0
+1607893396588,13,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-4,text,true,,28621,996,7,7,13,0,0
+1607893396587,15,Add Product to Cart,200,,Thread-Gruppe 1-8,text,true,,28916,1746,7,7,2,0,0
+1607893396587,2,Add Product to Cart-0,302,,Thread-Gruppe 1-8,,true,,886,867,7,7,2,0,0
+1607893396589,13,Add Product to Cart-1,200,,Thread-Gruppe 1-8,text,true,,28030,879,7,7,13,0,0
+1607893396599,8,List Products with different page,200,,Thread-Gruppe 1-10,text,true,,118128,900,7,7,7,0,0
+1607893396600,7,List Products,200,,Thread-Gruppe 1-6,text,true,,93463,774,7,7,6,0,0
+1607893396591,17,Add Product 2 to Cart,200,,Thread-Gruppe 1-7,text,true,,27447,1983,7,7,4,0,0
+1607893396591,4,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-7,,true,,1000,990,7,7,4,0,0
+1607893396595,13,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-7,text,true,,26447,993,7,7,13,0,0
+1607893396600,8,List Products with different page,200,,Thread-Gruppe 1-5,text,true,,118128,901,7,7,6,0,0
+1607893396602,7,Logout,200,,Thread-Gruppe 1-4,text,true,,10479,1832,7,7,2,0,0
+1607893396602,2,Logout-0,302,,Thread-Gruppe 1-4,,true,,1344,1094,7,7,2,0,0
+1607893396605,4,Logout-1,200,,Thread-Gruppe 1-4,text,true,,9135,738,7,7,4,0,0
+1607893396597,13,Look at Product,200,,Thread-Gruppe 1-9,text,true,,119253,763,6,6,12,0,0
+1607893396603,9,List Products with different page,200,,Thread-Gruppe 1-8,text,true,,99139,901,6,6,7,0,0
+1607893396608,5,Logout,200,,Thread-Gruppe 1-7,text,true,,10479,1829,6,6,2,0,0
+1607893396608,2,Logout-0,302,,Thread-Gruppe 1-7,,true,,1344,1091,6,6,2,0,0
+1607893396610,3,Logout-1,200,,Thread-Gruppe 1-7,text,true,,9135,738,6,6,3,0,0
+1607893396614,2,Home,200,,Thread-Gruppe 1-7,text,true,,8822,150,6,6,2,0,0
+1607893396608,12,Look at Product,200,,Thread-Gruppe 1-6,text,true,,90837,761,6,6,11,0,0
+1607893396607,14,Add Product 2 to Cart,200,,Thread-Gruppe 1-10,text,true,,26458,1989,6,6,4,0,0
+1607893396607,4,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-10,,true,,1003,993,6,6,4,0,0
+1607893396611,10,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-10,text,true,,25455,996,6,6,10,0,0
+1607893396609,13,Add Product 2 to Cart,200,,Thread-Gruppe 1-5,text,true,,25860,1991,6,6,3,0,0
+1607893396611,11,Add Product to Cart,200,,Thread-Gruppe 1-9,text,true,,28925,1747,6,6,2,0,0
+1607893396609,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-5,,true,,1004,994,6,6,3,0,0
+1607893396612,10,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-5,text,true,,24856,997,6,6,10,0,0
+1607893396611,2,Add Product to Cart-0,302,,Thread-Gruppe 1-9,,true,,886,868,6,6,2,0,0
+1607893396613,9,Add Product to Cart-1,200,,Thread-Gruppe 1-9,text,true,,28039,879,6,6,9,0,0
+1607893396622,9,Logout,200,,Thread-Gruppe 1-5,text,true,,10479,1833,6,6,2,0,0
+1607893396622,2,Logout-0,302,,Thread-Gruppe 1-5,,true,,1344,1095,6,6,2,0,0
+1607893396624,7,Logout-1,200,,Thread-Gruppe 1-5,text,true,,9135,738,6,6,7,0,0
+1607893396617,15,Login,200,,Thread-Gruppe 1-7,text,true,,10104,1026,6,6,8,0,0
+1607893396617,8,Login-0,302,,Thread-Gruppe 1-7,,true,,755,278,6,6,8,0,0
+1607893396625,7,Login-1,200,,Thread-Gruppe 1-7,text,true,,9349,748,6,6,7,0,0
+1607893396621,11,Logout,200,,Thread-Gruppe 1-10,text,true,,10479,1832,6,6,4,0,0
+1607893396621,4,Logout-0,302,,Thread-Gruppe 1-10,,true,,1344,1094,6,6,4,0,0
+1607893396625,7,Logout-1,200,,Thread-Gruppe 1-10,text,true,,9135,738,6,6,7,0,0
+1607893396632,2,Home,200,,Thread-Gruppe 1-5,text,true,,8822,150,6,6,2,0,0
+1607893396632,3,Home,200,,Thread-Gruppe 1-10,text,true,,8822,150,6,6,3,0,0
+1607893396620,16,Add Product to Cart,200,,Thread-Gruppe 1-6,text,true,,25844,1742,6,6,2,0,0
+1607893396620,2,Add Product to Cart-0,302,,Thread-Gruppe 1-6,,true,,883,866,6,6,2,0,0
+1607893396622,14,Add Product to Cart-1,200,,Thread-Gruppe 1-6,text,true,,24961,876,6,6,13,0,0
+1607893396613,23,Add Product 2 to Cart,200,,Thread-Gruppe 1-8,text,true,,29601,1991,6,6,3,0,0
+1607893396613,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-8,,true,,1004,994,6,6,3,0,0
+1607893396616,20,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-8,text,true,,28597,997,6,6,20,0,0
+1607893396622,17,List Products with different page,200,,Thread-Gruppe 1-9,text,true,,117007,901,6,6,17,0,0
+1607893396632,7,List Products,200,,Thread-Gruppe 1-7,text,true,,108144,774,6,6,6,0,0
+1607893396636,5,Logout,200,,Thread-Gruppe 1-8,text,true,,10479,1833,6,6,2,0,0
+1607893396636,2,Logout-0,302,,Thread-Gruppe 1-8,,true,,1344,1095,6,6,2,0,0
+1607893396638,3,Logout-1,200,,Thread-Gruppe 1-8,text,true,,9135,738,6,6,3,0,0
+1607893396641,3,Home,200,,Thread-Gruppe 1-8,text,true,,8822,150,6,6,2,0,0
+1607893396635,11,Login,200,,Thread-Gruppe 1-5,text,true,,10104,1026,6,6,8,0,0
+1607893396635,8,Login-0,302,,Thread-Gruppe 1-5,,true,,755,278,6,6,8,0,0
+1607893396643,3,Login-1,200,,Thread-Gruppe 1-5,text,true,,9349,748,6,6,3,0,0
+1607893396636,11,Login,200,,Thread-Gruppe 1-10,text,true,,10104,1027,6,6,7,0,0
+1607893396636,7,Login-0,302,,Thread-Gruppe 1-10,,true,,755,279,6,6,7,0,0
+1607893396644,3,Login-1,200,,Thread-Gruppe 1-10,text,true,,9349,748,6,6,3,0,0
+1607893396636,13,List Products with different page,200,,Thread-Gruppe 1-6,text,true,,95568,898,6,6,12,0,0
+1607893396640,12,Look at Product,200,,Thread-Gruppe 1-7,text,true,,97047,762,6,6,11,0,0
+1607893396640,12,Add Product 2 to Cart,200,,Thread-Gruppe 1-9,text,true,,29618,1991,6,6,2,0,0
+1607893396640,2,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-9,,true,,1004,994,6,6,2,0,0
+1607893396642,10,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-9,text,true,,28614,997,6,6,10,0,0
+1607893396644,9,Login,200,,Thread-Gruppe 1-8,text,true,,10104,1026,6,6,6,0,0
+1607893396644,6,Login-0,302,,Thread-Gruppe 1-8,,true,,755,278,6,6,6,0,0
+1607893396650,3,Login-1,200,,Thread-Gruppe 1-8,text,true,,9349,748,6,6,3,0,0
+1607893396647,7,List Products,200,,Thread-Gruppe 1-10,text,true,,118983,774,6,6,6,0,0
+1607893396647,7,List Products,200,,Thread-Gruppe 1-5,text,true,,118983,774,6,6,6,0,0
+1607893396652,4,Logout,200,,Thread-Gruppe 1-9,text,true,,10479,1833,6,6,2,0,0
+1607893396652,2,Logout-0,302,,Thread-Gruppe 1-9,,true,,1344,1095,6,6,2,0,0
+1607893396654,2,Logout-1,200,,Thread-Gruppe 1-9,text,true,,9135,738,6,6,2,0,0
+1607893396657,2,Home,200,,Thread-Gruppe 1-9,text,true,,8822,150,6,6,2,0,0
+1607893396653,9,List Products,200,,Thread-Gruppe 1-8,text,true,,147011,774,6,6,8,0,0
+1607893396652,12,Add Product to Cart,200,,Thread-Gruppe 1-7,text,true,,26774,1745,6,6,2,0,0
+1607893396652,2,Add Product to Cart-0,302,,Thread-Gruppe 1-7,,true,,885,867,6,6,2,0,0
+1607893396655,9,Add Product to Cart-1,200,,Thread-Gruppe 1-7,text,true,,25889,878,6,6,9,0,0
+1607893396655,11,Look at Product,200,,Thread-Gruppe 1-10,text,true,,106872,762,6,6,10,0,0
+1607893396655,11,Look at Product,200,,Thread-Gruppe 1-5,text,true,,105846,762,6,6,10,0,0
+1607893396650,17,Add Product 2 to Cart,200,,Thread-Gruppe 1-6,text,true,,26525,1983,6,6,3,0,0
+1607893396650,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-6,,true,,1000,990,6,6,3,0,0
+1607893396653,14,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-6,text,true,,25525,993,6,6,14,0,0
+1607893396659,10,Login,200,,Thread-Gruppe 1-9,text,true,,10104,1026,6,6,7,0,0
+1607893396659,7,Login-0,302,,Thread-Gruppe 1-9,,true,,755,278,6,6,7,0,0
+1607893396666,3,Login-1,200,,Thread-Gruppe 1-9,text,true,,9349,748,6,6,3,0,0
+1607893396668,5,Logout,200,,Thread-Gruppe 1-6,text,true,,10479,1829,6,6,1,0,0
+1607893396668,1,Logout-0,302,,Thread-Gruppe 1-6,,true,,1344,1091,6,6,1,0,0
+1607893396669,4,Logout-1,200,,Thread-Gruppe 1-6,text,true,,9135,738,6,6,4,0,0
+1607893396664,10,List Products with different page,200,,Thread-Gruppe 1-7,text,true,,105728,900,6,6,9,0,0
+1607893396674,2,Home,200,,Thread-Gruppe 1-6,text,true,,8822,150,6,6,2,0,0
+1607893396669,9,List Products,200,,Thread-Gruppe 1-9,text,true,,93444,774,6,6,8,0,0
+1607893396663,17,Look at Product,200,,Thread-Gruppe 1-8,text,true,,149548,762,6,6,16,0,0
+1607893396666,17,Add Product to Cart,200,,Thread-Gruppe 1-10,text,true,,25764,1745,6,6,6,0,0
+1607893396666,6,Add Product to Cart-0,302,,Thread-Gruppe 1-10,,true,,885,867,6,6,6,0,0
+1607893396672,11,Add Product to Cart-1,200,,Thread-Gruppe 1-10,text,true,,24879,878,6,6,11,0,0
+1607893396667,16,Add Product to Cart,200,,Thread-Gruppe 1-5,text,true,,25163,1745,6,6,5,0,0
+1607893396667,5,Add Product to Cart-0,302,,Thread-Gruppe 1-5,,true,,885,867,6,6,5,0,0
+1607893396672,11,Add Product to Cart-1,200,,Thread-Gruppe 1-5,text,true,,24278,878,6,6,11,0,0
+1607893396674,12,Add Product 2 to Cart,200,,Thread-Gruppe 1-7,text,true,,27487,1989,6,6,2,0,0
+1607893396674,2,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-7,,true,,1003,993,6,6,2,0,0
+1607893396677,9,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-7,text,true,,26484,996,6,6,9,0,0
+1607893396678,11,Look at Product,200,,Thread-Gruppe 1-9,text,true,,101081,761,6,6,10,0,0
+1607893396677,12,Login,200,,Thread-Gruppe 1-6,text,true,,10105,1027,6,6,9,0,0
+1607893396677,9,Login-0,302,,Thread-Gruppe 1-6,,true,,756,278,6,6,9,0,0
+1607893396686,3,Login-1,200,,Thread-Gruppe 1-6,text,true,,9349,749,6,6,3,0,0
+1607893396683,7,List Products with different page,200,,Thread-Gruppe 1-10,text,true,,118128,900,6,6,6,0,0
+1607893396684,7,List Products with different page,200,,Thread-Gruppe 1-5,text,true,,118128,900,6,6,5,0,0
+1607893396687,5,Logout,200,,Thread-Gruppe 1-7,text,true,,10479,1832,6,6,2,0,0
+1607893396687,2,Logout-0,302,,Thread-Gruppe 1-7,,true,,1344,1094,6,6,2,0,0
+1607893396689,3,Logout-1,200,,Thread-Gruppe 1-7,text,true,,9135,738,6,6,3,0,0
+1607893396692,8,Home,200,,Thread-Gruppe 1-7,text,true,,8822,150,6,6,8,0,0
+1607893396680,20,Add Product to Cart,200,,Thread-Gruppe 1-8,text,true,,28914,1745,6,6,3,0,0
+1607893396680,3,Add Product to Cart-0,302,,Thread-Gruppe 1-8,,true,,885,867,6,6,3,0,0
+1607893396683,17,Add Product to Cart-1,200,,Thread-Gruppe 1-8,text,true,,28029,878,6,6,17,0,0
+1607893396690,14,List Products,200,,Thread-Gruppe 1-6,text,true,,147011,775,6,6,13,0,0
+1607893396691,18,Add Product 2 to Cart,200,,Thread-Gruppe 1-5,text,true,,25863,1989,6,6,5,0,0
+1607893396691,5,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-5,,true,,1003,993,6,6,5,0,0
+1607893396696,13,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-5,text,true,,24860,996,6,6,13,0,0
+1607893396691,18,Add Product 2 to Cart,200,,Thread-Gruppe 1-10,text,true,,26463,1990,6,6,5,0,0
+1607893396691,5,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-10,,true,,1004,993,6,6,5,0,0
+1607893396696,13,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-10,text,true,,25459,997,6,6,13,0,0
+1607893396689,20,Add Product to Cart,200,,Thread-Gruppe 1-9,text,true,,28906,1742,6,6,3,0,0
+1607893396689,3,Add Product to Cart-0,302,,Thread-Gruppe 1-9,,true,,883,866,6,6,3,0,0
+1607893396692,17,Add Product to Cart-1,200,,Thread-Gruppe 1-9,text,true,,28023,876,6,6,17,0,0
+1607893396700,11,List Products with different page,200,,Thread-Gruppe 1-8,text,true,,146619,900,6,6,9,0,0
+1607893396700,12,Login,200,,Thread-Gruppe 1-7,text,true,,10104,1026,6,6,9,0,0
+1607893396700,9,Login-0,302,,Thread-Gruppe 1-7,,true,,755,278,6,6,9,0,0
+1607893396709,3,Login-1,200,,Thread-Gruppe 1-7,text,true,,9349,748,6,6,3,0,0
+1607893396709,5,Logout,200,,Thread-Gruppe 1-5,text,true,,10479,1832,6,6,2,0,0
+1607893396709,2,Logout-0,302,,Thread-Gruppe 1-5,,true,,1344,1094,6,6,2,0,0
+1607893396711,3,Logout-1,200,,Thread-Gruppe 1-5,text,true,,9135,738,6,6,3,0,0
+1607893396709,5,Logout,200,,Thread-Gruppe 1-10,text,true,,10479,1833,6,6,2,0,0
+1607893396709,2,Logout-0,302,,Thread-Gruppe 1-10,,true,,1344,1095,6,6,2,0,0
+1607893396711,3,Logout-1,200,,Thread-Gruppe 1-10,text,true,,9135,738,6,6,3,0,0
+1607893396709,7,List Products with different page,200,,Thread-Gruppe 1-9,text,true,,93464,898,5,5,6,0,0
+1607893396705,12,Look at Product,200,,Thread-Gruppe 1-6,text,true,,139246,763,5,5,11,0,0
+1607893396714,4,Home,200,,Thread-Gruppe 1-10,text,true,,8822,150,5,5,4,0,0
+1607893396712,7,List Products,200,,Thread-Gruppe 1-7,text,true,,93463,774,5,5,7,0,0
+1607893396712,13,Add Product 2 to Cart,200,,Thread-Gruppe 1-8,text,true,,29627,1989,5,5,2,0,0
+1607893396712,2,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-8,,true,,1003,993,5,5,2,0,0
+1607893396714,11,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-8,text,true,,28624,996,5,5,10,0,0
+1607893396718,10,Add Product to Cart,200,,Thread-Gruppe 1-6,text,true,,25882,1747,5,5,2,0,0
+1607893396718,2,Add Product to Cart-0,302,,Thread-Gruppe 1-6,,true,,886,868,5,5,2,0,0
+1607893396720,8,Add Product to Cart-1,200,,Thread-Gruppe 1-6,text,true,,24996,879,5,5,8,0,0
+1607893396718,16,Login,200,,Thread-Gruppe 1-10,text,true,,10103,1026,5,5,9,0,0
+1607893396725,9,Logout,200,,Thread-Gruppe 1-8,text,true,,10479,1832,5,5,1,0,0
+1607893396718,9,Login-0,302,,Thread-Gruppe 1-10,,true,,754,279,5,5,9,0,0
+1607893396725,1,Logout-0,302,,Thread-Gruppe 1-8,,true,,1344,1094,5,5,1,0,0
+1607893396727,7,Login-1,200,,Thread-Gruppe 1-10,text,true,,9349,747,5,5,7,0,0
+1607893396726,8,Logout-1,200,,Thread-Gruppe 1-8,text,true,,9135,738,5,5,8,0,0
+1607893396717,20,Add Product 2 to Cart,200,,Thread-Gruppe 1-9,text,true,,29606,1984,5,5,3,0,0
+1607893396717,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-9,,true,,1001,990,5,5,3,0,0
+1607893396720,17,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-9,text,true,,28605,994,5,5,17,0,0
+1607893396734,3,Home,200,,Thread-Gruppe 1-8,text,true,,8822,150,5,5,3,0,0
+1607893396720,19,Look at Product,200,,Thread-Gruppe 1-7,text,true,,94600,761,5,5,18,0,0
+1607893396737,8,Logout,200,,Thread-Gruppe 1-9,text,true,,10479,1830,5,5,2,0,0
+1607893396737,2,Logout-0,302,,Thread-Gruppe 1-9,,true,,1344,1092,5,5,2,0,0
+1607893396739,6,Logout-1,200,,Thread-Gruppe 1-9,text,true,,9135,738,5,5,6,0,0
+1607893396734,11,List Products,200,,Thread-Gruppe 1-10,text,true,,118983,773,5,5,6,0,0
+1607893396729,16,List Products with different page,200,,Thread-Gruppe 1-6,text,true,,147033,901,5,5,10,0,0
+1607893396737,12,Login,200,,Thread-Gruppe 1-8,text,true,,10105,1027,5,5,8,0,0
+1607893396737,8,Login-0,302,,Thread-Gruppe 1-8,,true,,756,278,5,5,8,0,0
+1607893396745,4,Login-1,200,,Thread-Gruppe 1-8,text,true,,9349,749,5,5,4,0,0
+1607893396746,3,Home,200,,Thread-Gruppe 1-9,text,true,,8822,150,5,5,3,0,0
+1607893396739,16,Add Product to Cart,200,,Thread-Gruppe 1-7,text,true,,26761,1742,5,5,6,0,0
+1607893396739,6,Add Product to Cart-0,302,,Thread-Gruppe 1-7,,true,,883,866,5,5,6,0,0
+1607893396745,10,Add Product to Cart-1,200,,Thread-Gruppe 1-7,text,true,,25878,876,5,5,9,0,0
+1607893396749,10,List Products,200,,Thread-Gruppe 1-8,text,true,,100757,775,5,5,5,0,0
+1607893396746,14,Look at Product,200,,Thread-Gruppe 1-10,text,true,,106942,761,5,5,14,0,0
+1607893396749,13,Login,200,,Thread-Gruppe 1-9,text,true,,10103,1025,5,5,10,0,0
+1607893396749,10,Login-0,302,,Thread-Gruppe 1-9,,true,,754,278,5,5,10,0,0
+1607893396759,3,Login-1,200,,Thread-Gruppe 1-9,text,true,,9349,747,5,5,3,0,0
+1607893396746,17,Add Product 2 to Cart,200,,Thread-Gruppe 1-6,text,true,,26568,1990,5,5,2,0,0
+1607893396746,2,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-6,,true,,1003,994,5,5,2,0,0
+1607893396749,14,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-6,text,true,,25565,996,5,5,14,0,0
+1607893396755,12,List Products with different page,200,,Thread-Gruppe 1-7,text,true,,93464,898,5,5,10,0,0
+1607893396763,5,Logout,200,,Thread-Gruppe 1-6,text,true,,10479,1832,5,5,2,0,0
+1607893396763,2,Logout-0,302,,Thread-Gruppe 1-6,,true,,1344,1094,5,5,2,0,0
+1607893396765,3,Logout-1,200,,Thread-Gruppe 1-6,text,true,,9135,738,5,5,3,0,0
+1607893396759,12,Look at Product,200,,Thread-Gruppe 1-8,text,true,,99678,763,4,4,12,0,1
+1607893396763,9,List Products,200,,Thread-Gruppe 1-9,text,true,,93463,773,4,4,8,0,0
+1607893396760,14,Add Product to Cart,200,,Thread-Gruppe 1-10,text,true,,25758,1743,4,4,3,0,0
+1607893396760,3,Add Product to Cart-0,302,,Thread-Gruppe 1-10,,true,,884,866,4,4,3,0,0
+1607893396763,11,Add Product to Cart-1,200,,Thread-Gruppe 1-10,text,true,,24874,877,4,4,11,0,0
+1607893396767,12,Add Product 2 to Cart,200,,Thread-Gruppe 1-7,text,true,,27473,1984,4,4,3,0,0
+1607893396767,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-7,,true,,1001,990,4,4,3,0,0
+1607893396770,9,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-7,text,true,,26472,994,4,4,9,0,0
+1607893396774,7,List Products with different page,200,,Thread-Gruppe 1-10,text,true,,118128,899,4,4,6,0,0
+1607893396772,10,Look at Product,200,,Thread-Gruppe 1-9,text,true,,101170,760,4,4,9,0,0
+1607893396772,11,Add Product to Cart,200,,Thread-Gruppe 1-8,text,true,,28924,1747,4,4,2,0,0
+1607893396772,2,Add Product to Cart-0,302,,Thread-Gruppe 1-8,,true,,886,868,4,4,2,0,0
+1607893396774,9,Add Product to Cart-1,200,,Thread-Gruppe 1-8,text,true,,28038,879,4,4,8,0,0
+1607893396780,5,Logout,200,,Thread-Gruppe 1-7,text,true,,10479,1830,4,4,2,0,0
+1607893396780,2,Logout-0,302,,Thread-Gruppe 1-7,,true,,1344,1092,4,4,2,0,0
+1607893396782,3,Logout-1,200,,Thread-Gruppe 1-7,text,true,,9135,738,4,4,3,0,0
+1607893396785,2,Home,200,,Thread-Gruppe 1-7,text,true,,8822,150,4,4,2,0,0
+1607893396783,7,List Products with different page,200,,Thread-Gruppe 1-8,text,true,,99139,901,4,4,6,0,0
+1607893396781,12,Add Product 2 to Cart,200,,Thread-Gruppe 1-10,text,true,,26467,1987,4,4,3,0,0
+1607893396781,3,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-10,,true,,1002,992,4,4,3,0,0
+1607893396784,9,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-10,text,true,,25465,995,4,4,9,0,0
+1607893396782,12,Add Product to Cart,200,,Thread-Gruppe 1-9,text,true,,28899,1740,4,4,3,0,0
+1607893396782,3,Add Product to Cart-0,302,,Thread-Gruppe 1-9,,true,,882,865,4,4,3,0,0
+1607893396785,9,Add Product to Cart-1,200,,Thread-Gruppe 1-9,text,true,,28017,875,4,4,9,0,0
+1607893396794,4,Logout,200,,Thread-Gruppe 1-10,text,true,,10479,1831,4,4,1,0,0
+1607893396787,11,Login,200,,Thread-Gruppe 1-7,text,true,,10105,1027,4,4,8,0,0
+1607893396794,1,Logout-0,302,,Thread-Gruppe 1-10,,true,,1344,1093,4,4,1,0,0
+1607893396787,8,Login-0,302,,Thread-Gruppe 1-7,,true,,756,278,4,4,8,0,0
+1607893396795,3,Logout-1,200,,Thread-Gruppe 1-10,text,true,,9135,738,4,4,3,0,0
+1607893396795,3,Login-1,200,,Thread-Gruppe 1-7,text,true,,9349,749,4,4,3,0,0
+1607893396799,2,Home,200,,Thread-Gruppe 1-10,text,true,,8822,150,4,4,2,0,0
+1607893396794,9,List Products with different page,200,,Thread-Gruppe 1-9,text,true,,93464,897,4,4,7,0,0
+1607893396791,14,Add Product 2 to Cart,200,,Thread-Gruppe 1-8,text,true,,29635,1991,4,4,2,0,0
+1607893396791,2,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-8,,true,,1004,994,4,4,2,0,0
+1607893396793,12,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-8,text,true,,28631,997,4,4,12,0,0
+1607893396799,6,List Products,200,,Thread-Gruppe 1-7,text,true,,108144,775,4,4,5,0,0
+1607893396805,4,Logout,200,,Thread-Gruppe 1-8,text,true,,10479,1833,4,4,1,0,0
+1607893396805,1,Logout-0,302,,Thread-Gruppe 1-8,,true,,1344,1095,4,4,1,0,0
+1607893396807,2,Logout-1,200,,Thread-Gruppe 1-8,text,true,,9135,738,4,4,2,0,0
+1607893396802,9,Login,200,,Thread-Gruppe 1-10,text,true,,10104,1027,4,4,6,0,0
+1607893396802,6,Login-0,302,,Thread-Gruppe 1-10,,true,,755,279,4,4,6,0,0
+1607893396809,2,Login-1,200,,Thread-Gruppe 1-10,text,true,,9349,748,4,4,2,0,0
+1607893396809,2,Home,200,,Thread-Gruppe 1-8,text,true,,8822,150,4,4,2,0,0
+1607893396803,11,Add Product 2 to Cart,200,,Thread-Gruppe 1-9,text,true,,29585,1982,4,4,2,0,0
+1607893396803,2,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-9,,true,,1000,989,4,4,2,0,0
+1607893396805,9,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-9,text,true,,28585,993,4,4,9,0,0
+1607893396806,10,Look at Product,200,,Thread-Gruppe 1-7,text,true,,98048,763,4,4,10,0,0
+1607893396811,7,List Products,200,,Thread-Gruppe 1-10,text,true,,108163,774,4,4,6,0,0
+1607893396815,4,Logout,200,,Thread-Gruppe 1-9,text,true,,10479,1829,4,4,1,0,0
+1607893396815,1,Logout-0,302,,Thread-Gruppe 1-9,,true,,1344,1091,4,4,1,0,0
+1607893396817,2,Logout-1,200,,Thread-Gruppe 1-9,text,true,,9135,738,4,4,2,0,0
+1607893396811,11,Login,200,,Thread-Gruppe 1-8,text,true,,10103,1025,4,4,8,0,0
+1607893396811,8,Login-0,302,,Thread-Gruppe 1-8,,true,,754,278,4,4,8,0,0
+1607893396819,3,Login-1,200,,Thread-Gruppe 1-8,text,true,,9349,747,4,4,3,0,0
+1607893396819,3,Home,200,,Thread-Gruppe 1-9,text,true,,8822,150,4,4,2,0,0
+1607893396817,10,Add Product to Cart,200,,Thread-Gruppe 1-7,text,true,,26768,1747,4,4,1,0,0
+1607893396817,1,Add Product to Cart-0,302,,Thread-Gruppe 1-7,,true,,886,868,4,4,1,0,0
+1607893396818,9,Add Product to Cart-1,200,,Thread-Gruppe 1-7,text,true,,25882,879,4,4,9,0,0
+1607893396818,11,Look at Product,200,,Thread-Gruppe 1-10,text,true,,91936,762,4,4,10,0,0
+1607893396822,7,List Products,200,,Thread-Gruppe 1-8,text,true,,118983,773,4,4,6,0,0
+1607893396822,11,Login,200,,Thread-Gruppe 1-9,text,true,,10103,1025,4,4,8,0,0
+1607893396822,8,Login-0,302,,Thread-Gruppe 1-9,,true,,754,278,4,4,8,0,0
+1607893396830,3,Login-1,200,,Thread-Gruppe 1-9,text,true,,9349,747,4,4,3,0,0
+1607893396827,9,List Products with different page,200,,Thread-Gruppe 1-7,text,true,,106959,901,4,4,7,0,0
+1607893396833,15,List Products,200,,Thread-Gruppe 1-9,text,true,,100738,773,4,4,6,0,0
+1607893396830,19,Look at Product,200,,Thread-Gruppe 1-8,text,true,,119253,761,4,4,18,0,0
+1607893396830,20,Add Product to Cart,200,,Thread-Gruppe 1-10,text,true,,25766,1703,4,4,2,0,0
+1607893396830,2,Add Product to Cart-0,302,,Thread-Gruppe 1-10,,true,,885,825,4,4,2,0,0
+1607893396832,18,Add Product to Cart-1,200,,Thread-Gruppe 1-10,text,true,,24881,878,4,4,18,0,0
+1607893396836,24,Add Product 2 to Cart,200,,Thread-Gruppe 1-7,text,true,,27472,1991,4,4,11,0,0
+1607893396836,11,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-7,,true,,1004,994,4,4,11,0,0
+1607893396847,13,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-7,text,true,,26468,997,4,4,13,0,0
+1607893396849,15,Look at Product,200,,Thread-Gruppe 1-9,text,true,,100616,761,4,4,13,0,0
+1607893396850,14,List Products with different page,200,,Thread-Gruppe 1-10,text,true,,106843,900,4,4,12,0,0
+1607893396860,6,Logout,200,,Thread-Gruppe 1-7,text,true,,10479,1833,4,4,2,0,0
+1607893396860,2,Logout-0,302,,Thread-Gruppe 1-7,,true,,1344,1095,4,4,2,0,0
+1607893396862,4,Logout-1,200,,Thread-Gruppe 1-7,text,true,,9135,738,4,4,4,0,0
+1607893396849,17,Add Product to Cart,200,,Thread-Gruppe 1-8,text,true,,28923,1743,4,4,7,0,0
+1607893396849,7,Add Product to Cart-0,302,,Thread-Gruppe 1-8,,true,,884,866,4,4,7,0,0
+1607893396856,10,Add Product to Cart-1,200,,Thread-Gruppe 1-8,text,true,,28039,877,4,4,10,0,0
+1607893396867,6,List Products with different page,200,,Thread-Gruppe 1-8,text,true,,119005,899,3,3,5,0,0
+1607893396864,11,Add Product to Cart,200,,Thread-Gruppe 1-9,text,true,,28929,1743,3,3,2,0,0
+1607893396864,2,Add Product to Cart-0,302,,Thread-Gruppe 1-9,,true,,884,866,3,3,2,0,0
+1607893396866,9,Add Product to Cart-1,200,,Thread-Gruppe 1-9,text,true,,28045,877,3,3,9,0,0
+1607893396865,11,Add Product 2 to Cart,200,,Thread-Gruppe 1-10,text,true,,26469,1990,3,3,2,0,0
+1607893396865,2,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-10,,true,,1004,993,3,3,2,0,0
+1607893396867,9,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-10,text,true,,25465,997,3,3,8,0,0
+1607893396876,4,Logout,200,,Thread-Gruppe 1-10,text,true,,10479,1833,3,3,1,0,0
+1607893396876,1,Logout-0,302,,Thread-Gruppe 1-10,,true,,1344,1095,3,3,1,0,0
+1607893396877,3,Logout-1,200,,Thread-Gruppe 1-10,text,true,,9135,738,3,3,3,0,0
+1607893396880,2,Home,200,,Thread-Gruppe 1-10,text,true,,8822,150,3,3,2,0,0
+1607893396876,6,List Products with different page,200,,Thread-Gruppe 1-9,text,true,,99009,899,3,3,5,0,0
+1607893396874,11,Add Product 2 to Cart,200,,Thread-Gruppe 1-8,text,true,,29629,1987,3,3,2,0,0
+1607893396874,2,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-8,,true,,1002,992,3,3,2,0,0
+1607893396876,9,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-8,text,true,,28627,995,3,3,8,0,0
+1607893396885,4,Logout,200,,Thread-Gruppe 1-8,text,true,,10479,1831,3,3,1,0,0
+1607893396885,1,Logout-0,302,,Thread-Gruppe 1-8,,true,,1344,1093,3,3,1,0,0
+1607893396886,3,Logout-1,200,,Thread-Gruppe 1-8,text,true,,9135,738,3,3,3,0,0
+1607893396882,11,Login,200,,Thread-Gruppe 1-10,text,true,,10104,1027,2,2,8,0,0
+1607893396882,8,Login-0,302,,Thread-Gruppe 1-10,,true,,755,279,2,2,8,0,0
+1607893396890,3,Login-1,200,,Thread-Gruppe 1-10,text,true,,9349,748,2,2,3,0,0
+1607893396882,13,Add Product 2 to Cart,200,,Thread-Gruppe 1-9,text,true,,29631,1987,2,2,2,0,0
+1607893396882,2,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-9,,true,,1002,992,2,2,2,0,0
+1607893396885,10,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-9,text,true,,28629,995,2,2,9,0,0
+1607893396895,4,Logout,200,,Thread-Gruppe 1-9,text,true,,10479,1831,2,2,1,0,0
+1607893396895,1,Logout-0,302,,Thread-Gruppe 1-9,,true,,1344,1093,2,2,1,0,0
+1607893396896,3,Logout-1,200,,Thread-Gruppe 1-9,text,true,,9135,738,2,2,3,0,0
+1607893396893,7,List Products,200,,Thread-Gruppe 1-10,text,true,,108144,774,1,1,6,0,0
+1607893396901,10,Look at Product,200,,Thread-Gruppe 1-10,text,true,,92438,762,1,1,9,0,0
+1607893396911,13,Add Product to Cart,200,,Thread-Gruppe 1-10,text,true,,25758,1745,1,1,3,0,0
+1607893396911,3,Add Product to Cart-0,302,,Thread-Gruppe 1-10,,true,,885,867,1,1,3,0,0
+1607893396914,10,Add Product to Cart-1,200,,Thread-Gruppe 1-10,text,true,,24873,878,1,1,10,0,0
+1607893396924,8,List Products with different page,200,,Thread-Gruppe 1-10,text,true,,106843,900,1,1,6,0,0
+1607893396933,12,Add Product 2 to Cart,200,,Thread-Gruppe 1-10,text,true,,26452,1989,1,1,2,0,0
+1607893396933,2,Add Product 2 to Cart-0,302,,Thread-Gruppe 1-10,,true,,1003,993,1,1,2,0,0
+1607893396935,10,Add Product 2 to Cart-1,200,,Thread-Gruppe 1-10,text,true,,25449,996,1,1,10,0,0
+1607893396946,4,Logout,200,,Thread-Gruppe 1-10,text,true,,10479,1832,1,1,1,0,0
+1607893396946,1,Logout-0,302,,Thread-Gruppe 1-10,,true,,1344,1094,1,1,1,0,0
+1607893396947,3,Logout-1,200,,Thread-Gruppe 1-10,text,true,,9135,738,1,1,3,0,0
