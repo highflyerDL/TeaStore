@@ -18,6 +18,13 @@ spec:
           image: descartesresearch/teastore-db
           ports:
             - containerPort: 3306
+          resources:
+            requests:
+              cpu: "100m"
+              memory: "200Mi"
+            limits:
+              cpu: "100m"
+              memory: "350Mi"
 ---
 apiVersion: v1
 kind: Service
@@ -53,6 +60,13 @@ spec:
           image: descartesresearch/teastore-registry
           ports:
             - containerPort: 8080
+          resources:
+            requests:
+              cpu: "100m"
+              memory: "150Mi"
+            limits:
+              cpu: "100m"
+              memory: "350Mi"
 ---
 apiVersion: v1
 kind: Service
@@ -97,6 +111,13 @@ spec:
               value: "teastore-db"
             - name: DB_PORT
               value: "3306"
+          resources:
+            requests:
+              cpu: "100m"
+              memory: "500Mi"
+            limits:
+              cpu: "100m"
+              memory: "1Gi"
 ---
 apiVersion: v1
 kind: Service
@@ -137,6 +158,13 @@ spec:
               value: "teastore-auth"
             - name: REGISTRY_HOST
               value: "teastore-registry"
+          resources:
+            requests:
+              cpu: "100m"
+              memory: "600Mi"
+            limits:
+              cpu: "100m"
+              memory: "1Gi"
 ---
 apiVersion: v1
 kind: Service
@@ -178,8 +206,12 @@ spec:
             - name: REGISTRY_HOST
               value: "teastore-registry"
           resources:
+            requests:
+              cpu: "100m"
+              memory: "800Mi"
             limits:
-              memory: "2Gi"
+              cpu: "100m"
+              memory: "1.5Gi"
 ---
 apiVersion: v1
 kind: Service
@@ -221,8 +253,12 @@ spec:
             - name: REGISTRY_HOST
               value: "teastore-registry"
           resources:
+            requests:
+              cpu: "100m"
+              memory: "600Mi"
             limits:
-              memory: "2Gi"
+              cpu: "100m"
+              memory: "1Gi"
 ---
 apiVersion: v1
 kind: Service
@@ -264,8 +300,12 @@ spec:
             - name: REGISTRY_HOST
               value: "teastore-registry"
           resources:
+            requests:
+              cpu: "100m"
+              memory: "800Mi"
             limits:
-              memory: "2.5Gi"
+              cpu: "400m"
+              memory: "2Gi"
 ---
 apiVersion: v1
 kind: Service
